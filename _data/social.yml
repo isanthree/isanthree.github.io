@@ -1,6 +1,8 @@
+# 关于：https://isanthree.github.io//about/
+
 - sitename: GitHub
-  name: mzlogin
-  url: https://github.com/mzlogin
+  name: isanthree
+  url: https://github.com/isanthree
 
 - sitename: 掘金
   name: mzlogin
@@ -11,8 +13,8 @@
   url: https://www.linkedin.com/in/mazhuang
 
 - sitename: 博客
-  name: 码志
-  url: http://mazhuang.org
+  name: focus_on_one_thing
+  url: https://isanthree.github.io/
 
 - sitename: 微博
   name: mzlogin
@@ -23,5 +25,5 @@
   url: http://www.zhihu.com/people/mzlogin
 
 - sitename: 豆瓣
-  name: 闷骚的程序员
+  name: 程序员
   url: http://www.douban.com/people/freedim
