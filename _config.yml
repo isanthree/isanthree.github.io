@@ -37,7 +37,7 @@ components:
     # 页面右上角，以及「关于」页面的二维码
     # 修改图片请替换 assets/images/qrcode.jpg
 #     qrcode:
-    qrcode_isanthree.github.io:
+    qrcode_isanthree_github_io:
         enabled: true
         image_alt: 程序员
 # 压缩页面内容
