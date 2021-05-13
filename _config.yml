@@ -7,11 +7,11 @@ date_format: "ordinal"
 title: 码志
 subtitle: "公众号：还没有公众号"
 description: "hhh的个人博客"
-keywords: hhh, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+keywords: hhh, Zhuang Ma, mzlogin, 程序员
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: mzlogin/mzlogin.github.io
+repository: isanthree/isanthree.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -52,9 +52,9 @@ highlight_theme: github
 author: hhh
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: isanthree
+location: Guangdong, China
+email: xxx@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -131,11 +131,11 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: isanthree
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: f12aa151f79f6f37d999
+        client_secret: 28d34d023131695be5c0e79704ab0c91b54d482c
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: mzlogin
@@ -152,7 +152,7 @@ simple_jekyll_search:
     # 是否支持全文搜索
     fulltext: false
     # 最多显示多少条搜索结果
-    limit: 10
+    limit: 15
 
 # ---------------- #
 #      Google      #
