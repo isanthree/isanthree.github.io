@@ -4,26 +4,26 @@
   name: isanthree
   url: https://github.com/isanthree
 
-- sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
+# - sitename: 掘金
+#   name: mzlogin
+#   url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
 
-- sitename: LinkedIn
-  name: mazhuang
-  url: https://www.linkedin.com/in/mazhuang
+# - sitename: LinkedIn
+#   name: mazhuang
+#   url: https://www.linkedin.com/in/mazhuang
 
 - sitename: 博客
   name: focus_on_one_thing
   url: https://isanthree.github.io/
 
-- sitename: 微博
-  name: mzlogin
-  url: http://weibo.com/mzlogin
+# - sitename: 微博
+#   name: mzlogin
+#   url: http://weibo.com/mzlogin
 
-- sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
+# - sitename: 知乎
+#   name: mzlogin
+#   url: http://www.zhihu.com/people/mzlogin
 
-- sitename: 豆瓣
-  name: 程序员
-  url: http://www.douban.com/people/freedim
+# - sitename: 豆瓣
+#   name: 程序员
+#   url: http://www.douban.com/people/freedim
