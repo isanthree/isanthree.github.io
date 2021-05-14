@@ -5,9 +5,9 @@ baseurl:
 url: https://isanthree.github.io/
 date_format: "ordinal"
 title: focus_on_one_thing
-subtitle: "欢迎来到我的博客"
+subtitle: "StepByStep"
 description: "自建个人博客"
-keywords: hhh, Zhuang Ma, mzlogin, 程序员
+keywords: hhh, StepByStep, mzlogin, 程序员
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
