@@ -5,7 +5,7 @@ description: 打码改变世界
 keywords: Zhuang Ma, 马壮
 comments: true
 menu: 关于
-permalink: /about
+permalink: /about/
 ---
 
 我开不了双线程，同一时间，只能专注一件事，一步又一步。
