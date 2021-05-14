@@ -19,9 +19,9 @@ mindmap: true
 ### 超链接
 
 ```
-[靠谱-ing](https://mazhuang.org)
+[靠谱-ing](https://isanthree.github.io)
 
-<https://mazhuang.org>
+<https://isanthree.github.io>
 ```
 
 [靠谱-ing](https://isanthree.github.io)  
