@@ -1,6 +1,6 @@
-- name: 码志
-  url: http://mazhuang.org
-  src: life
+# - name: 码志
+#   url: http://mazhuang.org
+#   src: life
 
 - name: Connie 酱
   url: https://connie99.github.io
