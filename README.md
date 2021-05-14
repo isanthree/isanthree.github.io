@@ -17,9 +17,9 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](https://mazhuang.org)**
+**[在线预览 &rarr;](https://isanthree.github.io)**
 
-![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](https://isanthree.github.io/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
@@ -55,7 +55,7 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 ## 使用文档
 
-- [本博客模板常见问题 Q & A](https://mazhuang.org/2020/05/03/blog-template-qna/)。
+- [本博客模板常见问题 Q & A](https://isanthree.github.io//2021/05/13/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E6%A8%A1%E6%9D%BF%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98-Q-&-A/)。
 
 - 在本地预览博客效果可以参考 [Setting up your Pages site locally with Jekyll][2]。
 
