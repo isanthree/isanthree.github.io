@@ -6,7 +6,7 @@ description: 使用 jsDelivr 加速 GitHub Pages 博客的图片资源、站内�
 keywords: GitHub, CDN, jsdelivr
 ---
 
-之前写过一篇 [使用 jsDelivr 免费加速 GitHub Pages 博客的静态资源](https://mazhuang.org/2020/05/01/cdn-for-github-pages/)，在那之后，又陆续想到并实施了几点利用 jsDelivr 进一步加速静态资源加载的措施，新起一篇作为记录和分享。
+之前写过一篇 [使用 jsDelivr 免费加速 GitHub Pages 博客的静态资源（一）](https://isanthree.github.io//2020/05/01/%E4%BD%BF%E7%94%A8-jsDelivr-%E5%85%8D%E8%B4%B9%E5%8A%A0%E9%80%9F-GitHub-Pages-%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90-%E4%B8%80/)，在那之后，又陆续想到并实施了几点利用 jsDelivr 进一步加速静态资源加载的措施，新起一篇作为记录和分享。
 
 继上一轮改造过后，比较拖页面加载速度的主要有三点：
 
@@ -26,7 +26,7 @@ keywords: GitHub, CDN, jsdelivr
 ![after use cdn](/images/posts/github/cdn-after.png)
 ```
 
-如果想将这个图片地址替换为 jsDelivr 的地址，需要做的就是将 `/images` 替换为 `https://cdn.jsdelivr.net/gh/mzlogin/mzlogin.github.io@master/images`。
+如果想将这个图片地址替换为 jsDelivr 的地址，需要做的就是将 `/images` 替换为 `https://cdn.jsdelivr.net/gh/isanthree/isanthree.github.io@master/images`。
 
 一处一处替换行不行？当然也行，但后面写新文章时要引用图片，还得手动写这一长串，不方便；万一 jsDeliver 出状况，也不好一键切换回来。有没有一劳永逸的方法？当然也有，我们从 Jekyll 的 layout 机制来想办法。
 
@@ -47,7 +47,7 @@ Jekyll 的 layout 可以理解为页面模板，它是可以继承的，比如�
 ```
 {% endraw %}
 
-大意就是，如果打开了启用 jsDelivr 加速的开关，就将 `content` 里的 `src="/images"` 替换为 `src="https://cdn.jsdelivr.net/gh/mzlogin/mzlogin.github.io@master/images"`，否则替换为 `src="https://mazhuang.org/images"`。
+大意就是，如果打开了启用 jsDelivr 加速的开关，就将 `content` 里的 `src="/images"` 替换为 `src="https://cdn.jsdelivr.net/gh/isanthree/isanthree.github.io@master/images"`，否则替换为 `src="https://isanthree.github.io/images"`。
 
 以上便达成了我们的目的。
 
@@ -57,11 +57,11 @@ Jekyll 的 layout 可以理解为页面模板，它是可以继承的，比如�
 
 这个 JSON 文件编译前长这样：
 
-<https://github.com/mzlogin/mzlogin.github.io/blob/master/assets/search_data.json>
+<https://github.com/isanthree/isanthree.github.io/blob/master/assets/search_data.json>
 
 Jekyll 编译后长这样：
 
-<https://mazhuang.org/assets/search_data.json>
+<https://isanthree.github.io/assets/search_data.json>
 
 这样的资源是没有办法直接通过替换网址来用 jsDelivr 加速的，因为 jsDelivr 上缓存的是编译前的文件，而我们需要的是编译后的。
 

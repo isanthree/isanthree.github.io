@@ -16,7 +16,7 @@ keywords: GitHub, CDN, jsdelivr
 
 ### 改造前加载
 
-![before use cdn](/images/posts/github/cdn-before.png)
+![before use cdn](../images/posts/github/cdn-before.png)
 
 *注：由于改造前没有保留加载图，所以这是截的一个使用相同模板的朋友的首页加载情况。*
 
@@ -24,13 +24,13 @@ keywords: GitHub, CDN, jsdelivr
 
 ### 改造后加载
 
-![after use cdn](/images/posts/github/cdn-after.png)
+![after use cdn](../images/posts/github/cdn-after.png)
 
 这样一对比效果还是很明显的。改造过后耗时最长的是两个没办法走 CDN 的请求，而走 CDN 的那些资源加载时间基本都没超过 60 毫秒，页面完成加载时间缩短到了 3 秒以内。
 
 当然，因为页面自身还是在 GitHub Pages 托管，有时候首个请求还是会挺久才返回。
 
-改造后的效果可以打开 <https://mazhuang.org> 体验。
+改造后的效果可以打开 <https://isanthree.github.io> 体验。
 
 ## 方案考虑
 
@@ -55,16 +55,16 @@ keywords: GitHub, CDN, jsdelivr
 
 jsDelivr 对 GitHub 的支持是作为重要特性来宣传的，官网的介绍链接：<https://www.jsdelivr.com/features#gh>，以下是一些认为需要了解的知识的小结：
 
-这里以我托管博客的 GitHub 仓库为例，地址是 `https://github.com/mzlogin/mzlogin.github.io`，那它里面的资源可以直接以 `https://cdn.jsdelivr.net/gh/mzlogin/mzlogin.github.io/` + `仓库里的文件路径` 来访问。
+这里以我托管博客的 GitHub 仓库为例，地址是 `https://github.com/isanthree/isanthree.github.io`，那它里面的资源可以直接以 `https://cdn.jsdelivr.net/gh/isanthree/isanthree.github.io/` + `仓库里的文件路径` 来访问。
 
-比如仓库里有一个 js 文件 `assets/js/main.js`，那么它可以用 CDN 链接 `https://cdn.jsdelivr.net/gh/mzlogin/mzlogin.github.io/assets/js/main.js` 来访问。
+比如仓库里有一个 js 文件 `assets/js/main.js`，那么它可以用 CDN 链接 `https://cdn.jsdelivr.net/gh/isanthree/isanthree.github.io/assets/js/main.js` 来访问。
 
 另外还支持一些高级用法，比如：
 
 1. 指定 release 版本号/提交 sha1/分支名称，例如指定获取该仓库的名称为 `1.2.0` 或 `v1.2.0` 的 release 版本资源：
 
     ```
-    https://cdn.jsdelivr.net/gh/mzlogin/mzlogin.github.io@1.2.0/assets/js/main.js
+    https://cdn.jsdelivr.net/gh/isanthree/isanthree.github.io@1.2.0/assets/js/main.js
     ```
 
     如果指定版本为 `1` 或者 `1.2`，那它会自动匹配到这个范围内的最新版本号。
@@ -74,22 +74,22 @@ jsDelivr 对 GitHub 的支持是作为重要特性来宣传的，官网的介绍
 2. 压缩资源，在 js/css 文件后缀前面加上 `.min`：
 
     ```
-    https://cdn.jsdelivr.net/gh/mzlogin/mzlogin.github.io@1.2.0/assets/js/main.min.js
+    https://cdn.jsdelivr.net/gh/isanthree/isanthree.github.io@1.2.0/assets/js/main.min.js
     ```
 
 3. 合并多个文件，用 `combine/file1,file2,file3` 格式的链接：
 
     ```
-    https://cdn.jsdelivr.net/combine/gh/mzlogin/mzlogin.github.io@1.2.0/assets/js/main.min.js,gh/mzlogin/mzlogin.github.io@1.2.0/assets/js/simple-jekyll-search.min.js
+    https://cdn.jsdelivr.net/combine/gh/isanthree/isanthree.github.io@1.2.0/assets/js/main.min.js,gh/mzlogin/mzlogin.github.io@1.2.0/assets/js/simple-jekyll-search.min.js
     ```
 
 压缩资源、合并文件的 CDN 链接在第一次有人访问时可能比较慢，后面再有人访问就快了。
 
 其它知识点：
 
-- 可以通过 `https://cdn.jsdelivr.net/combine/gh/mzlogin/mzlogin.github.io[@<版本号>]/[<文件夹>/]` 这样的路径浏览缓存文件列表；
-- 可以访问 `https://purge.jsdelivr.net/gh/mzlogin/mzlogin.github.io@1.2.0/assets/js/main.js` 来清除指定文件的缓存；（将引用的 CDN 链接里的 `cdn` 改成 `purge` 就是了）
-- 可以访问 `https://data.jsdelivr.com/v1/package/gh/mzlogin/mzlogin.github.io` 来查看 CDN 上的 tags 和 versions 列表，更多数据接口参数参见 <https://github.com/jsdelivr/data.jsdelivr.com>。
+- 可以通过 `https://cdn.jsdelivr.net/combine/gh/isanthree/isanthree.github.io[@<版本号>]/[<文件夹>/]` 这样的路径浏览缓存文件列表；
+- 可以访问 `https://purge.jsdelivr.net/gh/isanthree/isanthree.github.io@1.2.0/assets/js/main.js` 来清除指定文件的缓存；（将引用的 CDN 链接里的 `cdn` 改成 `purge` 就是了）
+- 可以访问 `https://data.jsdelivr.com/v1/package/gh/isanthree/isanthree.github.io` 来查看 CDN 上的 tags 和 versions 列表，更多数据接口参数参见 <https://github.com/jsdelivr/data.jsdelivr.com>。
 
 ## 改造步骤
 
@@ -126,7 +126,7 @@ jsDelivr 对 GitHub 的支持是作为重要特性来宣传的，官网的介绍
 
 这样万一哪天 CDN 出了点什么状况，我们也可以很方便地通过一个开关就切回自已的资源链接恢复服务。
 
-主要就是这类修改，当然涉及的地方有多处，以上只是举一处例子记录示意，改造过程和改造后的代码可以参考我的博客仓库 <https://github.com/mzlogin/mzlogin.github.io>。
+主要就是这类修改，当然涉及的地方有多处，以上只是举一处例子记录示意，改造过程和改造后的代码可以参考我的博客仓库 <https://github.com/isanthree/isanthree.github.io>。
 
 ## 现存问题
 
@@ -144,4 +144,5 @@ jsDelivr 对 GitHub 的支持是作为重要特性来宣传的，官网的介绍
 
 ## 相关文章
 
-- [使用 jsDelivr 免费加速 GitHub Pages 博客的静态资源（二）](https://mazhuang.org/2020/10/07/cdn-for-github-pages-2/)
+- [使用 jsDelivr 免费加速 GitHub Pages 博客的静态资源（二）](https://isanthree.github.io//2020/05/07/%E4%BD%BF%E7%94%A8-jsDelivr-%E5%85%8D%E8%B4%B9%E5%8A%A0%E9%80%9F-GitHub-Pages-%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90-%E4%BA%8C/)
+
