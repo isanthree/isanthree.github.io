@@ -39,6 +39,7 @@ components:
     qrcode:
         enabled: true
         image_alt: 程序员
+        
 # 压缩页面内容
 compress_html:
   clippings: all

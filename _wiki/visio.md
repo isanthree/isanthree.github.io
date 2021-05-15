@@ -20,4 +20,4 @@ keywords: Visio
 
 导出 PNG 时，填好保存位置和文件名之后，会弹出一个「PNG 输出选项」，在其中调整大小即可。
 
-![](/images/wiki/visio-png-size.png)
+![](https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/20210515102922.png)

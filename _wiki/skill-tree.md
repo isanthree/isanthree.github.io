@@ -1,7 +1,7 @@
 ---
 layout: mindmap
 title: Skill Tree
-categories: mindmap
+categories: 脑图
 description: 个人技能树思维导图
 keywords: 技能树, 思维导图, mindmap, 脑图
 ---
@@ -25,3 +25,4 @@ keywords: 技能树, 思维导图, mindmap, 脑图
 #### Git
 #### SVN
 ```
+

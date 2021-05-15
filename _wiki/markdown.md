@@ -128,10 +128,10 @@ print 'Hello, World!'
 ### 图片
 
 ```
-![本站favicon](/favicon.ico)
+![](https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/20210515102501.ico)
 ```
 
-![本站favicon](/favicon.ico)
+![](https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/20210515102501.ico)
 
 ### 锚点
 
@@ -157,7 +157,7 @@ Hello, *world*{:#world}
 Hello, *world*{: style="color:red"} 
 ```
 
-![本站favicon](/favicon.ico){:.center}
+![本站favicon](https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/20210515102501.ico){:.center}
 
 Hello, *world*{:#world} 
 
