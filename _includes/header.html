@@ -14,9 +14,9 @@
     <link rel="stylesheet" href="{{ assets_base_url }}/assets/css/globals/responsive.css">
     <link rel="stylesheet" href="{{ assets_base_url }}/assets/css/posts/index.css">
     <link rel="stylesheet" href="{{ assets_base_url }}/assets/vendor/octicons/octicons/octicons.css">
-    {% assign highlight_base_url = 'https://mazhuang.org/rouge-themes/dist' %}
+    {% assign highlight_base_url = 'https://isanthree.github.io/rouge-themes/dist' %}
     {% if site.cdn.jsdelivr.enabled %}
-    {% assign highlight_base_url = 'https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/dist' %}
+    {% assign highlight_base_url = 'https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/dist' %} <!-- 这里引用别人长期维护的一个主题 -->
     {% endif %}
     <link rel="stylesheet" href="{{ highlight_base_url }}/{{ site.highlight_theme}}.css">
     {% if site.components.share.enabled %}
@@ -76,7 +76,7 @@
     <script src="{{ assets_base_url }}/assets/js/jquery-ui.js"></script>
     <script src="{{ assets_base_url }}/assets/js/main.js"></script>
 
-    {% if site.url contains 'mazhuang.org' %}
+    {% if site.url contains 'isanthree.github.io' %}
     <script data-ad-client="ca-pub-7093222719567591" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     {% endif %}
 </head>
