@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://isanthree.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://isanthree.github.io//" rel="alternate" type="text/html" /><updated>2021-05-15T21:16:01+08:00</updated><id>https://isanthree.github.io//feed.xml</id><title type="html">focus_on_one_thing</title><subtitle>自建个人博客</subtitle><author><name>stepbystep</name></author><entry><title type="html">我所理解的生活</title><link href="https://isanthree.github.io//2021/05/15/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E7%94%9F%E6%B4%BB/" rel="alternate" type="text/html" title="我所理解的生活" /><published>2021-05-15T00:00:00+08:00</published><updated>2021-05-15T00:00:00+08:00</updated><id>https://isanthree.github.io//2021/05/15/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E7%94%9F%E6%B4%BB</id><content type="html" xml:base="https://isanthree.github.io//2021/05/15/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E7%94%9F%E6%B4%BB/">&lt;p&gt;每一次「嘴笨」的背后，都有平时疏于思考的懒惰。——写在最前面。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://isanthree.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://isanthree.github.io//" rel="alternate" type="text/html" /><updated>2021-05-16T01:11:56+08:00</updated><id>https://isanthree.github.io//feed.xml</id><title type="html">focus_on_one_thing</title><subtitle>自建个人博客</subtitle><author><name>stepbystep</name></author><entry><title type="html">【vscode】intellisense 模式 msvc-x64 与编译器路径不兼容</title><link href="https://isanthree.github.io//2021/05/16/solve-vscode-problem/" rel="alternate" type="text/html" title="【vscode】intellisense 模式 msvc-x64 与编译器路径不兼容" /><published>2021-05-16T00:00:00+08:00</published><updated>2021-05-16T00:00:00+08:00</updated><id>https://isanthree.github.io//2021/05/16/solve-vscode-problem</id><content type="html" xml:base="https://isanthree.github.io//2021/05/16/solve-vscode-problem/">&lt;p&gt;看一下问题：intellisense 模式 msvc-x64 与编译器路径不兼容。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/20210516000401.png&quot; alt=&quot;image-20210516000345240&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;接下来看一下解决办法：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/20210516000500.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我们只需要将此处的 msvc 改为 gcc 即可：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/20210516000641.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>stepbystep</name></author><category term="环境配置" /><category term="vscode" /><summary type="html">看一下问题：intellisense 模式 msvc-x64 与编译器路径不兼容。</summary></entry><entry><title type="html">我所理解的生活</title><link href="https://isanthree.github.io//2021/05/15/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E7%94%9F%E6%B4%BB/" rel="alternate" type="text/html" title="我所理解的生活" /><published>2021-05-15T00:00:00+08:00</published><updated>2021-05-15T00:00:00+08:00</updated><id>https://isanthree.github.io//2021/05/15/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E7%94%9F%E6%B4%BB</id><content type="html" xml:base="https://isanthree.github.io//2021/05/15/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E7%94%9F%E6%B4%BB/">&lt;p&gt;每一次「嘴笨」的背后，都有平时疏于思考的懒惰。——写在最前面。&lt;/p&gt;
 
 &lt;h3 id=&quot;现状&quot;&gt;现状&lt;/h3&gt;
 
@@ -1274,41 +1284,4 @@ OR B.PK IS NULL' at line 4
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;10 address is : 0x3C8004
 10 address is : 0x3C8000
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;可见两个源文件中的 var 非同一个。&lt;/p&gt;</content><author><name>stepbystep</name></author><category term="c++" /><summary type="html">有如下三个文件 header.h</summary></entry><entry><title type="html">眼中的自己</title><link href="https://isanthree.github.io//2020/09/27/%E7%9C%BC%E4%B8%AD%E7%9A%84%E8%87%AA%E5%B7%B1/" rel="alternate" type="text/html" title="眼中的自己" /><published>2020-09-27T00:00:00+08:00</published><updated>2020-09-27T00:00:00+08:00</updated><id>https://isanthree.github.io//2020/09/27/%E7%9C%BC%E4%B8%AD%E7%9A%84%E8%87%AA%E5%B7%B1</id><content type="html" xml:base="https://isanthree.github.io//2020/09/27/%E7%9C%BC%E4%B8%AD%E7%9A%84%E8%87%AA%E5%B7%B1/">&lt;p&gt;人的一生最大的敌人是自己，最难看清的也是自己。&lt;/p&gt;
-
-&lt;p&gt;借对自己的审视，借别人口中的评价，更好地了解自己，做更好的自己。&lt;/p&gt;
-
-&lt;h3 id=&quot;优点&quot;&gt;优点&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;可以信任&lt;/p&gt;
-
-    &lt;p&gt;一般来讲，一件事情如果我应下来，那就会尽力去朝着想要的结果而努力。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;热爱阅读&lt;/p&gt;
-
-    &lt;p&gt;不管有用的没用的，我总是在阅读着，也在进行着一些相应的思考。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;缺点&quot;&gt;缺点&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;拖延症&lt;/p&gt;
-
-    &lt;p&gt;任由事情在自己手上堆积，找各种借口不去开始，即使那件事情只需要两分钟就能处理完。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;必须症&lt;/p&gt;
-
-    &lt;p&gt;对自己身上客观存在的一些东西没有无条件地接受；对别人的行为和这个世界的样子存在期待，一旦不符合期待便会焦虑和自我挫败。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;含糊症&lt;/p&gt;
-
-    &lt;p&gt;别人来问我什么问题的时候总是回答得很快，有时候给出的并不是经过思考后最合理最确定的回答，后来反应和发觉过来只好再去补救。其实别人没那么急，略等几秒在脑海里找到确定的答案再答复相对是效率更高的方式，这并不会显得我没有准备和欠思考，实际上它比我立即给出一个不准确的答案而后来再推翻或补充要好。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>stepbystep</name></author><category term="生活" /><category term="随笔" /><summary type="html">人的一生最大的敌人是自己，最难看清的也是自己。</summary></entry></feed>
+&lt;p&gt;可见两个源文件中的 var 非同一个。&lt;/p&gt;</content><author><name>stepbystep</name></author><category term="c++" /><summary type="html">有如下三个文件 header.h</summary></entry></feed>

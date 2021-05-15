@@ -117,6 +117,14 @@
     } ,
   
     {
+      "title"    : "【vscode】vscode gcc编译教程",
+      "category" : "环境配置",
+      
+      "url"      : "https://isanthree.github.io//2019/11/27/vscode-compile-config/",
+      "keywords" : "vscode, 环境配置"
+    } ,
+  
+    {
       "title"    : "一个 printf 引发的基础复习",
       "category" : "c++",
       
@@ -306,6 +314,14 @@
       
       "url"      : "https://isanthree.github.io//2021/05/15/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E7%94%9F%E6%B4%BB/",
       "keywords" : "生活,随笔,认识"
+    } ,
+  
+    {
+      "title"    : "【vscode】intellisense 模式 msvc-x64 与编译器路径不兼容",
+      "category" : "环境配置",
+      
+      "url"      : "https://isanthree.github.io//2021/05/16/solve-vscode-problem/",
+      "keywords" : "cpp, vscode"
     } ,
   
     {
