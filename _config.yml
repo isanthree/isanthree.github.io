@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: focus_on_one_thing
 subtitle: "StepByStep"
 description: "自建个人博客"
-keywords: hhh, StepByStep, mzlogin, 程序员
+keywords: hhh, StepByStep, 程序员
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -26,7 +26,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2021-05-13
+        start_date: 2021-05-01
     # My Popular Repositories
     side_bar_repo:
         enabled: true
@@ -155,7 +155,7 @@ simple_jekyll_search:
     # 是否支持全文搜索
     fulltext: false
     # 最多显示多少条搜索结果
-    limit: 15
+    limit: 100
 
 # ---------------- #
 #      Google      #
