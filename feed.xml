@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://isanthree.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://isanthree.github.io//" rel="alternate" type="text/html" /><updated>2021-05-19T12:09:26+08:00</updated><id>https://isanthree.github.io//feed.xml</id><title type="html">focus_on_one_thing</title><subtitle>自建个人博客</subtitle><author><name>stepbystep</name></author><entry><title type="html">档案相关</title><link href="https://isanthree.github.io//2021/05/19/about-archives/" rel="alternate" type="text/html" title="档案相关" /><published>2021-05-19T00:00:00+08:00</published><updated>2021-05-19T00:00:00+08:00</updated><id>https://isanthree.github.io//2021/05/19/about-archives</id><content type="html" xml:base="https://isanthree.github.io//2021/05/19/about-archives/">&lt;p&gt;快毕业了，最近被档案这事搞得有点烦，班群里面发了一个word，关于档案，为了防止不小心删了，也为了更好找到，就搬到这里来了。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://isanthree.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://isanthree.github.io//" rel="alternate" type="text/html" /><updated>2021-05-19T12:13:54+08:00</updated><id>https://isanthree.github.io//feed.xml</id><title type="html">focus_on_one_thing</title><subtitle>自建个人博客</subtitle><author><name>stepbystep</name></author><entry><title type="html">档案相关</title><link href="https://isanthree.github.io//2021/05/19/about-archives/" rel="alternate" type="text/html" title="档案相关" /><published>2021-05-19T00:00:00+08:00</published><updated>2021-05-19T00:00:00+08:00</updated><id>https://isanthree.github.io//2021/05/19/about-archives</id><content type="html" xml:base="https://isanthree.github.io//2021/05/19/about-archives/">&lt;p&gt;快毕业了，最近被档案这事搞得有点烦，班群里面发了一个word，关于档案，为了防止不小心删了，也为了更好找到，就搬到这里来了。&lt;/p&gt;
 
 &lt;p&gt;原文：&lt;/p&gt;
 
@@ -226,174 +226,6 @@
 &lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/isanthree/typora-assets/master/xiaoshujiang/1620901669020.png&quot; alt=&quot;enter description here&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/isanthree/typora-assets/xiaoshujiang/1620901987308.png&quot; alt=&quot;enter description here&quot; /&gt;&lt;/p&gt;</content><author><name>stepbystep</name></author><category term="welcome" /><summary type="html">欢迎大家！ 欢迎大家！ 欢迎大家！ 欢迎大家！ 欢迎大家！ 欢迎大家！</summary></entry><entry><title type="html">小书匠编辑器</title><link href="https://isanthree.github.io//2021/05/13/%E5%B0%8F%E4%B9%A6%E5%8C%A0%E7%BC%96%E8%BE%91%E5%99%A8/" rel="alternate" type="text/html" title="小书匠编辑器" /><published>2021-05-13T00:00:00+08:00</published><updated>2021-05-13T00:00:00+08:00</updated><id>https://isanthree.github.io//2021/05/13/%E5%B0%8F%E4%B9%A6%E5%8C%A0%E7%BC%96%E8%BE%91%E5%99%A8</id><content type="html" xml:base="https://isanthree.github.io//2021/05/13/%E5%B0%8F%E4%B9%A6%E5%8C%A0%E7%BC%96%E8%BE%91%E5%99%A8/">&lt;p&gt;[toc]&lt;/p&gt;
-
-&lt;h1 id=&quot;概要&quot;&gt;概要&lt;/h1&gt;
-
-&lt;p&gt;小书匠编辑器不仅仅是一款专为 markdown 写作而设计的编辑器，还内置了&lt;a href=&quot;http://soft.xiaoshujiang.com/docs/tutorial/database/&quot;&gt;数据中心&lt;/a&gt;，实现了&lt;a href=&quot;http://soft.xiaoshujiang.com/docs/tutorial/filter/&quot;&gt;过滤器&lt;/a&gt;,&lt;a href=&quot;http://soft.xiaoshujiang.com/docs/tutorial/search_grammar/&quot;&gt;全文搜索&lt;/a&gt;，&lt;a href=&quot;http://soft.xiaoshujiang.com/docs/tutorial/link_network_map/&quot;&gt;链接关系图&lt;/a&gt;,反向链接等方便快速定位历史文章的功能，完全可以做为一款个人 &lt;strong&gt;真&lt;/strong&gt; 离线的笔记系统，知识管理工具。&lt;/p&gt;
-
-&lt;h1 id=&quot;主要功能&quot;&gt;主要功能&lt;/h1&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;专为markdown写作设计的文档编辑器&lt;/strong&gt;，让用户心无旁骛的进行创作。&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;多种编辑模式&lt;/strong&gt;。单栏编辑，双栏编辑，三栏编辑，全屏写作，全屏阅读…想怎么切换，就怎么切换，就是这样随心所欲。&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;多种编辑器实现&lt;/strong&gt;。codemirror编辑器（提供vim,emacs按键，行专注等），ace编辑器（提供vim，emacs按键绑定，显示行号），CJK竖排编辑器, 自定义外部编辑器, 总有一款编辑器按键符合你的要求&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;多种主题选择&lt;/strong&gt;。包括编辑器主题，预览区代码高亮主题，及预览区用户自定义css。&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;丰富的语法支持&lt;/strong&gt;。不仅提供了常用的commanmarkdown语法，还提供了许多有用的扩展语法，比如==Latex公式==，==表格==, ==目录==， ==脚注==, ==视频==, ==音频==, ==附件==, ==checklist==, ==流程图==等。更多语法可查看&lt;小书匠语法使用手册&gt;&lt;/小书匠语法使用手册&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;drawio 绘图&lt;/strong&gt;, 想要在 markdown 文章上表达更复杂的图形, drawio 绝对是你的不二选择,配合小书匠, 简直就是 &lt;strong&gt;1+1&amp;gt;2&lt;/strong&gt; 的最有力证明&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;表格组件&lt;/strong&gt;, 单元格合并,表格内嵌套表格,富文本式的表格编辑,弥补了 markdown 对表格支持的不足,再也不会为复杂的表格呈现而烦恼.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;代码块文字格式语法&lt;/strong&gt;。语法可查看&lt;小书匠语法使用手册&gt;&lt;/小书匠语法使用手册&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;第三方同步&lt;/strong&gt;。==浏览器存储==, ==本地文件系统存储==, ==Dropbox==, ==Evernote==, ==印象笔记==,==gitee==, ==为知笔记==, ==Github==, ==Webdav==, ==坚果云==, ==Seafile==, ==Gitlab==, ==ownCloud==, ==NextCloud==, ==有道笔记==等多种存储方案，保证了用户数据的安全，也让用户在存储方案上有了更多的选择。&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;支持evernote，印象笔记&lt;/strong&gt;。提供双向操作，可以将文章保存到evernote/印象笔记上，也可以从evernote/印象笔记上导入数据。同时提供标签，附件，图片，待办等相关处理。&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;模板管理&lt;/strong&gt;, 通过模板,创建自己经常使用的文章格式&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;强大的文件管理功能&lt;/strong&gt;。文件信息，标签，附件，音频，视频，图片管理。&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;过滤器&lt;/strong&gt;. 标签过滤,分类树过滤,日历时间过滤,快速归类自己的文件&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;置顶&lt;/strong&gt;. 将经常编辑的文章进行置顶操作,再不用来回查找那些高频修改的文章&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;数据中心&lt;/strong&gt;, 自定义数据中心数据库,实现自己的云数据库.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;发布功能&lt;/strong&gt;。 支持将文章发布到博客平台上。&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;邮件发送功能&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;全文分词搜索&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;ppt&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;ppt跨屏演示&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;pdf预览&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;typewriter scrolling&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;autocomplete 和 snippets 功能&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;链接关系图&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;反向链接&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;微信公众号分享&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&quot;离线版下载地址&quot;&gt;离线版下载地址&lt;/h1&gt;
-
-&lt;p&gt;http://soft.xiaoshujiang.com&lt;/p&gt;
-
-&lt;h1 id=&quot;web版访问地址&quot;&gt;WEB版访问地址&lt;/h1&gt;
-
-&lt;p&gt;http://markdown.xiaoshujiang.com&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;元数据使用说明&quot;&gt;元数据使用说明&lt;/h1&gt;
-
-&lt;p&gt;语法开关元数据项，可以到设置面板里的语法扩展标签页下查看对应的元数据标识．在元数据里true时，表示当前文档强制打开该语法，false时表示强制关闭该语法．如果没有对应的元数据，则使用全局设置里的语法开关.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;preview_previewType&lt;/code&gt;元数据，可用的值为&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;normal&lt;/code&gt;和&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;presentation&lt;/code&gt;．用于文章在打开时，控制是否需要系统切换对应的预览界面．如果文章里没有该项元数据，或者元数据值不正确，则系统默认使用&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;normal&lt;/code&gt;预览界面．该元数据仅控制文章打开时初始化的界面，用户依然可以通过按钮在不同预览界面间切换．&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;浏览器存储&quot;&gt;浏览器存储&lt;/h1&gt;
-&lt;p&gt;系统对创建的文章，都会在浏览器存储上进行保存。包括像evernote/印象笔记/github/dropbox等导入的文章，也都会保存一份副本，并创建一个标识，表示跟哪些第三方存储关联。&lt;/p&gt;
-
-&lt;h2 id=&quot;标题标签&quot;&gt;标题，标签&lt;/h2&gt;
-&lt;p&gt;文章标题的处理规则：如果文章内存在元数据title，则系统自动使用元数据内的title做为标题。如果文章未使用到元数据功能，用户可以通过维护文章信息按钮，修改标题。标签tags的规则也跟标题一样。&lt;/p&gt;
-&lt;h2 id=&quot;附件&quot;&gt;附件&lt;/h2&gt;
-&lt;p&gt;文章使用&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;./&lt;/code&gt;做为附件的引用标识。对于&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;图片&lt;/code&gt;，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;音频&lt;/code&gt;，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;视频&lt;/code&gt;，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;附件&lt;/code&gt;等链接的处理，系统只处理以&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;./&lt;/code&gt;开头的链接，并转换成附件真实的地址进行显示。用户可以通过工具栏的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;插入图片&lt;/code&gt;，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;插入音频&lt;/code&gt;，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;插入视频&lt;/code&gt;，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;插入附件&lt;/code&gt;等按钮上传附件。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;evernote印象笔记&quot;&gt;evernote/印象笔记&lt;/h1&gt;
-&lt;p&gt;小书匠编辑器提供对evernote/印象笔记的支持，下面的使用说明默认用户已经完成了evernote/印象笔记的绑定操作，并将当前的工作平台切换到evernote/印象笔记下。&lt;/p&gt;
-&lt;h2 id=&quot;新建&quot;&gt;新建&lt;/h2&gt;
-&lt;p&gt;通过新建按钮后，创建的文章将自动关联到evernote/印象笔记上(&lt;strong&gt;注:这里仅仅是在文章上创建一个关联的标识，只有当用户保存后，才能在服务器上查看到新的笔记&lt;/strong&gt;)&lt;/p&gt;
-&lt;h2 id=&quot;打开&quot;&gt;打开&lt;/h2&gt;
-&lt;p&gt;点击笔记，系统将自动把笔记导入，并将当前文章切换为导入的笔记内容。导入的文章自动与evernote/印象笔记上的笔记关联，下次再点击该笔记时，将直接从浏览器存储上打开。用户可以通过切换存储平台&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;浏览器存储&lt;/code&gt;，来删除该缓存的文件。导入的笔记如果本地没有缓存，系统将对服务器上的笔记进行判断，如果笔记是通过小书匠编辑器进行保存，并且文章在保存后没有被操作过，则系统自动使用保存时附带的markdown附件做为文章内容，重新导入。如果笔记已经被修改，或者笔记不是通过小书匠编辑器进行保存的，系统将自动将文章转换成markdown格式。&lt;/p&gt;
-&lt;h2 id=&quot;保存&quot;&gt;保存&lt;/h2&gt;
-&lt;p&gt;对于新创建的文章，用户可以直接保存&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ctrl+s&lt;/code&gt;，系统将弹出一个选择笔记本的窗口，确认后，系统将保存当前文章到evernote/印象笔记上。（在弹出窗口上选择笔记本时，如果用户选择了笔记，系统将覆盖该笔记）&lt;/p&gt;
-
-&lt;p&gt;对于已经存在的文章，但还没有保存到evernote/印象笔记，用户可以通过另存为&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ctrl+shift+s&lt;/code&gt;将当前文章保存到evernote/印象笔记上。&lt;/p&gt;
-
-&lt;p&gt;不管是保存，还是另存为，保存成功后，系统都将自动对当前文章与evernote/印象笔记上的笔记进行关联。下次保存时&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ctrl+s&lt;/code&gt;系统将自动同步保存到evernote/印象笔记上。&lt;/p&gt;
-&lt;h2 id=&quot;删除&quot;&gt;删除&lt;/h2&gt;
-&lt;p&gt;系统不提供删除操作，用户需要自己到evernote/印象笔记端删除，如果本地缓存了笔记，可以通过&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;浏览器存储&lt;/code&gt;删除缓存。&lt;/p&gt;
-&lt;h2 id=&quot;重命名&quot;&gt;重命名&lt;/h2&gt;
-&lt;p&gt;直接修改元数据title，如果文章内未使用元数据功能，可通过&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;浏览器存储&lt;/code&gt;里的修改文章信息进行修改&lt;/p&gt;
-&lt;h2 id=&quot;标签管理&quot;&gt;标签管理&lt;/h2&gt;
-&lt;p&gt;系统自动通过每篇文章的元数据&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tags&lt;/code&gt;提取为笔记的标签。&lt;/p&gt;
-&lt;h2 id=&quot;附件管理&quot;&gt;附件管理&lt;/h2&gt;
-&lt;p&gt;打开时，系统自动将笔记上的附件导入到文章对应的附件管理器上。保存时，系统将根据&lt;strong&gt;文章内对附件的引用&lt;/strong&gt;，将附件保存到服务器上。这里的引用包括&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;音频&lt;/code&gt;，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;视频&lt;/code&gt;，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;附件&lt;/code&gt;，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;图片&lt;/code&gt;。如果文章内使用到了&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;流程图&lt;/code&gt;，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;序列图&lt;/code&gt;，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;公式&lt;/code&gt;，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;统计图&lt;/code&gt;等，系统将会把这些内容转换成图片进行保存。由于evernote/印象笔记在部分终端不提供视频，音频的支持，查看保存的文章时，对应的音频，视频将以附件的形式存储。&lt;/p&gt;
-&lt;h2 id=&quot;待办事项&quot;&gt;待办事项&lt;/h2&gt;
-&lt;p&gt;目前系统仅同步了待办事项。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;githubdropbox&quot;&gt;github/dropbox&lt;/h1&gt;
-
-&lt;h2 id=&quot;新建-1&quot;&gt;新建&lt;/h2&gt;
-&lt;p&gt;参考&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;evernote/印象笔记&lt;/code&gt;的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;新建&lt;/code&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;打开-1&quot;&gt;打开&lt;/h2&gt;
-&lt;p&gt;参考&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;evernote/印象笔记&lt;/code&gt;的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;打开&lt;/code&gt;
-不同的是，github/dropbox只能打开扩展名为&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;html&lt;/code&gt;，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;markdown&lt;/code&gt;，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;md&lt;/code&gt;，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mkd&lt;/code&gt;以及无扩展名的文件。&lt;/p&gt;
-&lt;h2 id=&quot;保存-1&quot;&gt;保存&lt;/h2&gt;
-&lt;p&gt;参考&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;evernote/印象笔记&lt;/code&gt;的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;保存&lt;/code&gt;
-不同的是，github/dropbox保存时，仅保存了markdown文章本身，并不会将markdown转换成html进行保存，也不会处理附件相关的内容。
-对于新文章的保存，github/dropbox存储需要用户指定文件名及存储的位置。&lt;/p&gt;
-
-&lt;h2 id=&quot;删除-1&quot;&gt;删除&lt;/h2&gt;
-&lt;p&gt;系统不提供删除操作&lt;/p&gt;
-&lt;h2 id=&quot;重命名-1&quot;&gt;重命名&lt;/h2&gt;
-&lt;p&gt;系统不提供重命名操作，只能通过另存为&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ctrl+shift+s&lt;/code&gt;，保存成新的文件。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;本地文件系统存储&quot;&gt;本地文件系统存储&lt;/h1&gt;
-&lt;p&gt;本地文件系统存储仅在离线版提供支持。&lt;/p&gt;
-&lt;h2 id=&quot;新建-2&quot;&gt;新建&lt;/h2&gt;
-&lt;p&gt;参考&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;evernote/印象笔记&lt;/code&gt;的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;新建&lt;/code&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;打开-2&quot;&gt;打开&lt;/h2&gt;
-&lt;p&gt;参考&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;github/dropbox&lt;/code&gt;的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;打开&lt;/code&gt;
-不同的是，本地文件系统存储在打开文件时，将会自动关联文章内的附件引用标识&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;./&lt;/code&gt;，自动抓取同级目录下对应的附件资源。&lt;/p&gt;
-&lt;h2 id=&quot;保存-2&quot;&gt;保存&lt;/h2&gt;
-&lt;p&gt;参考&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;github/dropbox&lt;/code&gt;的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;保存&lt;/code&gt;
-不同的是，本地文件系统存储在保存时，不仅保存了markdown文章，还会处理附件相关的内容，将附件保存到同级目录下，请确保附件的名称不要重复，防止数据被覆盖丢失。&lt;/p&gt;
-
-&lt;h2 id=&quot;删除-2&quot;&gt;删除&lt;/h2&gt;
-&lt;p&gt;右击相应的文章可进行删除操作&lt;/p&gt;
-&lt;h2 id=&quot;重命名-2&quot;&gt;重命名&lt;/h2&gt;
-&lt;p&gt;右击相应的文章可进行重命名操作&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;发布&quot;&gt;发布&lt;/h1&gt;
-&lt;p&gt;小书匠编辑器&lt;strong&gt;离线版&lt;/strong&gt;提供文章发布功能，用户可以将自己的文章发布到博客系统上。发布功能实现了博客的metaweblogAPI（newPost, editPost, newMediaObject）。使用该发布功能，需要博客系统提供对应的api接口，系统将转换成html的文章和图片自动提交到博客系统上。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;配置发布示例：&lt;/strong&gt;
-博客链接地址：比如&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;http://www.cnblogs.com/[用户名]/&lt;/code&gt;
-用户名：用户在该博客上的用户名
-密码：用户在该博客上的密码&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;测试通过的博客地址：&lt;/strong&gt;
-博客园：&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;http://www.cnblogs.com/[用户名]/&lt;/code&gt;
-开源中国：&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;http://my.oschina.net/[用户名]/blog&lt;/code&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;邮件发送&quot;&gt;邮件发送&lt;/h1&gt;
-&lt;p&gt;小书匠编辑器提供邮件发送功能，系统将对当前文章转换成html格式后进行发送，并对图片，视频等文件以附件的形式进行发送。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;导出&quot;&gt;导出&lt;/h1&gt;
-&lt;p&gt;小书匠编辑器提供多种格式的导出文件功能。==html==,==markdown==,==html(inlinestyle)==,==word==,==zip==,==pdf==。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;zip导出&lt;/strong&gt;： 该导出将导出文章的所有信息，包括markdown,html,markdown文章内引用的所有附件，公式，流程图等对应的图片文件，以及方便再次导入时需要的标识数据文件。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;pdf导出&lt;/strong&gt;：目前pdf导出只能在chrome版浏览器上使用。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;导入&quot;&gt;导入&lt;/h1&gt;
-&lt;p&gt;小书匠编辑器提供markdown, html, zip三种导入功能，并且实现了文本文件直接拖动导入功能。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;zip导入&lt;/strong&gt;：导入的zip文件必需是由小书匠编辑器导出的文件。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;其他&quot;&gt;其他&lt;/h1&gt;
-&lt;p&gt;web版实现了图片直接粘贴功能，用户不仅可以拖动图片上传，还可以直接复制粘贴图片。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;storywriter/upgrade_log&quot;&gt;小书匠更新手册&lt;/a&gt;
-&lt;a href=&quot;storywriter/grammar&quot;&gt;小书匠语法手册&lt;/a&gt;
-&lt;a href=&quot;storywriter/tutorial&quot;&gt;小书匠使用手册&lt;/a&gt;&lt;/p&gt;</content><author><name>stepbystep</name></author><category term="小书匠" /><category term="使用手册" /><summary type="html">[toc]</summary></entry><entry><title type="html">小书匠编辑器使用手册</title><link href="https://isanthree.github.io//2021/05/13/%E5%B0%8F%E4%B9%A6%E5%8C%A0%E7%BC%96%E8%BE%91%E5%99%A8%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/" rel="alternate" type="text/html" title="小书匠编辑器使用手册" /><published>2021-05-13T00:00:00+08:00</published><updated>2021-05-13T00:00:00+08:00</updated><id>https://isanthree.github.io//2021/05/13/%E5%B0%8F%E4%B9%A6%E5%8C%A0%E7%BC%96%E8%BE%91%E5%99%A8%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C</id><content type="html" xml:base="https://isanthree.github.io//2021/05/13/%E5%B0%8F%E4%B9%A6%E5%8C%A0%E7%BC%96%E8%BE%91%E5%99%A8%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/">&lt;p&gt;[toc]&lt;/p&gt;
 
 &lt;h1 id=&quot;概要&quot;&gt;概要&lt;/h1&gt;
 
@@ -1376,4 +1208,168 @@ OR B.PK IS NULL' at line 4
 
     &lt;p&gt;ADO 更快。(这个网上争议很多)&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>stepbystep</name></author><category term="Basis" /><summary type="html">进程与线程的差别</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>stepbystep</name></author><category term="Basis" /><summary type="html">进程与线程的差别</summary></entry><entry><title type="html">习惯成就高效能</title><link href="https://isanthree.github.io//2020/10/28/%E4%B9%A0%E6%83%AF%E6%88%90%E5%B0%B1%E9%AB%98%E6%95%88%E8%83%BD/" rel="alternate" type="text/html" title="习惯成就高效能" /><published>2020-10-28T00:00:00+08:00</published><updated>2020-10-28T00:00:00+08:00</updated><id>https://isanthree.github.io//2020/10/28/%E4%B9%A0%E6%83%AF%E6%88%90%E5%B0%B1%E9%AB%98%E6%95%88%E8%83%BD</id><content type="html" xml:base="https://isanthree.github.io//2020/10/28/%E4%B9%A0%E6%83%AF%E6%88%90%E5%B0%B1%E9%AB%98%E6%95%88%E8%83%BD/">&lt;p&gt;首先需要说明的是，我并不相信成功有什么方法论，不过生活中很多的事情确是有套路可以遵循借鉴的，正如公元前两三百年的时候，亚里士多德就说过的话：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;人的行为总是一再重复，因此卓越不是单一的举动，而是习惯。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这应该就是之前我引用到说说而被某人说矫情的一句话的源头——优秀是一种习惯。&lt;/p&gt;
+
+&lt;p&gt;两个自身条件、机遇等等差不多的人，随着时间的流逝逐渐拉开差距，也许只是其中一个有意识地让自己形成了一些良好的习惯与套路，而另一个迷迷糊糊地就将自己也不知道为什么这么做、是对是错的动作坚持了很多年。&lt;/p&gt;
+
+&lt;p&gt;如下内容是根据前几天参加的培训总结的笔记，是我认为比较实用的套路和惯例，迄今为止我尚未拜读过史蒂芬.柯维的大作《高效能人士的七个习惯》。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;目录&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#有鹅才能有金蛋&quot; id=&quot;markdown-toc-有鹅才能有金蛋&quot;&gt;有鹅才能有金蛋&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#反射弧里加一环&quot; id=&quot;markdown-toc-反射弧里加一环&quot;&gt;反射弧里加一环&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#解决问题三部曲&quot; id=&quot;markdown-toc-解决问题三部曲&quot;&gt;解决问题三部曲&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#时间管理的建议&quot; id=&quot;markdown-toc-时间管理的建议&quot;&gt;时间管理的建议&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#三个实用小惯例&quot; id=&quot;markdown-toc-三个实用小惯例&quot;&gt;三个实用小惯例&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#追求卓越模式图&quot; id=&quot;markdown-toc-追求卓越模式图&quot;&gt;追求卓越模式图&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;有鹅才能有金蛋&quot;&gt;有鹅才能有金蛋&lt;/h3&gt;
+
+&lt;p&gt;据说一篇有趣的文章都应该以讲故事开头：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;一天，一个很穷的农夫在鹅窝里发现了一个金光闪闪的蛋，更让他喜出望外的是这个蛋是纯金的。这之后，农夫每天都可以从鹅窝里拿到一个金蛋。然而，当他日益富有的时候，他也越来越贪婪，以至于没有耐心等待每天只有一个金蛋，他想一次拿到鹅身体里的所有金子，于是他杀了这只鹅，但结果却是什么都没得到。  ——伊索寓言《鹅和金蛋》&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这听起来真是一个悲伤的故事啊！但是坑爹的他已经凭白无故拿到好多金蛋可以幸福地生活下半辈子了鹅没了也就没了为毛我连彩票都没中过十块以上的所以人生还是不公平的啊！&lt;/p&gt;
+
+&lt;p&gt;好吧寓言应该不是告诉我这样去想问题的，还是听老师的话，这样来理解吧：杀鹅取卵的做法当然不可取，但是想想这样的事情自己却也没少干，随意举几个：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;熬夜，少运动——慢性扼杀身体这只鹅&lt;/p&gt;
+
+    &lt;p&gt;晚上一不留神就熬到夜深，虽然一周打一两次羽毛球但是相对整天地坐着还是太不够……&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;偷懒，少学习——慢性扼杀智慧这只鹅&lt;/p&gt;
+
+    &lt;p&gt;大多数时候还是功利地学习，遇到什么问题只是针对地去解决，事后主动地寻求系统地补充相关知识的时候容易偷懒进度慢……&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;死宅，少沟通——慢性扼杀感情这只鹅&lt;/p&gt;
+
+    &lt;p&gt;跟好多人一样，朋友见面好不容易能交流的时光被消磨在了手机屏幕上……&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;……&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;想要源源不断地收获金蛋，那就要用心去养好自己的几只鹅，让它们心情愉悦精力充沛，远离死亡的威胁。据说这是一份相对合理的每天养身体、智慧和感情这三只鹅的一天二十四小时时间分配图，可以以此为基础根据自己实际情况稍作修改做一份适合自己的作息计划：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/three-gooses.png&quot; alt=&quot;三只鹅&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;反射弧里加一环&quot;&gt;反射弧里加一环&lt;/h3&gt;
+
+&lt;p&gt;一般来讲，我们感觉遇到困难的处境后是这样的：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/two-steps.png&quot; alt=&quot;两步回应图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;但是实际上发生的过程是这样的：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/three-steps.png&quot; alt=&quot;三步回应图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这就是为何同一件事情，不同的人会有不同的感受和回应方式的秘密。觉察到中间这一环，就能自由选择以什么样的心情和方式来回应。&lt;/p&gt;
+
+&lt;h3 id=&quot;解决问题三部曲&quot;&gt;解决问题三部曲&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;定义问题&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;发现问题&lt;/strong&gt; 有什么样的现象?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;定义问题&lt;/strong&gt; 我想要什么，如何 XXX？&lt;/p&gt;
+
+    &lt;p&gt;不能仅停留在发现问题的层面然后就去想对策，让自己用「如何XXX」的句式找出真正的诉求。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;分析问题&lt;/p&gt;
+
+    &lt;p&gt;遇到问题画个圈，弄明白哪些因素是关注就可以的，哪些因素是自己真正能影响的。&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;关注圈&lt;/strong&gt; 包括所有关切和担心的因素。比如可能有别人的理解能力、性格等等。&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;影响圈&lt;/strong&gt; 包括所有可以影响的因素。比如可能有别人的意愿、自己的沟通技能技巧、第三方的力量和证明材料等等。&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/images/blog/two-circles.png&quot; alt=&quot;关注圈和影响圈&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;主动积极的人会努力扩大影响圈，而消极的人则可能会在困难面前畏缩而导致影响圈里的一些东西被关注圈吞噬。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;解决问题&lt;/p&gt;
+
+    &lt;p&gt;选择影响圈里的项目——计划和实践——总结、确认、重复&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;时间管理的建议&quot;&gt;时间管理的建议&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;不能管理时间，便什么都不能管理。 ——彼德.德鲁克&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/time-manage.png&quot; alt=&quot;时间管理&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;据说努力让手上的事务主要集中在II区域会让你成为一个下面这样的神人：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;有远见、有理想&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;平衡、纪律性强、自制&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;少有危机、身体健康&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;工作生活和谐、人际关系良好&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;良性的团队发展&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;三个实用小惯例&quot;&gt;三个实用小惯例&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;事情已经如此了，我（们）能做些什么呢？&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;问题本身不是问题，如何解决才是问题。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;与别人沟通时遇到不同的看法，记得用「好，很好，说说看！」和「好，很好，还有吗？」，多问、多听、少说。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;追求卓越模式图&quot;&gt;追求卓越模式图&lt;/h3&gt;
+
+&lt;p&gt;好吧扯了半天貌似跟原书关系不大，说的都是些野路子，那么下面干货来了，据说这张图是《高效能人士的七个习惯》这本书的核心。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/excellence.png&quot; alt=&quot;追求卓越模式图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;主要理念：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;成长分三个层次：依赖型、独立型和互赖型。依赖心重的人靠别人来完成愿望，独立自主的人自己打天下，互赖的人集思广益以达成功。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;依赖型的人能通过主动积极、以终为始、要事第一三个习惯逐渐成长为独立型的人，独立型的人能通过双赢思维、知彼解己、集思广益三个习惯逐渐成长为互赖型的人，不断更新的习惯则是要求能将前面说的六个习惯不断运用，常用常新。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;个人成功的要点是自我掌控和自律，公众成功的核心是深入、持久、高效的人际关系。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>stepbystep</name></author><category term="随笔" /><summary type="html">首先需要说明的是，我并不相信成功有什么方法论，不过生活中很多的事情确是有套路可以遵循借鉴的，正如公元前两三百年的时候，亚里士多德就说过的话：</summary></entry></feed>
