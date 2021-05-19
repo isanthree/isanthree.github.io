@@ -1,4 +1,151 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://isanthree.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://isanthree.github.io//" rel="alternate" type="text/html" /><updated>2021-05-16T01:11:56+08:00</updated><id>https://isanthree.github.io//feed.xml</id><title type="html">focus_on_one_thing</title><subtitle>自建个人博客</subtitle><author><name>stepbystep</name></author><entry><title type="html">【vscode】intellisense 模式 msvc-x64 与编译器路径不兼容</title><link href="https://isanthree.github.io//2021/05/16/solve-vscode-problem/" rel="alternate" type="text/html" title="【vscode】intellisense 模式 msvc-x64 与编译器路径不兼容" /><published>2021-05-16T00:00:00+08:00</published><updated>2021-05-16T00:00:00+08:00</updated><id>https://isanthree.github.io//2021/05/16/solve-vscode-problem</id><content type="html" xml:base="https://isanthree.github.io//2021/05/16/solve-vscode-problem/">&lt;p&gt;看一下问题：intellisense 模式 msvc-x64 与编译器路径不兼容。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://isanthree.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://isanthree.github.io//" rel="alternate" type="text/html" /><updated>2021-05-19T11:30:57+08:00</updated><id>https://isanthree.github.io//feed.xml</id><title type="html">focus_on_one_thing</title><subtitle>自建个人博客</subtitle><author><name>stepbystep</name></author><entry><title type="html">档案相关</title><link href="https://isanthree.github.io//2021/05/19/about-archives/" rel="alternate" type="text/html" title="档案相关" /><published>2021-05-19T00:00:00+08:00</published><updated>2021-05-19T00:00:00+08:00</updated><id>https://isanthree.github.io//2021/05/19/about-archives</id><content type="html" xml:base="https://isanthree.github.io//2021/05/19/about-archives/">&lt;p&gt;Content here&lt;/p&gt;
+
+&lt;p&gt;快毕业了，最近被档案这事搞得有点烦，班群里面发了一个word，关于档案，为了防止不小心删了，也为了更好找到，就搬到这里来了。&lt;/p&gt;
+
+&lt;p&gt;原文：&lt;/p&gt;
+
+&lt;p&gt;毕业N年后，请不要像我一样被档案烦死(转自一位已经毕业的学姐)&lt;/p&gt;
+
+&lt;h2 id=&quot;一-提醒大学生深刻重视档案避免以后麻烦&quot;&gt;一. 提醒大学生：深刻重视档案，避免以后麻烦！&lt;/h2&gt;
+
+&lt;p&gt;大学毕业最痛苦的是搞不定档案和户口。户口，一般不会丢，大家都很当回事，毕竟身份证一丢，马上就要处理户口。但就是这个档案，却是很多人不当回事。但是只要你是活在中国的毕业大学生，你肯定就会碰到档案的事情。作为一个毕业了5年左右的毕业生，回头去看档案，毫无疑问，是相当重要的，如果有机会重来，我自己一定会这“档”子事搞好。如果你毕业N年后不想像我现在烦躁不已，那么请静下心来认真看下这篇文章!在毕业时花些时间，把档案这件事情处理好，会减少许多以后不必要的麻烦。请各位深刻重视。&lt;/p&gt;
+
+&lt;h2 id=&quot;二-说说我因为档案造成的烦心事&quot;&gt;二. 说说我因为档案造成的烦心事！&lt;/h2&gt;
+
+&lt;p&gt;为了方便大家了解大学生档案的重要性，说下我的经历。我大学毕业的时候，是在厦门的一家国有企业工作，所以毕业时候的户口. 档案都调到国有企业去了（国有企业和我们签订了3年的就业合同，如果我们提前离职，就要赔违约金，否则就扣押住档案）。在国有企业工作快三年时间，对国有企业很是失望，国企管理松懈，整天清闲，觉得无聊，工资也不高，20来岁干的确是60岁人就能干的工作，深深为自己的前途担忧。所以总是去思考出路。后来机缘巧合对计算机感兴趣了，毕竟互联网和电子商务的发展有目共睹。偶尔看传智播客韩顺平老师的《php从入门到精通》讲的非常不错，就从国企辞职到了北京传智播客学php。结业后很幸运的就在直接就进入了互联网行业，工资直接是我在国企的三倍，所以我也就留在了北京，叫在厦门的同事帮我处理离职的事情。在这里，就出现了档案问题了，不知怎么回事档案却被同事转寄送到我手里来了。由于在北京工作，北京的人才市场是不接非北京户口档案，而北京的这家公司没档案也依然给我上保险。把档案存在人事代理公司，自己也是非常不放心。所以工作一忙我也就没有去处理档案（存哪里都不合适），就一直放在手上了。&lt;/p&gt;
+
+&lt;p&gt;现在两年过去了，由于档案一直在我手里，档案已经成为“死档”了。我就算办理了结婚证，也无法办理准生证，糟糕透了。打电话咨询我们县人事局档案专员，竟然告诉我这两年没有工龄。更重要的是我想考职称没法考。因为这两年没有工龄，而我要考的职称需要3年工龄。其实我已经工作五年了，社保却无法作证，偏要这个北京人才市场不接受的档案作证。咨询北京人事代理公司“档案激活”业务，询问到费用，对方虽说具体面谈，但是起步价就要8000元，还上不封顶。因为现在不办，以后我也得办，晚办不如早班，早办毕竟工龄能多算！这笔费用，看来是被吃定了，想想都郁闷烦心！&lt;/p&gt;
+
+&lt;p&gt;虽然烦心，但最近这几天的反复查询网站，和老家人事局. 北京人事代理公司. 厦门人才市场反复打电话，总算搞明白档案这档子事！特分享给大学的朋友们！一定要认真看，不要N年后跟我一样麻烦！&lt;/p&gt;
+
+&lt;h2 id=&quot;三-说说档案这档子事&quot;&gt;三. 说说档案这档子事：&lt;/h2&gt;
+
+&lt;p&gt;档案是什么？
+档案大部分时间自己是看不到的，都是由相关部门进行托管。档案对于工作的人来说是计算工龄的一个重要凭证。具体可以百度“人事档案”，有相关百科，在此由于篇幅限制，不再过多赘述。&lt;/p&gt;
+
+&lt;p&gt;档案的作用：
+下面具体讲讲几个我们没有档案，办理会非常麻烦的几个事情：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;转正定级，获取干部身份。必须在第一家单位就业工作满一年，申请转正定级，才会获得干部身份了。干部身份有什么用，百度百科“干部身份”。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;考研；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;考公务员，没有人事档案，没有办法过政审这关。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;评职称，如果没有档案，你就没有干部身份，也就没有资格评职称。而职称往往是和工资和户口积分挂钩的（天津就是这样）。有职称，也是求职的一个砝码！&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;考资格证，比如会计专业资格考试等，考试需要和人事档案的地点相同，没有人事档案，你报名都可能报不上。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;办理准生证，都需要男方存档案的地方开婚育证明，档案都不知道在哪里，你怎么开！&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;出国审查，没有档案，政审就无法进行&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;养老保险。工龄计算，必须要档案！退休后要拿到退休金，必须要档案，档案是否完备，也将影响到退休金的高低。（根据2010年出台的相关文件，自2011年1月1日起，无档案人员也可以以养老保险实际缴纳年限来办理退休手续，但办理过程非常麻烦。）&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;某些大城市，比如上海，办理居住证，前提是将档案调到上海。没有档案，就没有办法办理居住证，也就没有办法落户上海了。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;进国企，事业单位需要档案，而且这是一个非常重要的材料。如果你没有档案且不及时补救，那么这种好单位的大门也会向你关上。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;住房补贴发放&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;入团入党。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;档案重要吗？如果你这辈子跟上面12件事无关，你确实无需操心档案，如果不幸的是12件事情中哪怕只有1件，你档案如果丢失了也将会很麻烦。所以千万不要当“弃档族”！&lt;/p&gt;
+
+&lt;h2 id=&quot;四-档案如此重要为什么有些人却成了弃档族&quot;&gt;四. 档案如此重要，为什么有些人却成了弃档族？&lt;/h2&gt;
+
+&lt;p&gt;档案很重要，人事档案没处理好将给自己带来很多麻烦。但对档案“置之不理”的大学毕业生却不在少数。但却有调查显示，有近四成高学历求职者都加入了“弃档族”，很多毕业生根本不知道自己的档案放在哪里！&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;首先是就业指导老师阐述的不太清楚，就是你当面去问他都有可能问不清楚。毕竟对于一些不负责任的就业老师而言，只要将学员的档案从学校转出去，工作就算是做到位了，很难将档案和毕业生未来生活关系阐述清楚。照本宣科的讲规章制度，或只是去强调“这是国家规定的”，导致大学生们茫然，就算知道重要但却不知道如何具体去处理，不知不觉中就成了弃档族。&lt;/li&gt;
+  &lt;li&gt;网上对于档案的重要性，众说纷纭。有的说重要，也有很多人说不重要。就算是有帖子阐述了档案的重要性，但却对于如何处理档案却也没有说的详细清楚。学员们无法根据自己的实际情况采取相应的办法，不知不觉中就成了弃档族。&lt;/li&gt;
+  &lt;li&gt;其次是目前的很多企业不具备存放档案是资格，再加上现在的绝大部分企业没有档案一样可以上社保，一样可以上班，一样可以领工资。所以我们就理所当然的就认为档案不重要。&lt;/li&gt;
+  &lt;li&gt;如果是在私企，我们身边的很多人都搞不清楚档案的事情，甚至是人事也不清楚档案作用。不仅不清楚，而且时常会给你灌输档案没有什么作用，让你真就以为档案没有什么作用了。&lt;/li&gt;
+  &lt;li&gt;某些地方人才市场（比如北京）对于非户籍人员咨询，态度冷漠，只告诉能不能入而不会告诉你应该怎么办！一不小心，自己就成为弃档族了。&lt;/li&gt;
+  &lt;li&gt;很多人因为档案丢失而造成的麻烦也不会去说（其实网上百度就知道，太多人由于档案丢失造成麻烦），去给他人预警和提示。所以大家一个个就掉进坑里去了。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;五-档案该怎么操作才能不当弃档族非常重要认真看&quot;&gt;五. 档案该怎么操作才能不当“弃档族”？非常重要，认真看!&lt;/h2&gt;
+
+&lt;p&gt;强调档案的两个重要的注意事项:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;毕业后档案不能放在自己手里。可以存放学校. 生源地人事局. 人才市场. 劳动局，街道办事处，职介，否则就是死档！&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;毕业后自己的第一份工作，如果档案转到单位或当地人才中心，一定要记得干满一年，然后向单位或人才申请转正定级，获得干部身份（干部身份的好处，可以百度）。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;下面就结合我们毕业生的各种情况，详细谈谈我们应如何处理我们的户口档案：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;毕业后档案存放学校（注意2年期限）：
+  如果毕业后没有及时找到合适工作（或考研），导致毕业即失业，可以到学校申请暂缓就业，在两年内找到工作的，一定要及时回校办理档案转移，到学校将户籍和档案迁至工作单位所在地或单位所在地的人才市场。两年过后，学校就会打回原籍，很可能造成档案丢失。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;毕业后档案存放人才市场（建议）：
+  1) 毕业没有找到单位的（或考研），可以去学校或单位所在的人才市场进行档案挂靠，千万不能弃档。人才市场都是人事局办的，是官方机构，这是政府部门，拥有档案保管权，有权办理转正定级，放在那里起码有安全保障。但要提醒的是， 一旦找到工作要及时办理就业手续，以便能够及时的进行转正定级，方便后面的正式调动。如果没有找到工作，也要记得人才交流中心的集体户口是属于临时户口，有两年的限期，毕业超过两年就不能继续托管了，会变成“死档”。一定要记得去处理。可以自己申请打回原籍，以免档案丢失。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;2) 毕业后找到单位的，可放心的找就业地方人才市场挂靠，而且挂靠的人才市场可能会接收个人手上的档案。从存放在人才市场之日开始，就可以算我们的工龄了。就算以后到别的地方发展，也可以通过发调档函，很方便的转到新就业地人才市场。这样既不影响在当地工作，也不影响职称’晋级’，工龄还能连续计算，顺畅地完成衔接。这里有个注意点是找到的第一份单位工作如果未做满一年，无法请求人才市场进行转正定级，将会失去干部身份。所以如果我们一定要离职，也一定要等到我们的第一份工作做满一年已经申请转正定级获得干部身份后。&lt;/p&gt;
+
+&lt;p&gt;3) 毕业后找到单位后又辞职到其他地方去的，这里还有个注意点：某些地方的人才市场5年内如果没有交档案保管费，人才市场保管档案的义务就会自动解除，档案会被封存，我们的档案会成为“死档”（35岁之前可以档案激活，35岁之后，就麻烦了）！&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;==毕业后档案主动打回原籍（建议）==：
+  不管是否参加工作，都可将自己的档案拿回到原籍人事局或人才市场，省的以后麻烦，毕竟以后如果有事情可以让父母帮着处理。把档案放在家乡的人才市场，以后在外地找到工作后不会麻烦，一方面工作又不需要档案，就算是是找到国企. 考到公务员，单位发函到你家乡人才市场调档案就可以了。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;==毕业后档案寄送公司/单位（不太建议）==：
+  现在一般公司都是把员工档案统一放在公司所在区的人才市场的。建议档案还是不要归公司管理，以防自己离职的时候档案很有可能被公司扣留。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;档案存放在街道办事处（尽量不要）：
+  档案在街道的话，一旦有单位录用你需要调取档案的话比较的麻烦。而且档案放在街道一样要交存档费用。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;六-很多人档案会成为死档的三种原因&quot;&gt;六. 很多人档案会成为“死档”的三种原因&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;档案丢失会成为“死档”。
+    毕业生择业期为两年，因此择业期间可申请学校代管两年。放在学校两年期满后仍未落实工作的（或找到工作未及时来学校处理的），学校就会将档案和户口一起打回原籍了（或转到学生户口所在地的人才交流中心，或转至生源地所在地级市的人事局或教育局接收）。这里需要强调的是，在打回的过程中很容易把档案搞丢。所以要么两年内去落实工作，要么自己去办理户口和档案转移到某个人才市场或转移到家里去。很多人成为弃档族，就是这里搞丢了！&lt;/li&gt;
+  &lt;li&gt;档案长期在自己手里超过2年，也会成为“死档”，本人就属于这种。&lt;/li&gt;
+  &lt;li&gt;五年内没有交档案保管费而被人才市场等机构封存的，也会被认为是“死档”。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;七-档案如果不小心成了死档了怎么办不用着急请看办法&quot;&gt;七. 档案如果不小心成了死档了怎么办？不用着急，请看办法！&lt;/h2&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;   1. 毕业生择业期为两年，如档案遗失，造成没有有按规定办理存档手续而成为“死档”，毕业后未超过2年择业期的（有的地方是3年择业期），可直接去人才市场补办存档手续。超过了择业期，则可以按照非普通高等院校毕业生身份，携带身份证. 学历证. 户口簿等材料重新办理存档！但前提是不要超过35岁！
+   2. 把档案留在人才服务机构超过5年没有理会的，只需要补齐代管费. 办妥相关手续，就可将档案关系理顺。
+   3. 自己携带档案要尽快向人才服务机构咨询，如果档案袋被打开，里面的资料需要经过相关部门核实，如果档案资料遗失，还要到原单位去补充和确认。
+   4. “跳槽”人员将档案遗留在原单位长期未办理转档手续的，要与原单位协商，解决跳槽后的遗留问题，以便及时将档案转交。
+       最后：郑重提醒：
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;师弟师妹们，在这个除了父母兄弟朋友谁也不会管你事情的社会，如果你觉得这篇文章有用，请记得转发给你的朋友或同学。让他们也能和你一样，N年后也省去档案的烦恼。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/image-20210519110517468.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>stepbystep</name></author><summary type="html">Content here</summary></entry><entry><title type="html">【vscode】intellisense 模式 msvc-x64 与编译器路径不兼容</title><link href="https://isanthree.github.io//2021/05/16/solve-vscode-problem/" rel="alternate" type="text/html" title="【vscode】intellisense 模式 msvc-x64 与编译器路径不兼容" /><published>2021-05-16T00:00:00+08:00</published><updated>2021-05-16T00:00:00+08:00</updated><id>https://isanthree.github.io//2021/05/16/solve-vscode-problem</id><content type="html" xml:base="https://isanthree.github.io//2021/05/16/solve-vscode-problem/">&lt;p&gt;看一下问题：intellisense 模式 msvc-x64 与编译器路径不兼容。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/20210516000401.png&quot; alt=&quot;image-20210516000345240&quot; /&gt;&lt;/p&gt;
 
@@ -1227,61 +1374,4 @@ OR B.PK IS NULL' at line 4
   &lt;li&gt;
     &lt;p&gt;个人成功的要点是自我掌控和自律，公众成功的核心是深入、持久、高效的人际关系。&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>stepbystep</name></author><category term="随笔" /><summary type="html">首先需要说明的是，我并不相信成功有什么方法论，不过生活中很多的事情确是有套路可以遵循借鉴的，正如公元前两三百年的时候，亚里士多德就说过的话：</summary></entry><entry><title type="html">有 static 变量的 namespace 被多个 cpp 包含</title><link href="https://isanthree.github.io//2020/10/26/%E6%9C%89static%E5%8F%98%E9%87%8F%E7%9A%84namespace%E8%A2%AB%E5%A4%9A%E4%B8%AAcpp%E5%8C%85%E5%90%AB/" rel="alternate" type="text/html" title="有 static 变量的 namespace 被多个 cpp 包含" /><published>2020-10-26T00:00:00+08:00</published><updated>2020-10-26T00:00:00+08:00</updated><id>https://isanthree.github.io//2020/10/26/%E6%9C%89static%E5%8F%98%E9%87%8F%E7%9A%84namespace%E8%A2%AB%E5%A4%9A%E4%B8%AAcpp%E5%8C%85%E5%90%AB</id><content type="html" xml:base="https://isanthree.github.io//2020/10/26/%E6%9C%89static%E5%8F%98%E9%87%8F%E7%9A%84namespace%E8%A2%AB%E5%A4%9A%E4%B8%AAcpp%E5%8C%85%E5%90%AB/">&lt;p&gt;&lt;strong&gt;有如下三个文件&lt;/strong&gt;
-&lt;em&gt;header.h&lt;/em&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-cpp highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#pragma once
-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;namespace&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;NS1&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-	&lt;span class=&quot;k&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_var&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;em&gt;src.cpp&lt;/em&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-cpp highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;stdio.h&amp;gt;
-#include &quot;header.h&quot;
-&lt;/span&gt;
-&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_var&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-	&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%d&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;NS1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;var&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;em&gt;main.cpp&lt;/em&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-cpp highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;stdio.h&amp;gt;
-#include &quot;header.h&quot;
-&lt;/span&gt;
-&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-	&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%d&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;NS1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;var&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-	&lt;span class=&quot;n&quot;&gt;NS1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-	&lt;span class=&quot;n&quot;&gt;print_var&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-	&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;这三个文件是尝试的基础。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Situation A:&lt;/strong&gt;
-将 header.h 里的 var 的 static 去掉，发现编译通过，但是链接时提示：
-&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;main.obj : error LNK2005: &quot;int NS1::var&quot; (?var@NS1@@3HA) 已经在 src.obj 中定义，fatal error LNK1169: 找到一个或多个多重定义的符号。&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Situation B:&lt;/strong&gt;
-还原 static，编译通过，运行生成的 EXE，输出：&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;10 10&lt;/code&gt; 与预期的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;10 0&lt;/code&gt;不符。&lt;/p&gt;
-
-&lt;p&gt;根据 static 对变量的作用域的影响，推断应该是预编译过程中 NS1::var 分别被引入了 src.cpp 和 main.cpp，而在两个源文件中的 NS1::var 非同一个变量，而且其作用域分别为各自所在的 cpp 文件。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;求证：&lt;/strong&gt;
-将两个 cpp 文件中的 printf 语句都改为&lt;/p&gt;
-
-&lt;div class=&quot;language-cpp highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%d address is : 0x%X&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;NS1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;var&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;NS1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;var&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;输出为：&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;10 address is : 0x3C8004
-10 address is : 0x3C8000
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;可见两个源文件中的 var 非同一个。&lt;/p&gt;</content><author><name>stepbystep</name></author><category term="c++" /><summary type="html">有如下三个文件 header.h</summary></entry></feed>
+&lt;/ol&gt;</content><author><name>stepbystep</name></author><category term="随笔" /><summary type="html">首先需要说明的是，我并不相信成功有什么方法论，不过生活中很多的事情确是有套路可以遵循借鉴的，正如公元前两三百年的时候，亚里士多德就说过的话：</summary></entry></feed>

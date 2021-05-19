@@ -82,6 +82,8 @@
   
   
   
+  
+  
 
   
     {
@@ -322,6 +324,14 @@
       
       "url"      : "https://isanthree.github.io//2021/05/16/solve-vscode-problem/",
       "keywords" : "cpp, vscode"
+    } ,
+  
+    {
+      "title"    : "档案相关",
+      "category" : "",
+      
+      "url"      : "https://isanthree.github.io//2021/05/19/about-archives/",
+      "keywords" : "人事档案"
     } ,
   
     {
