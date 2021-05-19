@@ -3,7 +3,7 @@ layout: post
 title: 档案相关
 categories: 生活
 description: 高校毕业生档案的一些事情
-keywords: 人事档案
+keywords: 人事档案, 档案制度
 ---
 
 快毕业了，最近被档案这事搞得有点烦，班群里面发了一个word，关于档案，为了防止不小心删了，也为了更好找到，就搬到这里来了。
