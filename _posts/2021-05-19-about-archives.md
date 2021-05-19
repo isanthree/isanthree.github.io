@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 档案相关
+title: [档案相关]
 categories: 生活
 description: 高校毕业生档案的一些事情
 keywords: 人事档案
