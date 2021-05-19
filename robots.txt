@@ -1,1 +1,1 @@
-Sitemap: https://isanthree.github.io//sitemap.xml
+Sitemap: https://isanthree.github.io/sitemap.xml

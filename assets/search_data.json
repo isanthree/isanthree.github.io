@@ -5,7 +5,7 @@
   
     {
       "title"    : "页面没有找到",
-      "url"      : "https://isanthree.github.io//404.html",
+      "url"      : "https://isanthree.github.io/404.html",
       "keywords" : "404"
     } ,
   
@@ -13,7 +13,7 @@
   
     {
       "title"    : "About",
-      "url"      : "https://isanthree.github.io//about/",
+      "url"      : "https://isanthree.github.io/about/",
       "keywords" : "isanthree, about, 关于"
     } ,
   
@@ -21,7 +21,7 @@
   
     {
       "title"    : "归档",
-      "url"      : "https://isanthree.github.io//archives/",
+      "url"      : "https://isanthree.github.io/archives/",
       "keywords" : "归档"
     } ,
   
@@ -29,7 +29,7 @@
   
     {
       "title"    : "Categories",
-      "url"      : "https://isanthree.github.io//categories/",
+      "url"      : "https://isanthree.github.io/categories/",
       "keywords" : "分类"
     } ,
   
@@ -39,7 +39,7 @@
   
     {
       "title"    : "Links",
-      "url"      : "https://isanthree.github.io//links/",
+      "url"      : "https://isanthree.github.io/links/",
       "keywords" : "友情链接"
     } ,
   
@@ -47,7 +47,7 @@
   
     {
       "title"    : "mindmap",
-      "url"      : "https://isanthree.github.io//mindmap-viewer/",
+      "url"      : "https://isanthree.github.io/mindmap-viewer/",
       "keywords" : "mindmap"
     } ,
   
@@ -55,7 +55,7 @@
   
     {
       "title"    : "Open Source Projects",
-      "url"      : "https://isanthree.github.io//open-source/",
+      "url"      : "https://isanthree.github.io/open-source/",
       "keywords" : "开源,open-source,GitHub,开源项目"
     } ,
   
@@ -65,7 +65,7 @@
   
     {
       "title"    : "Wiki",
-      "url"      : "https://isanthree.github.io//wiki/",
+      "url"      : "https://isanthree.github.io/wiki/",
       "keywords" : "维基, Wiki"
     } ,
   
@@ -90,7 +90,7 @@
       "title"    : "读书：追风筝的人",
       "category" : "读书",
       
-      "url"      : "https://isanthree.github.io//2017/02/19/%E8%AF%BB%E4%B9%A6-%E8%BF%BD%E9%A3%8E%E7%AD%9D%E7%9A%84%E4%BA%BA/",
+      "url"      : "https://isanthree.github.io/2017/02/19/%E8%AF%BB%E4%B9%A6-%E8%BF%BD%E9%A3%8E%E7%AD%9D%E7%9A%84%E4%BA%BA/",
       "keywords" : "追风筝的人"
     } ,
   
@@ -98,7 +98,7 @@
       "title"    : "Windows 界面相关小知识点",
       "category" : "Windows",
       
-      "url"      : "https://isanthree.github.io//2019/04/18/Windows-%E7%95%8C%E9%9D%A2%E7%9B%B8%E5%85%B3%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9/",
+      "url"      : "https://isanthree.github.io/2019/04/18/Windows-%E7%95%8C%E9%9D%A2%E7%9B%B8%E5%85%B3%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9/",
       "keywords" : "Windows, UI"
     } ,
   
@@ -106,7 +106,7 @@
       "title"    : "Ubuntu 使用笔记",
       "category" : "Linux",
       
-      "url"      : "https://isanthree.github.io//2019/06/12/Ubuntu-%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/",
+      "url"      : "https://isanthree.github.io/2019/06/12/Ubuntu-%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/",
       "keywords" : "Linux, Ubuntu"
     } ,
   
@@ -114,7 +114,7 @@
       "title"    : "C++ 语言基础",
       "category" : "Basis",
       
-      "url"      : "https://isanthree.github.io//2019/11/04/C++-%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/",
+      "url"      : "https://isanthree.github.io/2019/11/04/C++-%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/",
       "keywords" : "C++"
     } ,
   
@@ -122,7 +122,7 @@
       "title"    : "【vscode】vscode gcc编译教程",
       "category" : "环境配置",
       
-      "url"      : "https://isanthree.github.io//2019/11/27/vscode-compile-config/",
+      "url"      : "https://isanthree.github.io/2019/11/27/vscode-compile-config/",
       "keywords" : "vscode, 环境配置"
     } ,
   
@@ -130,7 +130,7 @@
       "title"    : "一个 printf 引发的基础复习",
       "category" : "c++",
       
-      "url"      : "https://isanthree.github.io//2020/01/19/%E4%B8%80%E4%B8%AA-printf-%E5%BC%95%E5%8F%91%E7%9A%84%E5%9F%BA%E7%A1%80%E5%A4%8D%E4%B9%A0/",
+      "url"      : "https://isanthree.github.io/2020/01/19/%E4%B8%80%E4%B8%AA-printf-%E5%BC%95%E5%8F%91%E7%9A%84%E5%9F%BA%E7%A1%80%E5%A4%8D%E4%B9%A0/",
       "keywords" : "printf, IEEE 表示法"
     } ,
   
@@ -138,7 +138,7 @@
       "title"    : "生活这件小事，烦请费思量",
       "category" : "生活",
       
-      "url"      : "https://isanthree.github.io//2020/02/01/%E7%94%9F%E6%B4%BB%E8%BF%99%E4%BB%B6%E5%B0%8F%E4%BA%8B-%E7%83%A6%E8%AF%B7%E8%B4%B9%E6%80%9D%E9%87%8F/",
+      "url"      : "https://isanthree.github.io/2020/02/01/%E7%94%9F%E6%B4%BB%E8%BF%99%E4%BB%B6%E5%B0%8F%E4%BA%8B-%E7%83%A6%E8%AF%B7%E8%B4%B9%E6%80%9D%E9%87%8F/",
       "keywords" : "生活感悟"
     } ,
   
@@ -146,7 +146,7 @@
       "title"    : "如何有效使用 GitHub",
       "category" : "GitHub",
       
-      "url"      : "https://isanthree.github.io//2020/04/07/%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E4%BD%BF%E7%94%A8GitHub/",
+      "url"      : "https://isanthree.github.io/2020/04/07/%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E4%BD%BF%E7%94%A8GitHub/",
       "keywords" : "GitHub"
     } ,
   
@@ -154,7 +154,7 @@
       "title"    : "使用 jsDelivr 免费加速 GitHub Pages 博客的静态资源（一）",
       "category" : "GitHub",
       
-      "url"      : "https://isanthree.github.io//2020/05/01/%E4%BD%BF%E7%94%A8-jsDelivr-%E5%85%8D%E8%B4%B9%E5%8A%A0%E9%80%9F-GitHub-Pages-%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90-%E4%B8%80/",
+      "url"      : "https://isanthree.github.io/2020/05/01/%E4%BD%BF%E7%94%A8-jsDelivr-%E5%85%8D%E8%B4%B9%E5%8A%A0%E9%80%9F-GitHub-Pages-%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90-%E4%B8%80/",
       "keywords" : "GitHub, CDN, jsdelivr"
     } ,
   
@@ -162,7 +162,7 @@
       "title"    : "使用 jsDelivr 免费加速 GitHub Pages 博客的静态资源（二）",
       "category" : "GitHub",
       
-      "url"      : "https://isanthree.github.io//2020/05/07/%E4%BD%BF%E7%94%A8-jsDelivr-%E5%85%8D%E8%B4%B9%E5%8A%A0%E9%80%9F-GitHub-Pages-%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90-%E4%BA%8C/",
+      "url"      : "https://isanthree.github.io/2020/05/07/%E4%BD%BF%E7%94%A8-jsDelivr-%E5%85%8D%E8%B4%B9%E5%8A%A0%E9%80%9F-GitHub-Pages-%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90-%E4%BA%8C/",
       "keywords" : "GitHub, CDN, jsdelivr"
     } ,
   
@@ -170,7 +170,7 @@
       "title"    : "C++ 中的#，##，和&quot;",
       "category" : "c++",
       
-      "url"      : "https://isanthree.github.io//2020/05/10/C++%E4%B8%AD%E7%9A%84-,-,%E5%92%8C''/",
+      "url"      : "https://isanthree.github.io/2020/05/10/C++%E4%B8%AD%E7%9A%84-,-,%E5%92%8C''/",
       "keywords" : "宏，C++"
     } ,
   
@@ -178,7 +178,7 @@
       "title"    : "更聪明地学习，而不是苦读——《如何高效学习》",
       "category" : "读书",
       
-      "url"      : "https://isanthree.github.io//2020/05/17/%E6%9B%B4%E8%81%AA%E6%98%8E%E5%9C%B0%E5%AD%A6%E4%B9%A0-%E8%80%8C%E4%B8%8D%E6%98%AF%E8%8B%A6%E8%AF%BB-%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0/",
+      "url"      : "https://isanthree.github.io/2020/05/17/%E6%9B%B4%E8%81%AA%E6%98%8E%E5%9C%B0%E5%AD%A6%E4%B9%A0-%E8%80%8C%E4%B8%8D%E6%98%AF%E8%8B%A6%E8%AF%BB-%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0/",
       "keywords" : "读书笔记，吐槽"
     } ,
   
@@ -186,7 +186,7 @@
       "title"    : "对象内存结构及虚函数表分析",
       "category" : "c++",
       
-      "url"      : "https://isanthree.github.io//2020/05/24/%E5%AF%B9%E8%B1%A1%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84%E5%8F%8A%E8%99%9A%E5%87%BD%E6%95%B0%E8%A1%A8%E5%88%86%E6%9E%90/",
+      "url"      : "https://isanthree.github.io/2020/05/24/%E5%AF%B9%E8%B1%A1%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84%E5%8F%8A%E8%99%9A%E5%87%BD%E6%95%B0%E8%A1%A8%E5%88%86%E6%9E%90/",
       "keywords" : "C++"
     } ,
   
@@ -194,7 +194,7 @@
       "title"    : "Windows 实用技巧汇总",
       "category" : "Windows",
       
-      "url"      : "https://isanthree.github.io//2020/06/17/Windows-%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7%E6%B1%87%E6%80%BB/",
+      "url"      : "https://isanthree.github.io/2020/06/17/Windows-%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7%E6%B1%87%E6%80%BB/",
       "keywords" : "Windows, Skill"
     } ,
   
@@ -202,7 +202,7 @@
       "title"    : "C++ 类成员变量初始化",
       "category" : "c++",
       
-      "url"      : "https://isanthree.github.io//2020/07/13/C++%E7%B1%BB%E6%88%90%E5%91%98%E5%8F%98%E9%87%8F%E5%88%9D%E5%A7%8B%E5%8C%96/",
+      "url"      : "https://isanthree.github.io/2020/07/13/C++%E7%B1%BB%E6%88%90%E5%91%98%E5%8F%98%E9%87%8F%E5%88%9D%E5%A7%8B%E5%8C%96/",
       "keywords" : "初始化，C++"
     } ,
   
@@ -210,7 +210,7 @@
       "title"    : "C++ 程序员的 Java 指南",
       "category" : "Java",
       
-      "url"      : "https://isanthree.github.io//2020/08/30/C++-%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84-Java-%E6%8C%87%E5%8D%97/",
+      "url"      : "https://isanthree.github.io/2020/08/30/C++-%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84-Java-%E6%8C%87%E5%8D%97/",
       "keywords" : "C++, Java"
     } ,
   
@@ -218,7 +218,7 @@
       "title"    : "关于 Markdown 的一些奇技淫巧",
       "category" : "Markdown",
       
-      "url"      : "https://isanthree.github.io//2020/09/01/%E5%85%B3%E4%BA%8E-Markdown-%E7%9A%84%E4%B8%80%E4%BA%9B%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7/",
+      "url"      : "https://isanthree.github.io/2020/09/01/%E5%85%B3%E4%BA%8E-Markdown-%E7%9A%84%E4%B8%80%E4%BA%9B%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7/",
       "keywords" : "Markdown, 奇技淫巧"
     } ,
   
@@ -226,7 +226,7 @@
       "title"    : "爱你就像爱生命",
       "category" : "随笔",
       
-      "url"      : "https://isanthree.github.io//2020/09/02/Loving-you-is-like-loving-life/",
+      "url"      : "https://isanthree.github.io/2020/09/02/Loving-you-is-like-loving-life/",
       "keywords" : "王小波"
     } ,
   
@@ -234,7 +234,7 @@
       "title"    : "一份简明的 Markdown 笔记与教程",
       "category" : "Markdown",
       
-      "url"      : "https://isanthree.github.io//2020/09/06/%E4%B8%80%E4%BB%BD%E7%AE%80%E6%98%8E%E7%9A%84-Markdown-%E7%AC%94%E8%AE%B0%E4%B8%8E%E6%95%99%E7%A8%8B/",
+      "url"      : "https://isanthree.github.io/2020/09/06/%E4%B8%80%E4%BB%BD%E7%AE%80%E6%98%8E%E7%9A%84-Markdown-%E7%AC%94%E8%AE%B0%E4%B8%8E%E6%95%99%E7%A8%8B/",
       "keywords" : "Markdown, VSCode"
     } ,
   
@@ -242,7 +242,7 @@
       "title"    : "眼中的自己",
       "category" : "生活",
       
-      "url"      : "https://isanthree.github.io//2020/09/27/%E7%9C%BC%E4%B8%AD%E7%9A%84%E8%87%AA%E5%B7%B1/",
+      "url"      : "https://isanthree.github.io/2020/09/27/%E7%9C%BC%E4%B8%AD%E7%9A%84%E8%87%AA%E5%B7%B1/",
       "keywords" : "优点, 缺点"
     } ,
   
@@ -250,7 +250,7 @@
       "title"    : "有 static 变量的 namespace 被多个 cpp 包含",
       "category" : "c++",
       
-      "url"      : "https://isanthree.github.io//2020/10/26/%E6%9C%89static%E5%8F%98%E9%87%8F%E7%9A%84namespace%E8%A2%AB%E5%A4%9A%E4%B8%AAcpp%E5%8C%85%E5%90%AB/",
+      "url"      : "https://isanthree.github.io/2020/10/26/%E6%9C%89static%E5%8F%98%E9%87%8F%E7%9A%84namespace%E8%A2%AB%E5%A4%9A%E4%B8%AAcpp%E5%8C%85%E5%90%AB/",
       "keywords" : "C++"
     } ,
   
@@ -258,7 +258,7 @@
       "title"    : "习惯成就高效能",
       "category" : "随笔",
       
-      "url"      : "https://isanthree.github.io//2020/10/28/%E4%B9%A0%E6%83%AF%E6%88%90%E5%B0%B1%E9%AB%98%E6%95%88%E8%83%BD/",
+      "url"      : "https://isanthree.github.io/2020/10/28/%E4%B9%A0%E6%83%AF%E6%88%90%E5%B0%B1%E9%AB%98%E6%95%88%E8%83%BD/",
       "keywords" : "高效能, 七个习惯"
     } ,
   
@@ -266,7 +266,7 @@
       "title"    : "操作系统和数据库基础",
       "category" : "Basis",
       
-      "url"      : "https://isanthree.github.io//2020/11/06/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80/",
+      "url"      : "https://isanthree.github.io/2020/11/06/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80/",
       "keywords" : "操作系统, 数据库"
     } ,
   
@@ -274,7 +274,7 @@
       "title"    : "图解 SQL 里的各种 JOIN",
       "category" : "Database",
       
-      "url"      : "https://isanthree.github.io//2020/12/11/%E5%9B%BE%E8%A7%A3SQL%E9%87%8C%E7%9A%84%E5%90%84%E7%A7%8DJOIN/",
+      "url"      : "https://isanthree.github.io/2020/12/11/%E5%9B%BE%E8%A7%A3SQL%E9%87%8C%E7%9A%84%E5%90%84%E7%A7%8DJOIN/",
       "keywords" : "SQL, Database, 文氏图"
     } ,
   
@@ -282,7 +282,7 @@
       "title"    : "搭建大型源码阅读环境——使用 OpenGrok",
       "category" : "Tools",
       
-      "url"      : "https://isanthree.github.io//2020/12/14/%E6%90%AD%E5%BB%BA%E5%A4%A7%E5%9E%8B%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E7%8E%AF%E5%A2%83-%E4%BD%BF%E7%94%A8-OpenGrok/",
+      "url"      : "https://isanthree.github.io/2020/12/14/%E6%90%AD%E5%BB%BA%E5%A4%A7%E5%9E%8B%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E7%8E%AF%E5%A2%83-%E4%BD%BF%E7%94%A8-OpenGrok/",
       "keywords" : "OpenGrok, RTFSC"
     } ,
   
@@ -290,7 +290,7 @@
       "title"    : "welcome to my blog",
       "category" : "welcome",
       
-      "url"      : "https://isanthree.github.io//2021/05/13/welcome-to-my-blog/",
+      "url"      : "https://isanthree.github.io/2021/05/13/welcome-to-my-blog/",
       "keywords" : ""
     } ,
   
@@ -298,7 +298,7 @@
       "title"    : "小书匠编辑器",
       "category" : "小书匠",
       
-      "url"      : "https://isanthree.github.io//2021/05/13/xiaoshujiang-editor/",
+      "url"      : "https://isanthree.github.io/2021/05/13/xiaoshujiang-editor/",
       "keywords" : "keyword1, keyword2"
     } ,
   
@@ -306,7 +306,7 @@
       "title"    : "本博客模板常见问题 Q &amp; A",
       "category" : "GitHub",
       
-      "url"      : "https://isanthree.github.io//2021/05/13/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E6%A8%A1%E6%9D%BF%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98-Q-&-A/",
+      "url"      : "https://isanthree.github.io/2021/05/13/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E6%A8%A1%E6%9D%BF%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98-Q-&-A/",
       "keywords" : "Jekyll, GitHub Pages"
     } ,
   
@@ -314,7 +314,7 @@
       "title"    : "我所理解的生活",
       "category" : "生活",
       
-      "url"      : "https://isanthree.github.io//2021/05/15/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E7%94%9F%E6%B4%BB/",
+      "url"      : "https://isanthree.github.io/2021/05/15/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E7%94%9F%E6%B4%BB/",
       "keywords" : "生活,随笔,认识"
     } ,
   
@@ -322,7 +322,7 @@
       "title"    : "【vscode】intellisense 模式 msvc-x64 与编译器路径不兼容",
       "category" : "环境配置",
       
-      "url"      : "https://isanthree.github.io//2021/05/16/solve-vscode-problem/",
+      "url"      : "https://isanthree.github.io/2021/05/16/solve-vscode-problem/",
       "keywords" : "cpp, vscode"
     } ,
   
@@ -330,7 +330,7 @@
       "title"    : "[&quot;档案相关&quot;]",
       "category" : "生活",
       
-      "url"      : "https://isanthree.github.io//2021/05/19/about-archives/",
+      "url"      : "https://isanthree.github.io/2021/05/19/about-archives/",
       "keywords" : "人事档案"
     } ,
   
@@ -338,7 +338,7 @@
       "title"    : "GitHub打开/下载文件加速",
       "category" : "GitHub",
       
-      "url"      : "https://isanthree.github.io//wiki/GitHub%E6%89%93%E5%BC%80%E4%B8%8B%E8%BD%BD%E6%96%87%E4%BB%B6%E5%8A%A0%E9%80%9F/",
+      "url"      : "https://isanthree.github.io/wiki/GitHub%E6%89%93%E5%BC%80%E4%B8%8B%E8%BD%BD%E6%96%87%E4%BB%B6%E5%8A%A0%E9%80%9F/",
       "keywords" : "GitHub"
     } ,
   
@@ -346,7 +346,7 @@
       "title"    : "Git",
       "category" : "Git",
       
-      "url"      : "https://isanthree.github.io//wiki/git/",
+      "url"      : "https://isanthree.github.io/wiki/git/",
       "keywords" : "Git, 版本控制"
     } ,
   
@@ -354,7 +354,7 @@
       "title"    : "Kindle",
       "category" : "Tools",
       
-      "url"      : "https://isanthree.github.io//wiki/kindle/",
+      "url"      : "https://isanthree.github.io/wiki/kindle/",
       "keywords" : "Kindle"
     } ,
   
@@ -362,7 +362,7 @@
       "title"    : "Linux/Unix",
       "category" : "Linux",
       
-      "url"      : "https://isanthree.github.io//wiki/linux/",
+      "url"      : "https://isanthree.github.io/wiki/linux/",
       "keywords" : "Linux"
     } ,
   
@@ -370,7 +370,7 @@
       "title"    : "Markdown",
       "category" : "Markdown",
       
-      "url"      : "https://isanthree.github.io//wiki/markdown/",
+      "url"      : "https://isanthree.github.io/wiki/markdown/",
       "keywords" : "Markdown"
     } ,
   
@@ -378,7 +378,7 @@
       "title"    : "MySQL",
       "category" : "MySQL",
       
-      "url"      : "https://isanthree.github.io//wiki/mysql/",
+      "url"      : "https://isanthree.github.io/wiki/mysql/",
       "keywords" : "MySQL"
     } ,
   
@@ -386,7 +386,7 @@
       "title"    : "PowerShell",
       "category" : "Windows",
       
-      "url"      : "https://isanthree.github.io//wiki/powershell/",
+      "url"      : "https://isanthree.github.io/wiki/powershell/",
       "keywords" : "Windows, PowerShell"
     } ,
   
@@ -394,7 +394,7 @@
       "title"    : "Python",
       "category" : "Python",
       
-      "url"      : "https://isanthree.github.io//wiki/python/",
+      "url"      : "https://isanthree.github.io/wiki/python/",
       "keywords" : "Python"
     } ,
   
@@ -402,7 +402,7 @@
       "title"    : "Skill Tree",
       "category" : "脑图",
       
-      "url"      : "https://isanthree.github.io//wiki/skill-tree/",
+      "url"      : "https://isanthree.github.io/wiki/skill-tree/",
       "keywords" : "技能树, 思维导图, mindmap, 脑图"
     } ,
   
@@ -410,7 +410,7 @@
       "title"    : "Wiki Template",
       "category" : "cate1",
       
-      "url"      : "https://isanthree.github.io//wiki/template/",
+      "url"      : "https://isanthree.github.io/wiki/template/",
       "keywords" : "keyword1, keyword2"
     } ,
   
@@ -418,7 +418,7 @@
       "title"    : "Vim",
       "category" : "Vim",
       
-      "url"      : "https://isanthree.github.io//wiki/vim/",
+      "url"      : "https://isanthree.github.io/wiki/vim/",
       "keywords" : "Vim"
     } ,
   
@@ -426,7 +426,7 @@
       "title"    : "Visio",
       "category" : "Tools",
       
-      "url"      : "https://isanthree.github.io//wiki/visio/",
+      "url"      : "https://isanthree.github.io/wiki/visio/",
       "keywords" : "Visio"
     } ,
   
@@ -434,7 +434,7 @@
       "title"    : "Visual Studio",
       "category" : "Tools",
       
-      "url"      : "https://isanthree.github.io//wiki/visual-studio/",
+      "url"      : "https://isanthree.github.io/wiki/visual-studio/",
       "keywords" : "Visual Studio"
     } ,
   
@@ -442,7 +442,7 @@
       "title"    : "vscode",
       "category" : "Tools",
       
-      "url"      : "https://isanthree.github.io//wiki/vscode/",
+      "url"      : "https://isanthree.github.io/wiki/vscode/",
       "keywords" : "Visual Studio Code"
     } ,
   
@@ -450,7 +450,7 @@
       "title"    : "善用佳软",
       "category" : "Recommends",
       
-      "url"      : "https://isanthree.github.io//wiki/%E5%96%84%E7%94%A8%E4%BD%B3%E8%BD%AF/",
+      "url"      : "https://isanthree.github.io/wiki/%E5%96%84%E7%94%A8%E4%BD%B3%E8%BD%AF/",
       "keywords" : "软件, 推荐"
     } 
   
