@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://isanthree.github.io/
+url: https://isanthree.github.io
 date_format: "ordinal"
 title: focus_on_one_thing
 subtitle: "StepByStep"
