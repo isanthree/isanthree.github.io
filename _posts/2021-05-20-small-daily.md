@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 闲来说说
+title: 火车驶向云外，梦安魂于九霄
 categories: 碎碎念
 description: 记录一下日常、感受
 keywords: 日常, 感受
