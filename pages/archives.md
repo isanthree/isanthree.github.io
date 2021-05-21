@@ -21,7 +21,6 @@ permalink: /archives/
         {% assign count = count | plus: 1 %}
     {% endif %}
 {% endfor %}
-
 {% assign counts = counts | split: ', ' | reverse %}
 {% assign i = 0 %}
 
