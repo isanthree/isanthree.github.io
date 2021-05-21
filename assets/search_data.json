@@ -135,6 +135,14 @@
     } ,
   
     {
+      "title"    : "今天是新年第一天",
+      "category" : "碎碎念",
+      
+      "url"      : "https://isanthree.github.io/2020/01/01/new-year/",
+      "keywords" : "生活, 碎碎念， 说说"
+    } ,
+  
+    {
       "title"    : "一个 printf 引发的基础复习",
       "category" : "c++",
       
