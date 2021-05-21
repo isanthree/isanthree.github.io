@@ -343,6 +343,14 @@
     } ,
   
     {
+      "title"    : "闲来说说",
+      "category" : "碎碎念",
+      
+      "url"      : "https://isanthree.github.io/2021/05/20/small-daily/",
+      "keywords" : "日常, 感受"
+    } ,
+  
+    {
       "title"    : "GitHub打开/下载文件加速",
       "category" : "GitHub",
       
