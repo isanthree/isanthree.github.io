@@ -311,14 +311,6 @@
     } ,
   
     {
-      "title"    : "小书匠编辑器",
-      "category" : "小书匠",
-      
-      "url"      : "https://isanthree.github.io/2021/05/13/xiaoshujiang-editor/",
-      "keywords" : "keyword1, keyword2"
-    } ,
-  
-    {
       "title"    : "本博客模板常见问题 Q &amp; A",
       "category" : "GitHub",
       
@@ -340,6 +332,14 @@
       
       "url"      : "https://isanthree.github.io/2021/05/16/solve-vscode-problem/",
       "keywords" : "cpp, vscode"
+    } ,
+  
+    {
+      "title"    : "为windows配置GNU make环境",
+      "category" : "环境配置",
+      
+      "url"      : "https://isanthree.github.io/2021/05/18/install-make-for-windows/",
+      "keywords" : "make, makefile"
     } ,
   
     {
