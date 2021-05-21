@@ -303,14 +303,6 @@
     } ,
   
     {
-      "title"    : "welcome to my blog",
-      "category" : "welcome",
-      
-      "url"      : "https://isanthree.github.io/2021/05/13/welcome-to-my-blog/",
-      "keywords" : ""
-    } ,
-  
-    {
       "title"    : "本博客模板常见问题 Q &amp; A",
       "category" : "GitHub",
       
