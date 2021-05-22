@@ -28,7 +28,7 @@ make : 无法将“make”项识别为 cmdlet、函数、脚本文件或可运�
 
 三、解决办法：安装make for windows
 
-下载路径：[Make for windows官网](https://links.jianshu.com/go?to=http%3A%2F%2Fgnuwin32.sourceforge.net%2Fpackages%2Fmake.htm) or [蓝奏云](https://wwa.lanzoui.com/i7XwOp8id3c)
+下载路径：[Make for windows官网](http://gnuwin32.sourceforge.net/packages/make.htm) or [蓝奏云](https://wwa.lanzoui.com/i7XwOp8id3c)
 
 > 官网下载，则选择Complete package, except sources版本，下载并安装
 
