@@ -1,4 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://isanthree.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://isanthree.github.io/" rel="alternate" type="text/html" /><updated>2021-05-23T14:08:41+08:00</updated><id>https://isanthree.github.io/feed.xml</id><title type="html">focus_on_one_thing</title><subtitle>自建个人博客</subtitle><author><name>stepbystep</name></author><entry><title type="html">答辩结束，我毕业啦</title><link href="https://isanthree.github.io/2021/05/23/End-of-college-career/" rel="alternate" type="text/html" title="答辩结束，我毕业啦" /><published>2021-05-23T00:00:00+08:00</published><updated>2021-05-23T00:00:00+08:00</updated><id>https://isanthree.github.io/2021/05/23/End-of-college-career</id><content type="html" xml:base="https://isanthree.github.io/2021/05/23/End-of-college-career/">&lt;p&gt;今天是2021年5月23日，大学生涯随着答辩的结束，彻底画下句号，我终于……毕业啦！&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://isanthree.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://isanthree.github.io/" rel="alternate" type="text/html" /><updated>2021-05-30T10:00:31+08:00</updated><id>https://isanthree.github.io/feed.xml</id><title type="html">focus_on_one_thing</title><subtitle>自建个人博客</subtitle><author><name>stepbystep</name></author><entry><title type="html">win10 配置右键新建 markdown 文件</title><link href="https://isanthree.github.io/2021/05/30/Win10-right-click-to-create-markdown/" rel="alternate" type="text/html" title="win10 配置右键新建 markdown 文件" /><published>2021-05-30T00:00:00+08:00</published><updated>2021-05-30T00:00:00+08:00</updated><id>https://isanthree.github.io/2021/05/30/Win10-right-click-to-create-markdown</id><content type="html" xml:base="https://isanthree.github.io/2021/05/30/Win10-right-click-to-create-markdown/">&lt;p&gt;Content here&lt;/p&gt;
+
+&lt;p&gt;本文介绍了如何在Windows操作系统中添加右键创建.md文件的方法。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;打开注册表&lt;/p&gt;
+
+    &lt;p&gt;CMD+R，打开运行对话框；输入regedit，打开注册表编辑器&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;修改注册表&lt;/p&gt;
+
+    &lt;p&gt;在&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;计算机&amp;gt;HKEY_CLASSES_ROOT&lt;/code&gt;右键查找，输入&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Typora&lt;/code&gt;，勾选项，取消勾选值和数据&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/20210530094612.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;确认运行的程序名字，我的电脑如图所示，运行文件是&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Typora.exe&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/20210530094821.png&quot; style=&quot;zoom: 80%;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;创建注册表&lt;/p&gt;
+
+    &lt;p&gt;在磁盘任意位置新建一个文件，后缀为.reg；&lt;/p&gt;
+
+    &lt;p&gt;打开编辑刚刚创建好的注册表文件，写入以下内容：&lt;/p&gt;
+
+    &lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Windows Registry Editor Version 5.00
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;HKEY_CLASSES_ROOT&lt;span class=&quot;se&quot;&gt;\.&lt;/span&gt;md]
+@&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Typora.exe&quot;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;HKEY_CLASSES_ROOT&lt;span class=&quot;se&quot;&gt;\.&lt;/span&gt;md&lt;span class=&quot;se&quot;&gt;\S&lt;/span&gt;hellNew]
+&lt;span class=&quot;s2&quot;&gt;&quot;NullFile&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&quot;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;HKEY_CLASSES_ROOT&lt;span class=&quot;se&quot;&gt;\T&lt;/span&gt;ypora.exe]
+@&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Markdown&quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;@=”Typora.exe” 代表的是指定 .md 文件的运行程序&lt;/p&gt;
+
+      &lt;p&gt;@=”Markdown” 代表的是右键时默认的文件名字，这样写新建为&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;新建Markdown.md&lt;/code&gt;文件，而且右键菜单中显示&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MarkDown&lt;/code&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;编辑好之后,另存为，设置如图所示：&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/20210530095526.png&quot; alt=&quot;image-20210530095406930&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;文件名可以随便设置，但是后缀必须是&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.reg&lt;/code&gt;文件,保存类型一定要是&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;文本文档(*.txt)&lt;/code&gt;,编码选择&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ANSI&lt;/code&gt;,非常重要！&lt;/p&gt;
+
+    &lt;p&gt;保存文件后,双击运行，修改注册表即可，现在右键即可达到预期效果，如果不行，请重启一下。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>stepbystep</name></author><category term="环境配置" /><summary type="html">Content here</summary></entry><entry><title type="html">答辩结束，我毕业啦</title><link href="https://isanthree.github.io/2021/05/23/End-of-college-career/" rel="alternate" type="text/html" title="答辩结束，我毕业啦" /><published>2021-05-23T00:00:00+08:00</published><updated>2021-05-23T00:00:00+08:00</updated><id>https://isanthree.github.io/2021/05/23/End-of-college-career</id><content type="html" xml:base="https://isanthree.github.io/2021/05/23/End-of-college-career/">&lt;p&gt;今天是2021年5月23日，大学生涯随着答辩的结束，彻底画下句号，我终于……毕业啦！&lt;/p&gt;
 
 &lt;p&gt;除了高考，前所未有的，放松 …… 这一路走来，毕设的过程，蛮难受的 …… 此刻，一切都结束了，大学的一些人，一些事，只能留待以后的人生来怀念，大抵是说不出的另外的一种惆怅感觉了 ……&lt;/p&gt;
 
@@ -1008,74 +1062,4 @@ OR B.PK IS NULL' at line 4
   &lt;li&gt;&lt;a href=&quot;https://stackoverflow.com/questions/4796872/how-to-do-a-full-outer-join-in-mysql&quot;&gt;How to do a FULL OUTER JOIN in MySQL?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.w3resource.com/slides/sql-joins-slide-presentation.php&quot;&gt;SQL JOINS Slide Presentation&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.w3resource.com/sql/joins/perform-a-self-join.php&quot;&gt;SQL Self Join&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>stepbystep</name></author><category term="Database" /><summary type="html">从业以来主要在做客户端，用到的数据库都是表结构比较简单的 SQLite，以我那还给老师一大半的 SQL 水平倒也能对付。现在偶尔需要到后台的 SQL Server 里追查一些数据问题，就显得有点捉襟见肘了，特别是各种 JOIN，有时候傻傻分不清楚，于是索性弄明白并做个记录。</summary></entry><entry><title type="html">操作系统和数据库基础</title><link href="https://isanthree.github.io/2020/11/06/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80/" rel="alternate" type="text/html" title="操作系统和数据库基础" /><published>2020-11-06T00:00:00+08:00</published><updated>2020-11-06T00:00:00+08:00</updated><id>https://isanthree.github.io/2020/11/06/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80</id><content type="html" xml:base="https://isanthree.github.io/2020/11/06/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80/">&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;进程与线程的差别&lt;/p&gt;
-
-    &lt;p&gt;进程是程序的一次执行。线程可以理解为进程中执行的一段程序片段。在一个多任务环境下中下面的概念可以帮助我们理解两者的区别。&lt;/p&gt;
-
-    &lt;p&gt;进程间是独立的，这表现在内存空间，上下文环境上；线程运行在进程空间里。一般来讲（不使用特殊技术），进程无法突破进程边界存取其它进程内的存储空间；而线程由于处于线程空间内，所以同一进程所产生的线程共享内一内存空间。同一进程中的两段代码不能够同时执行，除非引入线程。&lt;/p&gt;
-
-    &lt;p&gt;线程是属于进程的，当进程退出时该进程所产生的线程都会被强制退出并清除。线程占用的资源要少于进程所占用的资料。&lt;/p&gt;
-
-    &lt;p&gt;进程和线程都可以有优先级。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;进程间通信的方式&lt;/p&gt;
-
-    &lt;p&gt;现在最常用进程间通信的方式有信号，信号量，消息队列，共享内存。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;线程同步的方法&lt;/p&gt;
-
-    &lt;p&gt;临界区，互斥量，信号量，事件。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;DLL 文件的作用&lt;/p&gt;
-
-    &lt;p&gt;(1)拓展应用程序&lt;/p&gt;
-
-    &lt;p&gt;(2)便于程序员合作&lt;/p&gt;
-
-    &lt;p&gt;(3)节省内存&lt;/p&gt;
-
-    &lt;p&gt;(4)共享程序资源&lt;/p&gt;
-
-    &lt;p&gt;(5)解决应用程序本地化问题&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;什么是存储过程?&lt;/p&gt;
-
-    &lt;p&gt;存储过程是一组为了完成特定功能的 SQL 语句集。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;什么是触发器?&lt;/p&gt;
-
-    &lt;p&gt;触发器是一个特殊的存储过程，它的执行不是由程序调动，也不由手工启动，而是由事件来触发。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;什么是事务?&lt;/p&gt;
-
-    &lt;p&gt;事务是访问并可能更新数据库中各种数据项的一个程序执行单元。&lt;/p&gt;
-
-    &lt;p&gt;(在关系数据库中，一个事务可以是一条SQL语句，一组 SQL 语句或整个程序)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;事务的几个特性&lt;/p&gt;
-
-    &lt;p&gt;(1)一致性：将事务中所做的操作捆绑成一个原子单元，即对于事务所进行的数据修改等操作，要么全部执行，要么全部不执行。&lt;/p&gt;
-
-    &lt;p&gt;(2)原子性：事务在完成时，必须使所有的数据都保持一致状态，而且在相关数据中，所有规则都必须应用于事务的修改，以保持所有数据的完整性。事务结束时，所有的内部数据结构都应该是正确的。&lt;/p&gt;
-
-    &lt;p&gt;(3)隔离性：由并发事务所做的修改必须与任何其他事务所做的修改相隔离。事务查看数据时数据所处的状态，要么是被另一并发事务修改之前的状态，要么是被另一并发事务修改之后的状态。即事务不会查看由另一个并发事务正在修改的数据。这种隔离方式也叫可串行性。&lt;/p&gt;
-
-    &lt;p&gt;(4)持久性：事务完成之后，它对系统的影响是永久的，即使出现系统故障也是如此。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;什么是 ADO?它与 ODBC 比起来哪种方式快?&lt;/p&gt;
-
-    &lt;p&gt;ADO(ActiveX Data Objects)是一个用于存取数据源的 COM 组件。它提供了编程语言和统一数据访问方式的 OLE DB 的一个中间层。允许开发人员编写访问数据的代码而不用关心数据库是如何实现的，而只用关心到数据库的连接。&lt;/p&gt;
-
-    &lt;p&gt;ADO 更快。(这个网上争议很多)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>stepbystep</name></author><category term="Basis" /><summary type="html">进程与线程的差别</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>stepbystep</name></author><category term="Database" /><summary type="html">从业以来主要在做客户端，用到的数据库都是表结构比较简单的 SQLite，以我那还给老师一大半的 SQL 水平倒也能对付。现在偶尔需要到后台的 SQL Server 里追查一些数据问题，就显得有点捉襟见肘了，特别是各种 JOIN，有时候傻傻分不清楚，于是索性弄明白并做个记录。</summary></entry></feed>

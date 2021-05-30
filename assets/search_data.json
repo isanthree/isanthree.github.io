@@ -359,6 +359,14 @@
     } ,
   
     {
+      "title"    : "win10 配置右键新建 markdown 文件",
+      "category" : "环境配置",
+      
+      "url"      : "https://isanthree.github.io/2021/05/30/Win10-right-click-to-create-markdown/",
+      "keywords" : "windows, typora, markdown"
+    } ,
+  
+    {
       "title"    : "GitHub打开/下载文件加速",
       "category" : "GitHub",
       
