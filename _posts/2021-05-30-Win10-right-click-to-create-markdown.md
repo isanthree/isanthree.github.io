@@ -6,8 +6,6 @@ description: win10 配置右键新建 markdown 文件
 keywords: windows, typora, markdown
 ---
 
-Content here
-
 本文介绍了如何在Windows操作系统中添加右键创建.md文件的方法。
 
 1. 打开注册表
