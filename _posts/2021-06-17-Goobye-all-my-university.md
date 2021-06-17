@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 拜拜，大学！拜拜。长沙！
-categories: [生活]
+categories: [碎碎念]
 description: 生活
 keywords: 碎碎念, 生活，大学
 ---
