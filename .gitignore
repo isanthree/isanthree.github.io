@@ -8,4 +8,4 @@ Gemfile.lock
 .vscode/
 .jekyll-metadata
 
-_drafts
+__drafts-to-post
