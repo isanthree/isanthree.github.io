@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://isanthree.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://isanthree.github.io/" rel="alternate" type="text/html" /><updated>2021-06-22T17:10:59+08:00</updated><id>https://isanthree.github.io/feed.xml</id><title type="html">focus_on_one_thing</title><subtitle>自建个人博客</subtitle><author><name>stepbystep</name></author><entry><title type="html">拜拜，大学！拜拜。长沙！</title><link href="https://isanthree.github.io/2021/06/17/Goobye-all-my-university/" rel="alternate" type="text/html" title="拜拜，大学！拜拜。长沙！" /><published>2021-06-17T00:00:00+08:00</published><updated>2021-06-17T00:00:00+08:00</updated><id>https://isanthree.github.io/2021/06/17/Goobye-all-my-university</id><content type="html" xml:base="https://isanthree.github.io/2021/06/17/Goobye-all-my-university/">&lt;p&gt;今晚，将是我在长沙大学生涯的最后一晚，昨天开完毕业典礼，领完毕业证，既开心又惆怅，或者，大概是太多不舍，还有曾经某些事、某些时光的意难平，在大家各奔东西之际，五味杂陈 ……&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://isanthree.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://isanthree.github.io/" rel="alternate" type="text/html" /><updated>2021-06-25T21:38:31+08:00</updated><id>https://isanthree.github.io/feed.xml</id><title type="html">focus_on_one_thing</title><subtitle>自建个人博客</subtitle><author><name>stepbystep</name></author><entry><title type="html">拜拜，大学！拜拜。长沙！</title><link href="https://isanthree.github.io/2021/06/17/Goobye-all-my-university/" rel="alternate" type="text/html" title="拜拜，大学！拜拜。长沙！" /><published>2021-06-17T00:00:00+08:00</published><updated>2021-06-17T00:00:00+08:00</updated><id>https://isanthree.github.io/2021/06/17/Goobye-all-my-university</id><content type="html" xml:base="https://isanthree.github.io/2021/06/17/Goobye-all-my-university/">&lt;p&gt;今晚，将是我在长沙大学生涯的最后一晚，昨天开完毕业典礼，领完毕业证，既开心又惆怅，或者，大概是太多不舍，还有曾经某些事、某些时光的意难平，在大家各奔东西之际，五味杂陈 ……&lt;/p&gt;
 
 &lt;p&gt;无论怎么样，望以后的生活，平淡而精彩，奋斗常态 ……&lt;/p&gt;
 
@@ -391,287 +391,74 @@ Did you mean?  tap
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://purge.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js&quot;&gt;https://purge.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js?v=1.7.2&quot;&gt;https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js?v=1.7.2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>stepbystep</name></author><category term="GitHub" /><summary type="html">使用这个博客模板的朋友们时不时会提出一些问题，我将它们以及对应的解决方案逐渐整理归纳，汇总到这一篇帖子里。</summary></entry><entry><title type="html">搭建大型源码阅读环境——使用 OpenGrok</title><link href="https://isanthree.github.io/2020/12/14/%E6%90%AD%E5%BB%BA%E5%A4%A7%E5%9E%8B%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E7%8E%AF%E5%A2%83-%E4%BD%BF%E7%94%A8-OpenGrok/" rel="alternate" type="text/html" title="搭建大型源码阅读环境——使用 OpenGrok" /><published>2020-12-14T00:00:00+08:00</published><updated>2020-12-14T00:00:00+08:00</updated><id>https://isanthree.github.io/2020/12/14/%E6%90%AD%E5%BB%BA%E5%A4%A7%E5%9E%8B%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E7%8E%AF%E5%A2%83%E2%80%94%E2%80%94%E4%BD%BF%E7%94%A8%20OpenGrok</id><content type="html" xml:base="https://isanthree.github.io/2020/12/14/%E6%90%AD%E5%BB%BA%E5%A4%A7%E5%9E%8B%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E7%8E%AF%E5%A2%83-%E4%BD%BF%E7%94%A8-OpenGrok/">&lt;p&gt;转载&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;RTFSC 是程序员打怪升级路上避不开的功课，那营造一个舒适的环境来提升上课的体验就很有必要了。&lt;/p&gt;
-
-&lt;p&gt;比如阅读 AOSP 这种大型源码，用什么姿势来阅读才能丝般顺滑，让 F**king Source Code 也变得不那么可恶呢？&lt;/p&gt;
-
-&lt;h2 id=&quot;工具的选择&quot;&gt;工具的选择&lt;/h2&gt;
-
-&lt;p&gt;阅读源码的工具我尝试过以下几类：&lt;/p&gt;
-
-&lt;ol&gt;
+&lt;/ul&gt;</content><author><name>stepbystep</name></author><category term="GitHub" /><summary type="html">使用这个博客模板的朋友们时不时会提出一些问题，我将它们以及对应的解决方案逐渐整理归纳，汇总到这一篇帖子里。</summary></entry><entry><title type="html">操作系统和数据库基础</title><link href="https://isanthree.github.io/2020/11/06/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80/" rel="alternate" type="text/html" title="操作系统和数据库基础" /><published>2020-11-06T00:00:00+08:00</published><updated>2020-11-06T00:00:00+08:00</updated><id>https://isanthree.github.io/2020/11/06/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80</id><content type="html" xml:base="https://isanthree.github.io/2020/11/06/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80/">&lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;IDE&lt;/p&gt;
+    &lt;p&gt;进程与线程的差别&lt;/p&gt;
 
-    &lt;p&gt;在看特定类型项目时这是我的首选。比如它原本就是一个 Visual Studio 工程，那当然用 Visual Studio 来打开阅读，看 Android App 或者 Library 源码当然用 Android Studio 体验更好。&lt;/p&gt;
+    &lt;p&gt;进程是程序的一次执行。线程可以理解为进程中执行的一段程序片段。在一个多任务环境下中下面的概念可以帮助我们理解两者的区别。&lt;/p&gt;
+
+    &lt;p&gt;进程间是独立的，这表现在内存空间，上下文环境上；线程运行在进程空间里。一般来讲（不使用特殊技术），进程无法突破进程边界存取其它进程内的存储空间；而线程由于处于线程空间内，所以同一进程所产生的线程共享内一内存空间。同一进程中的两段代码不能够同时执行，除非引入线程。&lt;/p&gt;
+
+    &lt;p&gt;线程是属于进程的，当进程退出时该进程所产生的线程都会被强制退出并清除。线程占用的资源要少于进程所占用的资料。&lt;/p&gt;
+
+    &lt;p&gt;进程和线程都可以有优先级。&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;编辑器配合插件&lt;/p&gt;
+    &lt;p&gt;进程间通信的方式&lt;/p&gt;
 
-    &lt;p&gt;比如 Vim + Ctags + Cscope，再配合文件模糊查找插件 LeaderF 和神器 YouCompleteMe，在源码规模不大时很方便，打开也轻快，阅读一些小项目时我还是乐意使用它们。&lt;/p&gt;
+    &lt;p&gt;现在最常用进程间通信的方式有信号，信号量，消息队列，共享内存。&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;专门的源码阅读工具&lt;/p&gt;
+    &lt;p&gt;线程同步的方法&lt;/p&gt;
 
-    &lt;p&gt;在针对特大型源码时，比如 AOSP 和 Chromium，使用上述两种方案可能会感觉乏力，这时候就需要祭出专门的源码阅读工具了。&lt;/p&gt;
-
-    &lt;p&gt;一类是商业软件，比如 Windows 下有著名的 Source Insight，跨平台的有 Understand，功能都很强大，都是不错的选择。当然它们都价格不菲。&lt;/p&gt;
-
-    &lt;p&gt;而我这里要讲的主角 OpenGrok 属于另一类，免费，开源，运行流畅，功能也毫不逊色。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;如果你还在寻觅适合你自己的解决方案，大可以花一点时间将以上几种都尝试一遍，哪个称手用哪个，也可以像我一样，针对不同的项目使用不同的工具。想直观了解 OpenGrok 的同学可以直接先看看一些使用 OpenGrok 的在线源码查看网站，看看它能否满足你的需求，其中的一些列在 &lt;a href=&quot;https://github.com/OpenGrok/OpenGrok/wiki/OpenGrok-installations&quot;&gt;OpenGrok installations&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h2 id=&quot;opengrok-特性&quot;&gt;OpenGrok 特性&lt;/h2&gt;
-
-&lt;p&gt;译自官方 &lt;a href=&quot;https://github.com/OpenGrok/OpenGrok/wiki/Features&quot;&gt;Wiki&lt;/a&gt;。&lt;/p&gt;
-
-&lt;p&gt;OpenGrok 提供如下特性：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;快速搜索代码的引擎&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;搜索全文、定义、符号、文件路径和修改历史&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;搜索任意指定子目录（分层搜索）&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;增量更新索引文件&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;支持类似 Google 的查询语法，比如 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;path:Makefile defs:target&lt;/code&gt;&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;搜索日期范围内修改的文件&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;支持使用通配符搜索，如 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;*&lt;/code&gt; 表示多个字符，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;?&lt;/code&gt; 表示单个字符&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;在搜索结果中展示匹配行&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;临界区，互斥量，信号量，事件。&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;一个 Web 只读版的版本历史查看界面&lt;/p&gt;
+    &lt;p&gt;DLL 文件的作用&lt;/p&gt;
 
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;文件的修改日志&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;文件在两个版本间的 diff&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;文件夹的历史记录&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;(1)拓展应用程序&lt;/p&gt;
+
+    &lt;p&gt;(2)便于程序员合作&lt;/p&gt;
+
+    &lt;p&gt;(3)节省内存&lt;/p&gt;
+
+    &lt;p&gt;(4)共享程序资源&lt;/p&gt;
+
+    &lt;p&gt;(5)解决应用程序本地化问题&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;带语法高亮的交叉引用显示，可以使用 CSS 自定义样式&lt;/p&gt;
+    &lt;p&gt;什么是存储过程?&lt;/p&gt;
+
+    &lt;p&gt;存储过程是一组为了完成特定功能的 SQL 语句集。&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;可以开发插件支持新的语言和版本控制系统&lt;/p&gt;
+    &lt;p&gt;什么是触发器?&lt;/p&gt;
 
-    &lt;p&gt;已经支持的语言： &lt;a href=&quot;https://github.com/OpenGrok/OpenGrok/wiki/Supported-Languages-and-Formats&quot;&gt;Supported Languages and Formats&lt;/a&gt;&lt;/p&gt;
-
-    &lt;p&gt;已经支持的版本控制系统：&lt;a href=&quot;https://github.com/OpenGrok/OpenGrok/wiki/Supported-Revision-Control-Systems&quot;&gt;Supported Revision Control Systems&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;配置-opengrok&quot;&gt;配置 OpenGrok&lt;/h2&gt;
-
-&lt;h3 id=&quot;截屏&quot;&gt;截屏&lt;/h3&gt;
-
-&lt;p&gt;按惯例先上图吧，万一你一眼就发现不是你的菜呢（截图来自&lt;a href=&quot;https://opengrok.github.io/OpenGrok/&quot;&gt;官网&lt;/a&gt;）。&lt;/p&gt;
-
-&lt;p&gt;搜索功能和源码树：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/posts/tools/opengrok-scr1.png&quot; alt=&quot;OpenGrok Search and Browse&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;代码导航和版本历史记录：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/posts/tools/opengrok-scr2.png&quot; alt=&quot;OpenGrok Navitation and History&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;安装和配置&quot;&gt;安装和配置&lt;/h3&gt;
-
-&lt;p&gt;如下以 Windows 下为例，Mac OS X 与 Linux 下与此类似，很多步骤能使用 brew 或者 apt-get 会更方便。&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;安装 &lt;a href=&quot;http://www.oracle.com/technetwork/java/&quot;&gt;JDK&lt;/a&gt;，并配置 JAVA_HOME 或者 JRE_HOME 环境变量为安装目录。&lt;/p&gt;
+    &lt;p&gt;触发器是一个特殊的存储过程，它的执行不是由程序调动，也不由手工启动，而是由事件来触发。&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;下载 &lt;a href=&quot;http://tomcat.apache.org/&quot;&gt;Tomcat&lt;/a&gt;，解压到一个目录，如 D:\Programs\apache-tomcat-8.5.8，并将此目录添加为 CATALINA_HOME 环境变量。&lt;/p&gt;
+    &lt;p&gt;什么是事务?&lt;/p&gt;
 
-    &lt;p&gt;&lt;img src=&quot;/images/posts/tools/catalina-home.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;事务是访问并可能更新数据库中各种数据项的一个程序执行单元。&lt;/p&gt;
+
+    &lt;p&gt;(在关系数据库中，一个事务可以是一条SQL语句，一组 SQL 语句或整个程序)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;下载 &lt;a href=&quot;https://github.com/universal-ctags/ctags&quot;&gt;Universal Ctags&lt;/a&gt; for Windows，将 ctags.exe 文件所在目录添加到 PATH 环境变量。&lt;/p&gt;
+    &lt;p&gt;事务的几个特性&lt;/p&gt;
+
+    &lt;p&gt;(1)一致性：将事务中所做的操作捆绑成一个原子单元，即对于事务所进行的数据修改等操作，要么全部执行，要么全部不执行。&lt;/p&gt;
+
+    &lt;p&gt;(2)原子性：事务在完成时，必须使所有的数据都保持一致状态，而且在相关数据中，所有规则都必须应用于事务的修改，以保持所有数据的完整性。事务结束时，所有的内部数据结构都应该是正确的。&lt;/p&gt;
+
+    &lt;p&gt;(3)隔离性：由并发事务所做的修改必须与任何其他事务所做的修改相隔离。事务查看数据时数据所处的状态，要么是被另一并发事务修改之前的状态，要么是被另一并发事务修改之后的状态。即事务不会查看由另一个并发事务正在修改的数据。这种隔离方式也叫可串行性。&lt;/p&gt;
+
+    &lt;p&gt;(4)持久性：事务完成之后，它对系统的影响是永久的，即使出现系统故障也是如此。&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;下载 &lt;a href=&quot;https://github.com/OpenGrok/OpenGrok/releases&quot;&gt;OpenGrok&lt;/a&gt; 的最新包，比如 opengrok-0.13-rc4.zip，解压到一个目录，如 D:\Programs\opengrok-0.13-rc4。&lt;/p&gt;
+    &lt;p&gt;什么是 ADO？它与 ODBC 比起来哪种方式快?&lt;/p&gt;
+
+    &lt;p&gt;ADO(ActiveX Data Objects)是一个用于存取数据源的 COM 组件。它提供了编程语言和统一数据访问方式的 OLE DB 的一个中间层。允许开发人员编写访问数据的代码而不用关心数据库是如何实现的，而只用关心到数据库的连接。&lt;/p&gt;
+
+    &lt;p&gt;ADO 更快。(这个网上争议很多)&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;配置 data root。&lt;/p&gt;
-
-    &lt;p&gt;data root 用于放置生成的索引文件和配置信息，比如我在 OpenGrok 目录下创建了一个 data 目录用作 data root，即 D:\Programs\opengrok-0.13-rc4\data。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;将 OpenGrok 的 lib 目录里的 source.war 解压到 D:\Programs\apache-tomcat-8.5.8\webapps\source，配置 WEB-INF\web.xml 文件的 CONFIGURATION 为上一步生成的 data 目录下的 configureation.xml，比如我的配置：&lt;/p&gt;
-
-    &lt;div class=&quot;language-xml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;display-name&amp;gt;&lt;/span&gt;OpenGrok&lt;span class=&quot;nt&quot;&gt;&amp;lt;/display-name&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;description&amp;gt;&lt;/span&gt;A wicked fast source browser&lt;span class=&quot;nt&quot;&gt;&amp;lt;/description&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;context-param&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;description&amp;gt;&lt;/span&gt;Full path to the configuration file where OpenGrok can read its configuration&lt;span class=&quot;nt&quot;&gt;&amp;lt;/description&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;param-name&amp;gt;&lt;/span&gt;CONFIGURATION&lt;span class=&quot;nt&quot;&gt;&amp;lt;/param-name&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;param-value&amp;gt;&lt;/span&gt;D:/Programs/opengrok-0.13-rc4/data/configuration.xml&lt;span class=&quot;nt&quot;&gt;&amp;lt;/param-value&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/context-param&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-
-    &lt;p&gt;&lt;em&gt;注：这里只是配置一个文件路径，具体的 configuration.xml 会在第 8 步时自动生成。&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;配置 source root。&lt;/p&gt;
-
-    &lt;p&gt;可以让 OpenGrok 认为 source root 下的每个子文件夹是一个项目，所以我们利用这个特性来配置和阅读多个项目源码就好了。&lt;/p&gt;
-
-    &lt;p&gt;我的做法是在 OpenGrok 下创建了一个子目录 D:\Programs\opengrok-0.13-rc4\projects，然后将需要阅读的源码使用符号链接的方式链接到这个目录里：&lt;/p&gt;
-
-    &lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; /d D:&lt;span class=&quot;se&quot;&gt;\P&lt;/span&gt;rograms&lt;span class=&quot;se&quot;&gt;\o&lt;/span&gt;pengrok-0.13-rc4&lt;span class=&quot;se&quot;&gt;\p&lt;/span&gt;rojects
-mklink /J android D:&lt;span class=&quot;se&quot;&gt;\s&lt;/span&gt;ources&lt;span class=&quot;se&quot;&gt;\a&lt;/span&gt;ndroid_5.1
-mklink /J openjdk7 D:&lt;span class=&quot;se&quot;&gt;\s&lt;/span&gt;ources&lt;span class=&quot;se&quot;&gt;\o&lt;/span&gt;penjdk7
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-
-    &lt;p&gt;这样就有一个叫 android 的工程，它实际对应 D:\sources\android_5.1 下的源码，一个叫 openjdk7 的工程，它实际对应 D:\sources\openjdk7 下的源码。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;建立索引。&lt;/p&gt;
-
-    &lt;p&gt;使用 opengrok.jar 调用 ctags 来为源码建立索引。命令行：&lt;/p&gt;
-
-    &lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;java &lt;span class=&quot;nt&quot;&gt;-jar&lt;/span&gt; /path/to/opengrok.jar &lt;span class=&quot;nt&quot;&gt;-P&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-S&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-v&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-s&lt;/span&gt; /path/to/source/root &lt;span class=&quot;nt&quot;&gt;-d&lt;/span&gt; /path/to/data/root &lt;span class=&quot;nt&quot;&gt;-W&lt;/span&gt; /path/to/configuration.xml
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-
-    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-P&lt;/code&gt; 表示为 source root 目录下的每个一级子目录生成一个工程。&lt;/p&gt;
-
-    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-S&lt;/code&gt; 表示搜索并添加 “external” source repositories。&lt;/p&gt;
-
-    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-v&lt;/code&gt; 表示打印操作的进度信息。&lt;/p&gt;
-
-    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-s&lt;/code&gt; 表示指定 source root。&lt;/p&gt;
-
-    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-d&lt;/code&gt; 表示指定 data root。&lt;/p&gt;
-
-    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-W&lt;/code&gt; 表示指定将配置写到该文件。&lt;/p&gt;
-
-    &lt;p&gt;还有更多配置选项可以使用 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;java -jar /path/to/opengrok.jar&lt;/code&gt; 查看。&lt;/p&gt;
-
-    &lt;p&gt;比如我使用的完整命令行：&lt;/p&gt;
-
-    &lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;java &lt;span class=&quot;nt&quot;&gt;-jar&lt;/span&gt; D:&lt;span class=&quot;se&quot;&gt;\P&lt;/span&gt;rograms&lt;span class=&quot;se&quot;&gt;\o&lt;/span&gt;pengrok-0.13-rc4&lt;span class=&quot;se&quot;&gt;\l&lt;/span&gt;ib&lt;span class=&quot;se&quot;&gt;\o&lt;/span&gt;pengrok.jar &lt;span class=&quot;nt&quot;&gt;-P&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-S&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-v&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-s&lt;/span&gt; D:&lt;span class=&quot;se&quot;&gt;\P&lt;/span&gt;rograms&lt;span class=&quot;se&quot;&gt;\o&lt;/span&gt;pengrok-0.13-rc4&lt;span class=&quot;se&quot;&gt;\p&lt;/span&gt;rojects &lt;span class=&quot;nt&quot;&gt;-d&lt;/span&gt; D:&lt;span class=&quot;se&quot;&gt;\P&lt;/span&gt;rograms&lt;span class=&quot;se&quot;&gt;\o&lt;/span&gt;pengrok-0.13-rc4&lt;span class=&quot;se&quot;&gt;\d&lt;/span&gt;ata &lt;span class=&quot;nt&quot;&gt;-W&lt;/span&gt; D:&lt;span class=&quot;se&quot;&gt;\P&lt;/span&gt;rograms&lt;span class=&quot;se&quot;&gt;\o&lt;/span&gt;pengrok-0.13-rc4&lt;span class=&quot;se&quot;&gt;\d&lt;/span&gt;ata&lt;span class=&quot;se&quot;&gt;\c&lt;/span&gt;onfiguration.xml
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-
-    &lt;p&gt;每次需要建立或更新索引的时候敲这么长一个命令当然很不爽，使用 doskey 或者 Cmder 里的 alias 命令将其 alias 为 opengrok-index 命令会省力不少，再不济把这命令存成个 bat 文件也行啊。&lt;/p&gt;
-
-    &lt;p&gt;为大型源码建立索引可能需要漫长的时间，这时候可以去干点别的事了。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;启动 Tomcat，愉快地 RTFSC。&lt;/p&gt;
-
-    &lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;D:&lt;span class=&quot;se&quot;&gt;\P&lt;/span&gt;rograms&lt;span class=&quot;se&quot;&gt;\a&lt;/span&gt;pache-tomcat-8.5.8&lt;span class=&quot;se&quot;&gt;\b&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\c&lt;/span&gt;atalina.bat start
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-
-    &lt;p&gt;用你最爱的浏览器打开 &lt;a href=&quot;http://localhost:8080/source/&quot;&gt;http://localhost:8080/source/&lt;/a&gt;，然后就能愉快地跟 OpenGrok 玩耍了。&lt;/p&gt;
-
-    &lt;p&gt;当新添加了项目，或者现有项目有源码更新时，再次执行上一步的命令，就能增量更新索引了。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;配置多项目&quot;&gt;配置多项目&lt;/h3&gt;
-
-&lt;p&gt;我曾经为如何在 OpenGrok 里配置多项目苦恼了好久——一开始我是把 Android 源码的根目录当作 source root 的，可想而知 OpenGrok 把 Android 分成了好多个子项目，而这时我也没法再添加新的工程了。&lt;/p&gt;
-
-&lt;p&gt;后来才发现建一个专用的 source root，然后把各种项目源码根目录软链接过来，让 OpenGrok 为 source root 下的每个 symbol 一级子目录建立一个项目才是正确的使用方法。&lt;/p&gt;
-
-&lt;p&gt;Windows 下建立软链接的方法是使用 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mklink /J android D:\sources\android_5.1&lt;/code&gt;，Mac OS X 和 Linux 下可以使用 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ln -s /path/to/source project_name&lt;/code&gt;。&lt;/p&gt;
-
-&lt;h3 id=&quot;折腾狂魔&quot;&gt;折腾狂魔&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;在 Vim 里使用&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;没错，还有人做了支持在 Vim 里使用 OpenGrok 的插件，如果你是 Vim 控+折腾狂魔，可以一试，这里仅给出插件地址：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/asenac/vim-opengrok&quot;&gt;asenac/vim-opengrok&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jdevera/vim-opengrok-search&quot;&gt;jdevera/vim-opengrok-search&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;反正像我这种智商是折腾不动了，就安心在浏览器里用了。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;在源码里做笔记&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;配合 Chrome 插件 &lt;a href=&quot;https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh&quot;&gt;Diigo&lt;/a&gt;，还能给源码加标签，写注释等等。&lt;/p&gt;
-
-&lt;p&gt;参考：&lt;a href=&quot;https://www.zhihu.com/question/33505693/answer/132224974&quot;&gt;https://www.zhihu.com/question/33505693/answer/132224974&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;常见问题&quot;&gt;常见问题&lt;/h2&gt;
-
-&lt;h3 id=&quot;打开网页后报错&quot;&gt;打开网页后报错&lt;/h3&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;There was an error!
-CONFIGURATION parameter has not been configured in web.xml! Please configure your webapp.
-Unable to determine source root path. Missing configuration?
-java.io.FileNotFoundException: Unable to determine source root path. Missing configuration?
-	at org.opensolaris.opengrok.web.PageConfig.checkSourceRootExistence(PageConfig.java:1562)
-	at org.apache.jsp.index_jsp._jspService(index_jsp.java:222)
-	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
-	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:443)
-	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
-	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.opensolaris.opengrok.web.StatisticsFilter.doFilter(StatisticsFilter.java:55)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.opensolaris.opengrok.web.AuthorizationFilter.doFilter(AuthorizationFilter.java:83)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
-	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
-	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
-	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
-	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
-	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
-	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
-	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
-	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
-	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
-	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
-	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
-	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
-	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
-	at java.lang.Thread.run(Thread.java:745)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;这一般是由于更新或切换了 OpenGrok 版本，但却没有将 tomcat 的 webapps 目录下的 source 文件夹替换为对应版本。&lt;/p&gt;
-
-&lt;h2 id=&quot;后话&quot;&gt;后话&lt;/h2&gt;
-
-&lt;p&gt;古人教会了我们工欲善其事，必先利其器的智慧，但我们也不能沉迷和徘徊于各种利器之间，选择一样自己感觉最称手的工具，把它用熟练，少再在这上面花时间折腾，毕竟把有限的生命投入到无限的 RTFSC 才是正道不是么。&lt;/p&gt;</content><author><name>stepbystep</name></author><category term="Tools" /><summary type="html">转载</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>stepbystep</name></author><category term="Basis" /><summary type="html">进程与线程的差别</summary></entry></feed>
