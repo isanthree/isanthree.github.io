@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://isanthree.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://isanthree.github.io/" rel="alternate" type="text/html" /><updated>2021-06-25T21:38:31+08:00</updated><id>https://isanthree.github.io/feed.xml</id><title type="html">focus_on_one_thing</title><subtitle>自建个人博客</subtitle><author><name>stepbystep</name></author><entry><title type="html">拜拜，大学！拜拜。长沙！</title><link href="https://isanthree.github.io/2021/06/17/Goobye-all-my-university/" rel="alternate" type="text/html" title="拜拜，大学！拜拜。长沙！" /><published>2021-06-17T00:00:00+08:00</published><updated>2021-06-17T00:00:00+08:00</updated><id>https://isanthree.github.io/2021/06/17/Goobye-all-my-university</id><content type="html" xml:base="https://isanthree.github.io/2021/06/17/Goobye-all-my-university/">&lt;p&gt;今晚，将是我在长沙大学生涯的最后一晚，昨天开完毕业典礼，领完毕业证，既开心又惆怅，或者，大概是太多不舍，还有曾经某些事、某些时光的意难平，在大家各奔东西之际，五味杂陈 ……&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://isanthree.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://isanthree.github.io/" rel="alternate" type="text/html" /><updated>2021-07-01T11:42:48+08:00</updated><id>https://isanthree.github.io/feed.xml</id><title type="html">focus_on_one_thing</title><subtitle>自建个人博客</subtitle><author><name>stepbystep</name></author><entry><title type="html">祝贺中国共产党建党 100 周年</title><link href="https://isanthree.github.io/2021/07/01/100th-anniversary-of-the-Communist-Party-of-China/" rel="alternate" type="text/html" title="祝贺中国共产党建党 100 周年" /><published>2021-07-01T00:00:00+08:00</published><updated>2021-07-01T00:00:00+08:00</updated><id>https://isanthree.github.io/2021/07/01/100th-anniversary-of-the-Communist-Party-of-China</id><content type="html" xml:base="https://isanthree.github.io/2021/07/01/100th-anniversary-of-the-Communist-Party-of-China/">&lt;p&gt;中国共产党建党 100 周年，祝福祖国繁荣昌盛！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210701113911.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210701113928.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;</content><author><name>stepbystep</name></author><category term="碎碎念" /><summary type="html">中国共产党建党 100 周年，祝福祖国繁荣昌盛！</summary></entry><entry><title type="html">拜拜，大学！拜拜。长沙！</title><link href="https://isanthree.github.io/2021/06/17/Goobye-all-my-university/" rel="alternate" type="text/html" title="拜拜，大学！拜拜。长沙！" /><published>2021-06-17T00:00:00+08:00</published><updated>2021-06-17T00:00:00+08:00</updated><id>https://isanthree.github.io/2021/06/17/Goobye-all-my-university</id><content type="html" xml:base="https://isanthree.github.io/2021/06/17/Goobye-all-my-university/">&lt;p&gt;今晚，将是我在长沙大学生涯的最后一晚，昨天开完毕业典礼，领完毕业证，既开心又惆怅，或者，大概是太多不舍，还有曾经某些事、某些时光的意难平，在大家各奔东西之际，五味杂陈 ……&lt;/p&gt;
 
 &lt;p&gt;无论怎么样，望以后的生活，平淡而精彩，奋斗常态 ……&lt;/p&gt;
 
@@ -391,74 +395,4 @@ Did you mean?  tap
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://purge.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js&quot;&gt;https://purge.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js?v=1.7.2&quot;&gt;https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js?v=1.7.2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>stepbystep</name></author><category term="GitHub" /><summary type="html">使用这个博客模板的朋友们时不时会提出一些问题，我将它们以及对应的解决方案逐渐整理归纳，汇总到这一篇帖子里。</summary></entry><entry><title type="html">操作系统和数据库基础</title><link href="https://isanthree.github.io/2020/11/06/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80/" rel="alternate" type="text/html" title="操作系统和数据库基础" /><published>2020-11-06T00:00:00+08:00</published><updated>2020-11-06T00:00:00+08:00</updated><id>https://isanthree.github.io/2020/11/06/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80</id><content type="html" xml:base="https://isanthree.github.io/2020/11/06/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80/">&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;进程与线程的差别&lt;/p&gt;
-
-    &lt;p&gt;进程是程序的一次执行。线程可以理解为进程中执行的一段程序片段。在一个多任务环境下中下面的概念可以帮助我们理解两者的区别。&lt;/p&gt;
-
-    &lt;p&gt;进程间是独立的，这表现在内存空间，上下文环境上；线程运行在进程空间里。一般来讲（不使用特殊技术），进程无法突破进程边界存取其它进程内的存储空间；而线程由于处于线程空间内，所以同一进程所产生的线程共享内一内存空间。同一进程中的两段代码不能够同时执行，除非引入线程。&lt;/p&gt;
-
-    &lt;p&gt;线程是属于进程的，当进程退出时该进程所产生的线程都会被强制退出并清除。线程占用的资源要少于进程所占用的资料。&lt;/p&gt;
-
-    &lt;p&gt;进程和线程都可以有优先级。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;进程间通信的方式&lt;/p&gt;
-
-    &lt;p&gt;现在最常用进程间通信的方式有信号，信号量，消息队列，共享内存。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;线程同步的方法&lt;/p&gt;
-
-    &lt;p&gt;临界区，互斥量，信号量，事件。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;DLL 文件的作用&lt;/p&gt;
-
-    &lt;p&gt;(1)拓展应用程序&lt;/p&gt;
-
-    &lt;p&gt;(2)便于程序员合作&lt;/p&gt;
-
-    &lt;p&gt;(3)节省内存&lt;/p&gt;
-
-    &lt;p&gt;(4)共享程序资源&lt;/p&gt;
-
-    &lt;p&gt;(5)解决应用程序本地化问题&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;什么是存储过程?&lt;/p&gt;
-
-    &lt;p&gt;存储过程是一组为了完成特定功能的 SQL 语句集。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;什么是触发器?&lt;/p&gt;
-
-    &lt;p&gt;触发器是一个特殊的存储过程，它的执行不是由程序调动，也不由手工启动，而是由事件来触发。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;什么是事务?&lt;/p&gt;
-
-    &lt;p&gt;事务是访问并可能更新数据库中各种数据项的一个程序执行单元。&lt;/p&gt;
-
-    &lt;p&gt;(在关系数据库中，一个事务可以是一条SQL语句，一组 SQL 语句或整个程序)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;事务的几个特性&lt;/p&gt;
-
-    &lt;p&gt;(1)一致性：将事务中所做的操作捆绑成一个原子单元，即对于事务所进行的数据修改等操作，要么全部执行，要么全部不执行。&lt;/p&gt;
-
-    &lt;p&gt;(2)原子性：事务在完成时，必须使所有的数据都保持一致状态，而且在相关数据中，所有规则都必须应用于事务的修改，以保持所有数据的完整性。事务结束时，所有的内部数据结构都应该是正确的。&lt;/p&gt;
-
-    &lt;p&gt;(3)隔离性：由并发事务所做的修改必须与任何其他事务所做的修改相隔离。事务查看数据时数据所处的状态，要么是被另一并发事务修改之前的状态，要么是被另一并发事务修改之后的状态。即事务不会查看由另一个并发事务正在修改的数据。这种隔离方式也叫可串行性。&lt;/p&gt;
-
-    &lt;p&gt;(4)持久性：事务完成之后，它对系统的影响是永久的，即使出现系统故障也是如此。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;什么是 ADO？它与 ODBC 比起来哪种方式快?&lt;/p&gt;
-
-    &lt;p&gt;ADO(ActiveX Data Objects)是一个用于存取数据源的 COM 组件。它提供了编程语言和统一数据访问方式的 OLE DB 的一个中间层。允许开发人员编写访问数据的代码而不用关心数据库是如何实现的，而只用关心到数据库的连接。&lt;/p&gt;
-
-    &lt;p&gt;ADO 更快。(这个网上争议很多)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>stepbystep</name></author><category term="Basis" /><summary type="html">进程与线程的差别</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>stepbystep</name></author><category term="GitHub" /><summary type="html">使用这个博客模板的朋友们时不时会提出一些问题，我将它们以及对应的解决方案逐渐整理归纳，汇总到这一篇帖子里。</summary></entry></feed>
