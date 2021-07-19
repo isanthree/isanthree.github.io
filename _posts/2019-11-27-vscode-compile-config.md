@@ -65,7 +65,9 @@ keywords: vscode, 环境配置
 
 .vscode文件如下：
 
-## c_cpp_properties.json
+## 单文件编译：
+
+### c_cpp_properties.json
 
 c_cpp_properties.json
 
@@ -99,7 +101,7 @@ c_cpp_properties.json
 }
 ```
 
-## launch.json
+### launch.json
 
 launch.json
 
@@ -126,7 +128,7 @@ launch.json
 }
 ```
 
-## settings.json
+### settings.json
 
 settings.json
 
@@ -206,7 +208,7 @@ settings.json
 
 
 
-## tasks.json
+### tasks.json
 
 tasks.json
 
@@ -235,6 +237,83 @@ tasks.json
             "message": 5
         }
     }
+}
+```
+
+## 多文件编译：
+
+以上的配置是单文件编译，想要编译一个项目，即多文件编译需要替换 launch.json 和 tasks.json 这两个文件。
+
+### launch.json
+
+```json
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C++ Launch (GDB)", // 配置启动名称(我随便取了一个)
+            "type": "cppdbg",
+            "request": "launch", // 请求配置类型，可以为launch（启动）或attach（附加）
+            "program": "${workspaceFolder}\\${workspaceFolderBasename}.exe", // 必须和tasks.json里的args "-o"参数后面的参数一致
+            "args": [], // main函数没有使用参数的话，为空即可
+            "stopAtEntry": false, // 程序是否暂停在入口，不要，手动打断点吧
+            // "cwd": "${workspaceFolder}\\oop\\string-class", // 源文件的工作目录
+            "cwd": "${workspaceFolder}", // 源文件的工作目录
+            "environment": [], // 环境变量，空着即可
+            "externalConsole": false, // 是否使用外部控制台
+            "internalConsoleOptions": "neverOpen", // 是否输入gdb命令
+            "MIMode": "gdb", // 指定连接的调试器，minGW用gdb吧
+            "miDebuggerPath": "D:\\software\\MinGW\\bin\\gdb.exe", // 调试器存放位置
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": false
+                }
+            ],
+            "preLaunchTask": "Compile" // 必须和tasks.json的label相同
+        }
+    ]
+}
+
+```
+
+### tasks.json
+
+```json
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compile", // 这是项目执行名称，必须与launch.json的preLaunchTask相同
+            "command": "D:\\software\\MinGW\\bin\\g++.exe", // 指定编译器，我用的mingw64编译，安装目录我放在G盘，你需要根据自己的情况更改
+            "args": [
+                // "${workspaceFolder}\\*.cpp",
+                "${workspaceFolder}\\oop\\string-class\\*.cpp",
+                "-o",
+                "${workspaceFolder}\\${workspaceFolderBasename}.exe",
+                "-g"
+            ], // 这里的*.cpp是关键
+            // args是编译指令的参数，注意"-o"后面的那个参数，指定了输出可执行文件的存放位置，这个参数必须与launch.json的program相同
+            "type": "shell", // process和shell，我用了shell，具体参见VSCode官方文档
+            "options": {
+                "cwd": "D:\\software\\MinGW\\bin\\" // 指定编译器工作目录，和minGW配置的环境变量相同
+            },
+            "problemMatcher": [
+                "$gcc"
+            ], // (可选)用于捕捉编译时终端的报错信息
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always", // 执行任务时跳转到终端
+                "focus": false, // C/C++必须设为false
+                "panel": "shared" // 编译信息只使用一个终端面板
+            }
+        }
+    ]
 }
 ```
 
