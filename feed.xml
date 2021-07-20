@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://isanthree.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://isanthree.github.io/" rel="alternate" type="text/html" /><updated>2021-07-20T22:40:35+08:00</updated><id>https://isanthree.github.io/feed.xml</id><title type="html">focus_on_one_thing</title><subtitle>自建个人博客</subtitle><author><name>stepbystep</name></author><entry><title type="html">面向对象编程学习整理</title><link href="https://isanthree.github.io/2021/07/20/oop/" rel="alternate" type="text/html" title="面向对象编程学习整理" /><published>2021-07-20T00:00:00+08:00</published><updated>2021-07-20T00:00:00+08:00</updated><id>https://isanthree.github.io/2021/07/20/oop</id><content type="html" xml:base="https://isanthree.github.io/2021/07/20/oop/">&lt;h1 id=&quot;面向对象编程&quot;&gt;面向对象编程&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://isanthree.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://isanthree.github.io/" rel="alternate" type="text/html" /><updated>2021-07-20T22:57:52+08:00</updated><id>https://isanthree.github.io/feed.xml</id><title type="html">focus_on_one_thing</title><subtitle>自建个人博客</subtitle><author><name>stepbystep</name></author><entry><title type="html">面向对象编程学习整理</title><link href="https://isanthree.github.io/2021/07/20/oop/" rel="alternate" type="text/html" title="面向对象编程学习整理" /><published>2021-07-20T00:00:00+08:00</published><updated>2021-07-20T00:00:00+08:00</updated><id>https://isanthree.github.io/2021/07/20/oop</id><content type="html" xml:base="https://isanthree.github.io/2021/07/20/oop/">&lt;h1 id=&quot;面向对象编程&quot;&gt;面向对象编程&lt;/h1&gt;
 
 &lt;h2 id=&quot;内联函数inline&quot;&gt;内联函数（inline）&lt;/h2&gt;
 
@@ -423,17 +423,17 @@
 
 &lt;p&gt;复合表示一种&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;has-a&lt;/code&gt;的关系，即类的成员存在一个或多个别的类，STL 中&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;queue&lt;/code&gt;的实现就使用了复合关系。这种结构也被称为「&lt;strong&gt;adapter 模式&lt;/strong&gt;」。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210719220346.png&quot; alt=&quot;在这里插入图片描述&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720224617.png&quot; alt=&quot;在这里插入图片描述&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;复合关系下构造由内而外，析构由外而内：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210719220406.png&quot; alt=&quot;在这里插入图片描述&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720224623.png&quot; alt=&quot;在这里插入图片描述&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;委托aggregation-composition-by-reference&quot;&gt;委托（aggregation; composition by reference）&lt;/h2&gt;
 
 &lt;p&gt;pointer to implement(Handle/Body)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210719213139.png&quot; alt=&quot;请添加图片描述&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720224629.png&quot; alt=&quot;请添加图片描述&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;委托将类的定义与类的实现分隔开来，也被称为「编译防火墙」。&lt;/p&gt;
 
@@ -441,11 +441,11 @@
 
 &lt;p&gt;继承表示一种&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;is-a&lt;/code&gt;的关系，STL 中&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_List_node&lt;/code&gt;的实现就使用了继承关系.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210719213140.png&quot; alt=&quot;在这里插入图片描述&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720224634.png&quot; alt=&quot;在这里插入图片描述&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;继承关系下，构造由内而外，析构由外而内：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210719213141.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720224639.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;父类的析构函数必须是 virtual，否则会出现 undefine behavior&lt;/p&gt;
@@ -461,15 +461,15 @@
   &lt;li&gt;纯虚(pure virtual)函數：子类必须重新定义（override，复写）的函数，没有默认定义&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210719184951.png&quot; alt=&quot;在这里插入图片描述&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720224644.png&quot; alt=&quot;在这里插入图片描述&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;虚函数的使用举例说明：「使用虚函数框架」，假设有一个人想要实现一个一般性的文件处理类，这个文件处理过程包括：打开文件、读取文件、关闭文件，现在的思路是，在这个文件处理类里面实现「打开文件」、「关闭文件」这两个操作，但是，「读取文件」操作留给用户定义，因为作者不知道用户要以什么样的方式（格式）去读取这个文件，此时，「读取文件」操作就可以用虚函数来写，不给出具体定义或实现，让用户（子类）去复写，这就是大体的框架。下面是代码流程示例：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210719214806.png&quot; alt=&quot;在这里插入图片描述&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720224647.png&quot; alt=&quot;在这里插入图片描述&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;如图，框架中父类&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CDocument&lt;/code&gt;的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Serialize()&lt;/code&gt;函数设为虚函数，由框架使用者编写的子类&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CMyDoc&lt;/code&gt;定义具体的文件处理过程，代码如下：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210719215858.png&quot; alt=&quot;在这里插入图片描述&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720224652.png&quot; alt=&quot;在这里插入图片描述&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;虚函数是很实用的，因为很多时候，设计者设计的都只是一个框架，里面涉及了哪些功能，设计者都已经给我们想好了，这些都是固定的功能。但是，有另外一些功能是需要私人定制的，根据不同的需求有不同的实现，那么将这些功能函数声明为虚函数，由用户来定义实现，就显得很必要了。&lt;/p&gt;
 
@@ -481,7 +481,7 @@
 
 &lt;p&gt;使用 Observer 模式实现多个窗口订阅同一份内容并保持实时更新：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210719222810.png&quot; alt=&quot;在这里插入图片描述&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720224656.png&quot; alt=&quot;在这里插入图片描述&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;类结构如下图：&lt;/p&gt;
 
@@ -491,13 +491,13 @@
 
 &lt;p&gt;使用 Composite 模式实现多态，类结构图如下：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210719223406.png&quot; alt=&quot;在这里插入图片描述&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720224701.png&quot; alt=&quot;在这里插入图片描述&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;使用委托继承实现-prototype-模式&quot;&gt;使用委托+继承实现 Prototype 模式&lt;/h2&gt;
 
 &lt;p&gt;看一张图：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210719231025.png&quot; alt=&quot;image-20210719231022071&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720224943.png&quot; alt=&quot;image-20210719231022071&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;上面的图一开始看的一头雾水，不急，先看比较贴近生活的东西。&lt;/p&gt;
 
@@ -507,7 +507,7 @@
 
 &lt;p&gt;M 公司一直在使用自行开发的一个 OA 系统进行日常工作办理，但在使用过程中，越来越多的人对工作周报的创建和编写模块产生了抱怨。追其原因，M 公司的 OA 管理员发现，由于某些岗位每周工作存在重复性，工作周报内容都大同小异，如下图所示：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210719231225.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720224948.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;这些周报只有一些小地方存在差异，但是现行系统每周默认创建的周报都是空白报表，因此用户只能通过重新输入或不断地复制与粘贴来填写重复的周报内容，极大地降低了工作效率，浪费宝贵的时间。如何快速创建相同或者相似的工作周报，成为了 M 公司软件开发人员的一个新问题。&lt;/p&gt;
 
@@ -531,7 +531,7 @@
 
 &lt;p&gt;原型模式的结构如下图所示：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210719231627.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720224951.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;● Prototype（抽象原型类）：&lt;/strong&gt; 它是声明克隆方法的接口，是所有具体原型类的公共父类，可以是抽象类也可以是接口，甚至还可以是具体实现类。&lt;/p&gt;
 
@@ -541,23 +541,23 @@
 
 &lt;p&gt;再回到这里，再看下面这张示意图就简单了：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210719231025.png&quot; alt=&quot;image-20210719231022071&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720224943.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;代码实现：&lt;/p&gt;
 
 &lt;p&gt;Image 类：父类&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210720004647.png&quot; alt=&quot;image-20210719233044038&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720225509.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;LandSatImage 类 和 SpotImage 类：继承于 Image 的两个子类&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210720004648.png&quot; alt=&quot;image-20210719233432010&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720225603.png&quot; alt=&quot;image-20210719233432010&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210720004649.png&quot; alt=&quot;image-20210719233917331&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720225609.png&quot; alt=&quot;image-20210719233917331&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;demo：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.fastgit.org/isanthree/blog-gallery/master/pic/20210720004650.png&quot; alt=&quot;image-20210719234035120&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/juststepbystep/pic-bed/raw/master/pic/20210720225006.png&quot; alt=&quot;image-20210719234035120&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;关于面向对象的内存待更新 …… 生命不息，学习不止 ……&lt;/p&gt;</content><author><name>stepbystep</name></author><category term="OOP" /><summary type="html">面向对象编程</summary></entry><entry><title type="html">祝贺中国共产党建党 100 周年</title><link href="https://isanthree.github.io/2021/07/01/100th-anniversary-of-the-Communist-Party-of-China/" rel="alternate" type="text/html" title="祝贺中国共产党建党 100 周年" /><published>2021-07-01T00:00:00+08:00</published><updated>2021-07-01T00:00:00+08:00</updated><id>https://isanthree.github.io/2021/07/01/100th-anniversary-of-the-Communist-Party-of-China</id><content type="html" xml:base="https://isanthree.github.io/2021/07/01/100th-anniversary-of-the-Communist-Party-of-China/">&lt;p&gt;中国共产党建党 100 周年，祝福祖国繁荣昌盛！&lt;/p&gt;
 
