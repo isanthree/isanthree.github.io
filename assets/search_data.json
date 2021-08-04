@@ -173,6 +173,14 @@
     } ,
   
     {
+      "title"    : "MingGW64 各版本区别及安装说明",
+      "category" : "cpp",
+      
+      "url"      : "https://isanthree.github.io/2020/05/20/about-MinGW/",
+      "keywords" : "cpp, MingGW"
+    } ,
+  
+    {
       "title"    : "爱你就像爱生命",
       "category" : "随笔",
       
