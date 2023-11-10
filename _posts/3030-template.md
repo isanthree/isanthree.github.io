@@ -8,3 +8,4 @@ keywords: keyword1, keyword2
 
 Content here
 
+CDN加速：`https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/`
