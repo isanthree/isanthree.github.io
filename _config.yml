@@ -47,7 +47,7 @@ compress_html:
   
 # 代码高亮风格，支持的 theme 列表见 https://github.com/mzlogin/rouge-themes
 # highlight_theme: github
-highlight_theme: thankful_eyes
+highlight_theme: monokai  # thankful_eyes 换成 monokai
 
 # ---------------- #
 #      Author      #
