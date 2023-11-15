@@ -18,7 +18,7 @@ keywords: 域名配置
 
 点击 “添加记录” ：
 
-![image-20231114084140844](https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/image-20231114084140844.png)
+![image-202311140841408443](https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/image-202311140841408443.png)
 
 ![image-20231114084852966](https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/image-20231114084852966.png)
 
