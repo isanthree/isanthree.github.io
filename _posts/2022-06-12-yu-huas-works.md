@@ -16,7 +16,7 @@ keywords: 余华作品,余华,全集,pdf,epub,mobi,azw3,下载
 
 - 余华作品全集(套装共 13 册).azw3：<https://url03.ctfile.com/f/24333903-971513611-0ac7b5?p=5831> 【访问密码: 5831】，选择【**普通下载**】
 
-<center><img src="https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/yu-hua-s-works.jpg">yu-hua-s-works.jpg</center>
+<center><img src="https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/yu-hua-s-works.jpg"></center>
 
 - **《活着》**：一个微小的个人，在大时代中载浮载沉、漂泊无向，却依旧闪耀着小人物坚韧与顽强。《活着》的主角福贵本是个阔少爷，可他嗜赌如命赌光了家业。父亲被他活活气死，母亲在穷困中患病去世，福贵也被国民党抓去当壮丁。几经波折回到家中，还没过几天安稳日子，妻子、儿女和孙子相继死去，最后只剩福贵和一头老牛相依为命。但是，福贵依旧活着，仿佛比往日更加洒脱与坚强。
 
