@@ -16,62 +16,62 @@ keywords: 余华作品,余华,全集,pdf,epub,mobi,azw3,下载
 
 - 余华作品全集(套装共 13 册).azw3：<https://url03.ctfile.com/f/24333903-971513611-0ac7b5?p=5831> 【访问密码: 5831】，选择【**普通下载**】
 
-![yu-hua-s-works.jpg](https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/yu-hua-s-works.jpg)
+<center><img src="https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/yu-hua-s-works.jpg">yu-hua-s-works.jpg</center>
 
 - **《活着》**：一个微小的个人，在大时代中载浮载沉、漂泊无向，却依旧闪耀着小人物坚韧与顽强。《活着》的主角福贵本是个阔少爷，可他嗜赌如命赌光了家业。父亲被他活活气死，母亲在穷困中患病去世，福贵也被国民党抓去当壮丁。几经波折回到家中，还没过几天安稳日子，妻子、儿女和孙子相继死去，最后只剩福贵和一头老牛相依为命。但是，福贵依旧活着，仿佛比往日更加洒脱与坚强。
 
-![eb627136-94a7-4ce1-8677-10644a811c44.jpg](https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/eb627136-94a7-4ce1-8677-10644a811c44.jpg)
+<center><img src="https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/eb627136-94a7-4ce1-8677-10644a811c44.jpg"></center>
 
 - **《许三观卖血记》**：《许三观卖血记》才是更具现实意义的 “活着”。对于任何一个人来说，但凡有一点活路，都不会去冒着生命危险去卖血。
 
   卖血，几乎是一个穷途末路的人最后的生存方式。但是，在许三观的故事里，他却先后卖血 12 次。每次卖血，许三观都有必须卖的理由。是在一次次的卖血中，我们感受到了一个人活在世上的卑微与温情。
 
-  ![img](https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/9c31043e-2c23-4b43-b537-84e42bfe0e1a.jpg)
+<center><img src="https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/9c31043e-2c23-4b43-b537-84e42bfe0e1a.jpg"></center>
 
 - **《兄弟》**：如果说《活着》和《许三观卖血记》透露着生存的些许希望的话，那《兄弟》可是彻彻底底的绝望。余华在故事里，用一对兄弟的无常人生，掀开了人性之中令人胆寒的恶。曾经相依为命的兄弟，因为女人，变得势同水火、形同陌路。在充满绝望的故事里，时刻提醒我们道德的力量。
 
-![img](https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/37aa133e-c001-4718-b1a6-82f491d368ad.jpg)
+<center><img src="https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/37aa133e-c001-4718-b1a6-82f491d368ad.jpg"></center>
 
 - **《在细雨中呼喊》**：余华最厉害的地方就是完全没有华丽辞藻，却能够渲染一个华丽的气氛。《在细雨中呼喊》中，虽然没有波澜壮阔的恢弘叙事，但在平淡如水的农村社会，依然有诉不完的故事。书中讲述了一个生父母不爱、亲兄弟不喜的少年孙光林，在一次次被排挤孤立却又坚强站起，最终与生活和解的故事。当我们凶狠地对待这个世界时，这个世界突然变得温柔了。孙光林在细雨中呼唤亲情、友情的模样，像极了在茫然无措中，渴望着温暖的我们。或许只有经受住孤独的侵蚀，我们才能才能变得真正强大。
 
-![img](https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/5a69d6ec-5cbf-4c1b-9dd4-9cd9a7142d89.jpg)
+<center><img src="https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/5a69d6ec-5cbf-4c1b-9dd4-9cd9a7142d89.jpg"></center>
 
 - **《黄昏里的男孩》**：余华最厉害的地方，在于他总是能用最平实无华的文字，淋漓尽致而深刻地反映一个时代的鲜明特征。
 
   对于《黄昏里的男孩》，我们既可以把它当小说看，因为有些离奇的情节超出了现实的框架。同时，也可以把它当成寓言来看，因为有些黑色幽默不动声色间就完成了绝佳的讽刺。有时候，让人感觉滑稽可笑，难以置信。有时候，又让人看了觉得崩溃，仿佛自己就身在其中。
 
-![img](https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/7d19102d-8339-4d1a-bce4-15e039f74e71.jpg)
+<center><img src="https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/7d19102d-8339-4d1a-bce4-15e039f74e71.jpg"></center>
 
 - **《战栗》**：《战栗》，收录了余华的三篇中篇小说。第一篇《偶然事件》，揭示的是命运的反复无常。第二篇《一个地主的死》，则是一步步走向深渊的人生。第三篇《战栗》，讲述了一个被命运捉弄的诗人，无奈地用痛苦的方式表达欢乐。虽有荒诞不羁，但是都是来源于现实。
 
-![img](https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/773bf028-5d5d-4389-94f1-c04a611f2e42.jpg)
+<center><img src="https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/773bf028-5d5d-4389-94f1-c04a611f2e42.jpg"></center>
 
 - **《没有一条道路是重复的》**：《没有一条道路是重复的》，是余华的杂文随笔。在上世纪八九十年代，文学随笔有点像今天的长微博。
 
   读起来就像是一位历经风霜的老人与你侃侃而谈，分享过来人的人生经历。啰里啰嗦的感想里，处处闪耀着真诚的智慧结晶。
 
-![img](https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/8617adbd-f904-4e27-9fa3-c8a2857e81c8.jpg)
+<center><img src="https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/8617adbd-f904-4e27-9fa3-c8a2857e81c8.jpg"></center>
 
 - **《世事如烟》**：余华虽然起点不高、资历也不深，但是却能在比较短的时间里，以跳跃式的姿态达到了一个又一个的文学高度。《世事如烟》这部中短篇小说集，可以说充分展现了余华作品的进阶与蜕变。就连余华自己也说，《世事如烟》是我人生中美好的往事,是我年轻时曾经有过的梦幻迷离的生活。
 
-![img](https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/0f3e83c5-81dd-4713-b575-ef0fa1d0552c.jpg)
+<center><img src="https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/0f3e83c5-81dd-4713-b575-ef0fa1d0552c.jpg"></center>
 
 - **《温暖和百感交集的旅程》**：没有一个作者的写作历史可以长过阅读的历史，就像是没有一种经历能够长过一生一样。所以，余华专门出了一部阅读随笔文集《温暖和百感交集的旅程》。书中记录了余华阅读大师经典作品时的感受，川端康成、卡夫卡、契科夫等等。
 
-![img](https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/5a86833e-bb3e-4afe-97fd-91b970772332.jpg)
+<center><img src="https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/5a86833e-bb3e-4afe-97fd-91b970772332.jpg"></center>
 
 - **《我胆小如鼠》**：我胆小如鼠，但我勤奋工作，我诚实，我富于同情心。而他们胆子很大，但他们懒惰，他们欺骗，他们冷漠。但是，在我们共同生活的这个圈子里，他们赢了，而我失败了。尽管的余华短篇小说有些晦涩、有点意识流，但是却比长篇更深刻，更有猝不及防的思想冲击。
 
-![img](https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/6e0b413d-7bb6-4d63-bcbc-1174f7e312f3.jpg)
+<center><img src="https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/6e0b413d-7bb6-4d63-bcbc-1174f7e312f3.jpg"></center>
 
 - **《鲜血梅花》**：《鲜血梅花》收录了余华早期的中短篇小说。在故事里，余华罕见地使用武侠、传奇的故事形式。相对无奈的现实而言，在荒诞之中带着悲凉，无稽之中蕴藏宿命，甚至还多了一分奇幻色彩。
 
-![img](https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/51f748a6-d768-4318-b8b9-95c07a6b73d0.jpg)
+<center><img src="https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/51f748a6-d768-4318-b8b9-95c07a6b73d0.jpg"></center>
 
 - **《现实一种》**：原本和睦的一家人，却一步步变得疯狂，甚至相互虐杀。尤其是 4 岁的哥哥，竟然对摇篮里的弟弟疯狂虐待。拧脸蛋、扇弟耳光，卡喉咙，直到最后残忍地把弟弟摔死。这种恐怖的感觉，让我们看完仿佛掉进了人性的深渊里，即使拼命挣扎，也无法挣脱。
 
-![img](https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/0634b334-6289-45ca-b82c-32d3fdb83519.jpg)
+<center><img src="https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/0634b334-6289-45ca-b82c-32d3fdb83519.jpg"></center>
 
 - **《音乐影响了我的写作》**：余华是懂音乐的，这里的影响是积极的。因为音乐的叙述和文学的叙述，有时候是高度相似。它们都包含着时间和空间的变化，都传递着情感的喜怒哀乐。不同的是，文学的道路仿佛是在地上延续，而音乐的道路更像是在空中伸展。
 
-![img](https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/5b1b8686-159c-4362-aa82-8f6eac006654.jpg)
+<center><img src="https://yuhua.zjnu.edu.cn/_upload/article/images/85/5e/765ca850465992631762d6afc783/5b1b8686-159c-4362-aa82-8f6eac006654.jpg"></center>
