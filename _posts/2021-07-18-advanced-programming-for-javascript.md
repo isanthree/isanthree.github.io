@@ -16,7 +16,7 @@ keywords: JavaScript 高级程序设计,第4版,pdf,epub,mobi,文字版,下载
 
 ---
 
-<div align="center"><img src="https://upload-images.jianshu.io/upload_images/21383590-f4f169e18775e463.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"/></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/advanced-programming-for-javascript.jpg"/></div>
 
 # 简介
 
