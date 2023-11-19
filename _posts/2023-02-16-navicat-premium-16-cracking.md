@@ -12,7 +12,7 @@ Navicat Premium 16 安装并破解激活图文教程（亲测可行），本文�
 
 - 安装包（navicat161_premium_cs_x64.exe）下载：<https://url03.ctfile.com/f/24333903-976821859-d72301?p=5831> 【访问密码: 5831】，选择【普通下载】
 
-  > 备链：navicat（防.止.河.蟹.）.rar: https://url03.ctfile.com/f/24333903-976831198-d577db?p=5831 【访问密码: 5831】，选择【普通下载】
+  > 备链：navicat（防.止.河.蟹.）.rar: <https://url03.ctfile.com/f/24333903-976831198-d577db?p=5831> 【访问密码: 5831】，选择【普通下载】
 
 - 激活工具（Navicat16-jihuo.rar）下载：<https://url03.ctfile.com/f/24333903-976830325-5edc84?p=5831> 【访问密码: 5831】，选择【普通下载】
 
