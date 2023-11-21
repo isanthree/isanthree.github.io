@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 爱你就像爱生命
-categories: 随笔 读书
+categories: 随笔 读书·见字如面
 description: 关于爱情。
 keywords: 王小波
 ---
