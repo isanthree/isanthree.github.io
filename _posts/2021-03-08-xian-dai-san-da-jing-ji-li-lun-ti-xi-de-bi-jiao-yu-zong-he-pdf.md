@@ -10,6 +10,8 @@ keywords: 现代三大经济理论体系的比较与综合,樊纲,pdf,下载
 现代三大经济理论体系的比较与综合（樊纲）.pdf：https://url03.ctfile.com/f/24333903-977304472-e6eb6c?p=5831 【访问密码: 5831】，选择【普通下载】
 -->
 
+![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/xian-dai-san-da-jing-ji-li-lun-ti-xi-de-bi-jiao-yu-zong-he.jpg](https://picx.zhimg.com/80/v2-aec49facab2bd4489b39481616c15551_720w.jpeg)
+
 # 丛书信息
 
 现代三大经济理论体系的比较与综合（樊纲） pdf，是 2016 年格致出版社出版的图书,作者是樊钢。
