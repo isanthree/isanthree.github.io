@@ -1,16 +1,14 @@
 ---
 layout: post
-title: 分享 | 现代三大经济理论体系的比较与综合（樊纲）PDF
+title: 分享 | 现代三大经济理论体系的比较与综合（樊纲）PDF 下载
 categories: [电子书]
 description: 分享 | 现代三大经济理论体系的比较与综合（樊纲）PDF 下载
 keywords: 现代三大经济理论体系的比较与综合,樊纲,pdf,下载
 ---
 
-<!--
 # 下载地址
 
 现代三大经济理论体系的比较与综合（樊纲）.pdf：https://url03.ctfile.com/f/24333903-977304472-e6eb6c?p=5831 【访问密码: 5831】，选择【普通下载】
--->
 
 ![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/xian-dai-san-da-jing-ji-li-lun-ti-xi-de-bi-jiao-yu-zong-he.jpg](https://picx.zhimg.com/80/v2-aec49facab2bd4489b39481616c15551_720w.jpeg)
 
