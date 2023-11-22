@@ -1,20 +1,18 @@
 ---
 layout: post
-title: 分享 |（柏浪涛）2024 刑法专题讲座精讲 pdf
+title: 分享 |（柏浪涛）2024 刑法专题讲座精讲 pdf 下载
 categories: 法考
-description: 分享 | 2024刑法专题讲座精讲（柏浪涛）pdf
+description: 分享 | 2024刑法专题讲座精讲（柏浪涛）pdf 下载：https://qweree.cn/index.php/151/
 keywords: 法考,电子书,2024柏浪涛刑法专题讲座精讲,柏浪涛,2024刑法专题讲座精讲,pdf,下载
 ---
 
 ![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/https://pic.imgdb.cn/item/655dc620c458853aef4fa951.jpg](https://pic.imgdb.cn/item/655dc620c458853aef4fa951.jpg)
 
-<!--
 # 下载地址
 
 2024 刑法专题讲座精讲（柏浪涛）超高清.pdf: <https://url03.ctfile.com/f/24333903-977850571-20b08b?p=5831> 【访问密码: 5831】，选择【普通下载】
 
 备链：
--->
 
 # 总览
 
