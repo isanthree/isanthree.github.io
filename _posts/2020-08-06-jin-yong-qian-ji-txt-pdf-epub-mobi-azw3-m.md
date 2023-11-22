@@ -1,16 +1,14 @@
 ---
 layout: post
-title: 分享 | 金庸全集武侠小说作品集 txt pdf epub mobi azw3
+title: 分享 | 金庸全集武侠小说作品集 全套共15 部 txt pdf epub mobi azw3
 categories: [小说]
-description: 金庸全集武侠小说作品集（三联版和新修版）txt pdf epub mobi azw3 ：
+description: 金庸全集武侠小说作品集（三联版和新修版）txt pdf epub mobi azw3 ：https://qweree.cn/?p=147
 keywords: 金庸,金庸全集,金庸武侠小说全集,pdf,txt,epub,mobi,azw3,下载
 ---
 
 # 总览
 
 金庸全集武侠小说作品集（三联版和新修版）txt pdf epub mobi azw3 包含：《书剑恩仇录》、《碧血剑》、《射雕英雄传》、《神雕侠侣》、《雪山飞狐》、《飞狐外传》、《倚天屠龙记》、《连城诀》、《天龙八部》、《侠客行》、《笑傲江湖》、《鹿鼎记》、《白马啸西风》、《鸳鸯刀》、《越女剑》共 15 部金庸小说。
-
-<!--
 
 # 总览
 
@@ -75,8 +73,6 @@ keywords: 金庸,金庸全集,金庸武侠小说全集,pdf,txt,epub,mobi,azw3,�
 - 金庸作品《鸳鸯刀》.mobi：https://url03.ctfile.com/f/24333903-977388562-5e2da0?p=5831 【访问密码: 5831】，选择【普通下载】
 
 - 金庸作品《鸳鸯刀》.azw3：https://url03.ctfile.com/f/24333903-977388556-d9149d?p=5831 【访问密码: 5831】，选择【普通下载】
-
--->
 
 # 作者
 
