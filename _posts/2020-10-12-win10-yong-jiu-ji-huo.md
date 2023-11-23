@@ -1,6 +1,6 @@
 ---
 layout: post
-title: win10系统永久激活教程 数字权利一键激活（真正永久激活） 我的win10 就是这样激活的
+title: win10 系统永久激活教程 数字权利一键激活（真正永久激活） 我的win10 就是这样激活的
 categories: [教程]
 description: win10系统永久激活教程 数字权利一键激活（真正永久激活） 我的win10 就是这样激活的
 keywords: win10激活,win10,win10永久激活,win10永久激活教程,激活,永久激活教程
@@ -18,18 +18,19 @@ keywords: win10激活,win10,win10永久激活,win10永久激活教程,激活,永
 
 1、管理员权限打开下载下来的 exe 文件
 
-![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/](https://img2020.cnblogs.com/blog/1944267/202003/1944267-20200317172819415-948883252.png)
+![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/1944267-20200317173128621-1272210593.png](https://pic.imgdb.cn/item/655f76b4c458853aefd3e009.jpg)
 
 2、点击左下方的**激活**，等待激活完成
 
-![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/1944267-20200317203757175-1391784738.png](https://img2020.cnblogs.com/blog/1944267/202003/1944267-20200317203757175-1391784738.png)
+![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/1944267-20200317203757175-1391784738.png](https://pic.imgdb.cn/item/655f76e1c458853aefd4b398.jpg)
 
-![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/1944267-20200317172932411-2139983132.png](https://img2020.cnblogs.com/blog/1944267/202003/1944267-20200317172932411-2139983132.png)
+![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/1944267-20200317172932411-2139983132.png](https://pic.imgdb.cn/item/655f7705c458853aefd55cbd.jpg)
 
-![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/1944267-20200317172957379-1709112592.png](https://img2020.cnblogs.com/blog/1944267/202003/1944267-20200317172957379-1709112592.png)
+![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/1944267-20200317172957379-1709112592.png](https://pic.imgdb.cn/item/655f7747c458853aefd66ef8.jpg)
 
 3、同时按下`win+r`键，在运行窗口输入`slmgr.vbs -xpr`，出现下图，说明永久性激活成功
-![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/1944267-20200317173128621-1272210593.png](https://img2020.cnblogs.com/blog/1944267/202003/1944267-20200317173128621-1272210593.png)
+
+![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/1944267-20200317173128621-1272210593.png](https://pic.imgdb.cn/item/655f77a7c458853aefd827d1.jpg)
 
 # 下载地址
 
