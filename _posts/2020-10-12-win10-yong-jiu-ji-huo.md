@@ -2,7 +2,7 @@
 layout: post
 title: win10 系统永久激活教程 数字权利一键激活（真正永久激活） 我的win10 就是这样激活的
 categories: [教程]
-description: win10系统永久激活教程 数字权利一键激活（真正永久激活） 我的win10 就是这样激活的
+description: win10系统永久激活教程 数字权利一键激活（真正永久激活），教程：https://qweree.cn/index.php/157/
 keywords: win10激活,win10,win10永久激活,win10永久激活教程,激活,永久激活教程
 ---
 
@@ -12,7 +12,11 @@ keywords: win10激活,win10,win10永久激活,win10永久激活教程,激活,永
 
 数字激活算是比密钥激活更好的方法，用的是软件激活
 
-教程如下：
+# 下载地址
+
+[https://tc5.us/file/24333903-433108002](https://tc5.us/file/24333903-433108002)，选择【普通下载】
+
+# 激活步骤
 
 **（无毒，但可能会误报。如果是老手，安装软件经验多的话，应该是见怪不怪了，建议先关了杀毒软件之类的再进行解压使用）**
 
@@ -31,7 +35,3 @@ keywords: win10激活,win10,win10永久激活,win10永久激活教程,激活,永
 3、同时按下`win+r`键，在运行窗口输入`slmgr.vbs -xpr`，出现下图，说明永久性激活成功
 
 ![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/1944267-20200317173128621-1272210593.png](https://pic.imgdb.cn/item/655f77a7c458853aefd827d1.jpg)
-
-# 下载地址
-
-[https://tc5.us/file/24333903-433108002](https://tc5.us/file/24333903-433108002)，选择【普通下载】
