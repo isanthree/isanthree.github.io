@@ -2,11 +2,10 @@
 layout: post
 title: 分享 | 《遥远的救世主》 豆豆 txt pdf epub mobi azw3
 categories: [电子书]
-description: 分享 | 《天道》电视剧同名小说《遥远的救世主》 豆豆 txt pdf epub mobi azw3 下载：
+description: 分享 | 《天道》电视剧同名小说《遥远的救世主》 豆豆 txt pdf epub mobi azw3 下载：https://qweree.cn/index.php/140/
 keywords: 遥远的救世主,豆豆,天道电视剧改编,txt,pdf,epub,mobi,azw3,下载
 ---
 
-<!--
 # 地址
 
 - 《遥远的救世主》 豆豆.txt：<https://url03.ctfile.com/f/24333903-971309785-878b49?p=5831>【访问密码: 5831】，选择【普通下载】
@@ -18,7 +17,6 @@ keywords: 遥远的救世主,豆豆,天道电视剧改编,txt,pdf,epub,mobi,azw3
 - 《遥远的救世主》 豆豆.mobi：<https://url03.ctfile.com/f/24333903-971309779-a5182f?p=5831>【访问密码: 5831】，选择【普通下载】
 
 - 《遥远的救世主》 豆豆.azw3：<https://url03.ctfile.com/f/24333903-971309776-2041dd?p=5831>【访问密码: 5831】，选择【普通下载】
--->
 
 # 内容简介
 
