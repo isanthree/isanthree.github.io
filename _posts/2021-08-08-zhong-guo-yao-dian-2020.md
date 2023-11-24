@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 分享 | 《中国药典》 2020 年版 四部全 PDF
+title: 分享 | 《中国药典》 2020 年版 四部全 PDF 百度网盘 下载
 categories: [医学]
 description: 《中国药典》 2020 年版 四部全 PDF 下载：https://qweree.cn/index.php/155/
 keywords: 中国药典,2020,PDF,下载
@@ -9,6 +9,12 @@ keywords: 中国药典,2020,PDF,下载
 ![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/zhong-guo-yao-dian-2020.png](https://pic.imgdb.cn/item/655f6b2ec458853aef9a5d22.jpg)
 
 # 下载地址
+
+# 主链：
+
+- 百度网盘打包下载：[点我下载](https://pan.baidu.com/s/1Q8urfwYiu9JSH6ddEARsIg?pwd=kjaw)，提取码: kjaw
+
+## 防河蟹备链（速度稍慢，但一定能下载）：
 
 - 《中国药典》 2020 年版 一部.pdf: <https://url03.ctfile.com/f/24333903-546324853-6e7a32?p=5831> 【访问密码: 5831】，选择【普通下载】
 
