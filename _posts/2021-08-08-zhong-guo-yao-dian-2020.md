@@ -12,9 +12,11 @@ keywords: 中国药典,2020,PDF,下载
 
 # 主链：
 
-- 百度网盘打包下载：[点我下载](https://pan.baidu.com/s/1Q8urfwYiu9JSH6ddEARsIg?pwd=kjaw)，提取码: kjaw
+- 百度网盘打包下载：[点我下载](https://pan.baidu.com/s/1Q8urfwYiu9JSH6ddEARsIg?pwd=kjaw)，提取码: kjaw，（四部打包）
 
 ## 防河蟹备链（速度稍慢，但一定能下载）：
+
+- 《中国药典》2020 四部全（无密码）.rar：<https://url03.ctfile.com/f/24333903-978519247-dc0284?p=5831> 【访问密码: 5831】，选择【普通下载】（四部打包）
 
 - 《中国药典》 2020 年版 一部.pdf: <https://url03.ctfile.com/f/24333903-546324853-6e7a32?p=5831> 【访问密码: 5831】，选择【普通下载】
 
