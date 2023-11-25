@@ -2,7 +2,7 @@
 layout: post
 title: 【电子书分享】C++ Primer Plus 中文版（第6版）文字版 PDF EPUB 下载
 categories: [电子书]
-description: 【电子书分享】C++ Primer Plus 中文版（第6版）文字版 PDF EPUB 下载
+description: 【电子书分享】C++ Primer Plus 中文版（第6版）文字版 PDF EPUB 下载：https://qweree.cn/index.php/16/
 keywords: 电子书, C++ Primer Plus, 中文版, 第6版, PDF, EPUB, 下载
 ---
 
@@ -32,6 +32,13 @@ Stephen Prata，在美国加州肯特菲尔得的马林学院教授天文、物�
 
 ### 下载
 
-PDF 版本：<https://url03.ctfile.com/f/24333903-512090902-689205?p=5831>【访问码：5831】，选择**普通下载**
+- **主链** 百度网盘打包下载：[点我下载](https://pan.baidu.com/s/1ARGkkRyhGmHmgRvUscCLVw?pwd=qe3j)，提取码: qe3j
 
-EPUB 版本：<https://url03.ctfile.com/f/24333903-969058957-a05264?p=5831> 【访问码: 5831】，选择**普通下载**
+- **备链** （防。河。蟹。**一定能下载**）
+  <!--
+  PDF 版本：<https://url03.ctfile.com/f/24333903-512090902-689205?p=5831>【访问码：5831】，选择**普通下载**
+  -->
+
+  - PDF 版本：<https://url03.ctfile.com/f/24333903-978946510-c6fbae?p=5831>【访问码：5831】，选择**普通下载**
+
+  - EPUB 版本：<https://url03.ctfile.com/f/24333903-969058957-a05264?p=5831>【访问码: 5831】，选择**普通下载**
