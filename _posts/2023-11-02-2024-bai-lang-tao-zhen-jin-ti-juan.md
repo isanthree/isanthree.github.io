@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 分享 |（柏浪涛）2023专题讲座真金题卷刑法 pdf 下载 （附：柏浪涛　2024 刑法专题讲座精讲 pdf）
+title: 分享 |（柏浪涛）2023 刑法专题讲座真金题卷 pdf 下载 （附：柏浪涛　2024 刑法专题讲座精讲 pdf）
 categories: 法考
 description: 分享 |（柏浪涛）2023 刑法专题讲座真金题卷 pdf 下载　（附：柏浪涛　2024 刑法专题讲座精讲 pdf）
 keywords: 法考,电子书,柏浪涛 2023 刑法专题讲座真金题卷,柏浪涛,pdf,下载
@@ -12,7 +12,7 @@ keywords: 法考,电子书,柏浪涛 2023 刑法专题讲座真金题卷,柏浪�
 
 柏浪涛 2023 专题讲座真金题卷刑法.pdf： <https://url03.ctfile.com/f/24333903-982836319-b8d8c8?p=5831> 【访问密码: 5831】，选择【普通下载】
 
-> **附（柏浪涛）2024 刑法专题讲座精讲 pdf**：<https://qweree.cn/index.php/151/>
+> **附（柏浪涛）2024 刑法专题讲座精讲 pdf**：<https://isanthree.github.io/2023/11/02/2024-bai-lang-tao-jing-jiang-pdf/>
 
 # 总览
 

@@ -6,13 +6,13 @@ description: 分享 | 2024刑法专题讲座精讲（柏浪涛）pdf 下载：ht
 keywords: 法考,电子书,2024柏浪涛刑法专题讲座精讲,柏浪涛,2024刑法专题讲座精讲,pdf,下载
 ---
 
-![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/https://pic.imgdb.cn/item/655dc620c458853aef4fa951.jpg](https://pic.imgdb.cn/item/655dc620c458853aef4fa951.jpg)
+![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/6564380ac458853aef9c47ab.png](https://pic.imgdb.cn/item/6564380ac458853aef9c47ab.png)
 
 # 下载地址
 
 2024 刑法专题讲座精讲（柏浪涛）超高清.pdf: <https://url03.ctfile.com/f/24333903-977850571-20b08b?p=5831> 【访问密码: 5831】，选择【普通下载】
 
-备链：
+> 附：（柏浪涛）2023 专题讲座真金题卷刑法 pdf：<https://isanthree.github.io/2023/11/02/2024-bai-lang-tao-zhen-jin-ti-juan/>
 
 # 总览
 
