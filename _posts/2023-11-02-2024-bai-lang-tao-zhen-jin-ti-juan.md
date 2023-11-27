@@ -1,18 +1,18 @@
 ---
 layout: post
-title: 分享 |（柏浪涛）2023专题讲座真金题卷刑法 pdf 下载
+title: 分享 |（柏浪涛）2023专题讲座真金题卷刑法 pdf 下载 （附：柏浪涛　2024 刑法专题讲座精讲 pdf）
 categories: 法考
-description: 分享 |（柏浪涛）2023 刑法专题讲座真金题卷 pdf 下载
+description: 分享 |（柏浪涛）2023 刑法专题讲座真金题卷 pdf 下载　（附：柏浪涛　2024 刑法专题讲座精讲 pdf）
 keywords: 法考,电子书,柏浪涛 2023 刑法专题讲座真金题卷,柏浪涛,pdf,下载
 ---
 
-![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/655e0045c458853aef1b177d.jpg](https://pic.imgdb.cn/item/655e0045c458853aef1b177d.jpg)
+![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/6564380ac458853aef9c47ab.png](https://pic.imgdb.cn/item/6564380ac458853aef9c47ab.png)
 
 # 下载地址
 
-（柏浪涛）2023 专题讲座真金题卷刑法 + 刑法总体知识框架.pdf：<https://url03.ctfile.com/f/24333903-978174487-e21609?p=5831> 【访问密码: 5831】，选择【普通下载】
+柏浪涛 2023 专题讲座真金题卷刑法.pdf： <https://url03.ctfile.com/f/24333903-982836319-b8d8c8?p=5831> 【访问密码: 5831】，选择【普通下载】
 
-备链：
+> **附（柏浪涛）2024 刑法专题讲座精讲 pdf**：<https://qweree.cn/index.php/151/>
 
 # 总览
 
