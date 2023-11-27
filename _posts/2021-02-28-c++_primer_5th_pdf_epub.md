@@ -25,7 +25,7 @@ C++ Primer（第 5 版）中文版.**epub**：<https://url03.ctfile.com/f/243339
 > - C++ Primer 习题集（第 5 版）完美文字版+完整目录+可复制.pdf: <https://url03.ctfile.com/f/24333903-978331258-19832c?p=5831> 【访问密码: 5831】，选择【普通下载】
 > - C++ Primer 习题集（第 5 版）.epub：<https://url03.ctfile.com/f/24333903-982833043-e2a908?p=5831> 【访问密码: 5831】，选择【普通下载】
 
-![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/cpp-primer-5th.jpg](https://picx.zhimg.com/80/v2-98440b3940e67f861fa387055e033e34_720w.jpeg)
+![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/656432dac458853aef8ae1cf.png](https://pic.imgdb.cn/item/656432dac458853aef8ae1cf.png)
 
 # 书籍信息
 
