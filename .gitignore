@@ -8,6 +8,7 @@ Gemfile.lock
 .vscode/
 .jekyll-metadata
 _posts/3030-template.md
+_posts/3030-template*.md
 
 images.rar
 _drafts-to-post.lnk
