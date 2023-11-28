@@ -59,7 +59,7 @@ keywords: 厚大客观题理论卷,PDF,2023年,下载
 - 2023 法考高晖云讲理论法真题卷.pdf
 - 2023 法考魏建新讲行政法真题卷.pdf
 
-![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/6565f47ec458853aef86e1ec.png](https://pic.imgdb.cn/item/6565f47ec458853aef86e1ec.png)
+![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/656614ecc458853aef1e9489.png](https://pic.imgdb.cn/item/656614ecc458853aef1e9489.png)
 
 ## 下载地址
 
