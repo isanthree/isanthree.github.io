@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 电子书分享 | 同济大学 高等数学 第8版 上册+下册 PDF 百度网盘下载
+title: 电子书分享 | 同济大学 高等数学 第八版 上册+下册 PDF 百度网盘下载
 categories: [books]
-description: 电子书分享 | 同济大学 高等数学 第8版 上册+下册 百度网盘下载：https://qweree.cn/index.php/236/
-keywords: 高等数学第8版,高等数学,同济大学,第8版,上下全册,上册,下册,百度网盘下载
+description: 电子书分享 | 同济大学 高等数学 第八版 上册+下册 百度网盘下载：https://qweree.cn/index.php/236/
+keywords: 高等数学第8版,高等数学,同济大学,第八版,上下全册,上册,下册,百度网盘下载
 ---
 
 # 下载地址
