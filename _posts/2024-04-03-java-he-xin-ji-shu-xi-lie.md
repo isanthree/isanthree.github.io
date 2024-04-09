@@ -12,17 +12,19 @@ keywords: Java核心技术,卷I,卷II,PDF
 
 - 百度网盘下载：[点我下载](https://pan.baidu.com/s/11aVxYT1z5HesgODlOXfNBA?pwd=eipd)，提取码: eipd
 
-  > <p style="color:red" >度盘易河蟹，非常抱歉。若维护不及时，请选择以下备链下载，速度稍慢，但一定能下载。</p>
+  > <p style="color:red" >度盘易河蟹，非常抱歉。若维护不及时，请选择以下各分布备链下载，速度稍慢，但一定能下载。</p>
 
 ## Java 核心技术 卷 I
 
-- Java 核心技术·卷 I：基础知识（原书第 11 版）.pdf: <https://url03.ctfile.com/f/24333903-1051017440-0ccf7e?p=5831> (访问密码: 5831) ，选择【普通下载】
+- Java 核心技术·卷 I：基础知识（原书第 10 版）.pdf **[3f7be902.pdf]**: <https://url03.ctfile.com/f/24333903-1051039730-a9b69d?p=5831> (访问密码: 5831) ，选择【普通下载】
 
-- Java 核心技术·卷 I：开发基础（原书第 12 版）.pdf: <https://url03.ctfile.com/f/24333903-1051021583-2f677e?p=5831> (访问密码: 5831) ，选择【普通下载】
+- Java 核心技术·卷 I：基础知识（原书第 11 版）.pdf **[7c90e73f.pdf]**: <https://url03.ctfile.com/f/24333903-1051017440-0ccf7e?p=5831> (访问密码: 5831) ，选择【普通下载】
+
+- Java 核心技术·卷 I：开发基础（原书第 12 版）.pdf **[f8501f49.pdf]**: <https://url03.ctfile.com/f/24333903-1051021583-2f677e?p=5831> (访问密码: 5831) ，选择【普通下载】
 
 ## Java 核心技术 卷 II
 
--
+- Java 核心技术·卷 II：高级特性（原书第 11 版）.pdf **[a6b5ddb6.pdf]**: <https://url03.ctfile.com/f/24333903-1051041863-a6efda?p=5831> (访问密码: 5831) ，选择【普通下载】
 
 ![](https://pic.imgdb.cn/item/6612476468eb935713c85291.gif)
 
