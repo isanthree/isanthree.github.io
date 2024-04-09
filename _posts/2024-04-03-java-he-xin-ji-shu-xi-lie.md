@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java 核心技术 卷I 卷II PDF 各版本（含最新）网盘下载
-categories: [books], java]
+categories: [books, java]
 description: Java 核心技术 卷I 卷II PDF 各版本（含最新）网盘下载
 keywords: Java核心技术,卷I,卷II,PDF
 ---
