@@ -16,7 +16,7 @@ keywords: IDEA,PyCharm,CLion,永久激活,教程,破解
 
 ## 主链（百度网盘下载，易河蟹）
 
-- Intellij 全家桶激活插件包：[点我下载](hhttps://pan.baidu.com/s/198FXAZ2OXKJMqXIbIjT_Bw?pwd=j2fe)，提取码: j2fe
+- Intellij 全家桶激活插件包：[点我下载](https://pan.baidu.com/s/198FXAZ2OXKJMqXIbIjT_Bw?pwd=j2fe)，提取码: j2fe
 
   > <p style="color:red" >度盘易河蟹，非常抱歉。若维护不及时，请选择以下稳定的分布备链下载，一定能下载。</p>
 
