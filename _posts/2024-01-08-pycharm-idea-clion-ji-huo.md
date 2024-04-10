@@ -16,7 +16,7 @@ keywords: IDEA,PyCharm,CLion,永久激活,教程,破解
 
 ## 主链（百度网盘下载，易河蟹）
 
-- Intellij 全家桶激活插件包：[点我下载](https://pan.baidu.com/s/1DeOdm0g8fPkc71Aw9QzPNw?pwd=t24i)，提取码: t24i
+- Intellij 全家桶激活插件包：[点我下载](hhttps://pan.baidu.com/s/198FXAZ2OXKJMqXIbIjT_Bw?pwd=j2fe)，提取码: j2fe
 
   > <p style="color:red" >度盘易河蟹，非常抱歉。若维护不及时，请选择以下稳定的分布备链下载，一定能下载。</p>
 
@@ -50,5 +50,13 @@ keywords: IDEA,PyCharm,CLion,永久激活,教程,破解
 <center><img src="https://pic.imgdb.cn/item/6615f59868eb93571370e6ba.png"></center>
 
 大功告成！！！尽情享用吧！！！
+
+# 注意事项
+
+特别注意：激活成功后，文件夹不可删除，不可移动。
+
+特殊情况：有部分电脑无法运行 Win.bat；无法打开，闪退等情况。
+
+解决办法：打开 Win 文件夹内的 jetbra 文件夹，运行 install.vbs。
 
 ![](https://pic.imgdb.cn/item/661246bf68eb935713c7f81c.gif)
