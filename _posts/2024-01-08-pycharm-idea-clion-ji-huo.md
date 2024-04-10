@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IDEA、PyCharm、CLion等Intellij全家桶各版本永久激活教程
+title: IDEA、PyCharm、CLion 等 Intellij 全家桶各版本（含最新）永久激活教程
 categories: [software, IDEA, PyCharm, CLion]
 description: IDEA、PyCharm、CLion 各版本永久激活教程
 keywords: IDEA,PyCharm,CLion,永久激活,教程,破解
@@ -10,7 +10,7 @@ keywords: IDEA,PyCharm,CLion,永久激活,教程,破解
 
 准备工作：下载插件包（如果已经下载过可跳过第一步）
 
-<center><img src="https://pic.imgdb.cn/item/6615ebad68eb935713597ffa.png" style="width:70%"></center>
+<center><img src="https://pic.imgdb.cn/item/6615ebad68eb935713597ffa.png"></center>
 
 # 下载地址
 
