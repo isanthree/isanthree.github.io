@@ -10,6 +10,8 @@ keywords: IDEA,PyCharm,CLion,永久激活,教程,破解
 
 准备工作：下载插件包（如果已经下载过可跳过第一步）
 
+<p style="color:red" >插入语：（1）若无法运行 Win.bat，请看最后注意事项；（2）激活成功后，不要删除插件包。</p>
+
 <center><img src="https://pic.imgdb.cn/item/6615ebad68eb935713597ffa.png"></center>
 
 # 下载地址
