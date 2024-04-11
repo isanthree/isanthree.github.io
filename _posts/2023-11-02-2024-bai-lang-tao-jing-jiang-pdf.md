@@ -8,11 +8,31 @@ keywords: 法考,电子书,2024柏浪涛刑法专题讲座精讲,柏浪涛,2024�
 
 ![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/6564380ac458853aef9c47ab.png](https://pic.imgdb.cn/item/6564380ac458853aef9c47ab.png)
 
+![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/6564380ac458853aef9c47ab.png](https://s21.ax1x.com/2024/04/11/pFXG1hj.png)
+
 # 下载地址
 
-2024 刑法专题讲座精讲（柏浪涛）超高清.pdf: <https://url03.ctfile.com/f/24333903-977850571-20b08b?p=5831> 【访问密码: 5831】，选择【普通下载】
+# 下载地址
 
-> 附：（柏浪涛）2023 专题讲座真金题卷刑法 pdf：<https://isanthree.github.io/2023/11/02/2024-bai-lang-tao-zhen-jin-ti-juan/>
+## 主链（百度网盘下载，易河斜）
+
+- 看这里：[点我下载](https://pan.baidu.com/s/1DeOdm0g8fPkc71Aw9QzPNw?pwd=6666)，提取码: 6666
+
+  > <p style="color:red" >度盘易河蟹，非常抱歉。若维护不及时，可以选择下面稳定的分布式备链下载，一定能下载。</p>
+
+## 备链（防河蟹，速度稍慢，主打一个稳定、能下载）
+
+- 2024 刑法专题讲座精讲（柏浪涛）超高清.pdf: <https://url03.ctfile.com/f/24333903-977850571-20b08b?p=5831> （访问密码: 5831），选择【普通下载】
+
+- 2024 柏浪涛《刑法系统强化》柏浪涛讲义.pdf: <https://url03.ctfile.com/f/24333903-1051328155-e7710a?p=5831> (访问密码: 5831) ，选择【普通下载】
+
+- 2024 柏浪涛《刑法真题专练》.pdf: <https://url03.ctfile.com/f/24333903-1051325167-b0bc46?p=5831> (访问密码: 5831) ，选择【普通下载】
+
+## 友链（往年或其他法考资料）
+
+- （柏浪涛）2023 专题讲座真金题卷刑法 pdf：<https://isanthree.github.io/2023/11/02/2024-bai-lang-tao-zhen-jin-ti-juan/>
+
+- 厚大客观题理论卷 + 厚大法考真题卷：<https://isanthree.github.io/2023/08/24/2023-hou-da-ke-guan-ti-li-lun-juan-he-zhen-ti-juan/>
 
 # 总览
 
