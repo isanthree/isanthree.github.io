@@ -1,9 +1,9 @@
 ---
 layout: post
 title: VMware Workstation Pro 17 破解版（内置密钥，不需要注册，直接安装）
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1,keyword2,,,,,,,,,,,,
+categories: [教程, vmware]
+description: VMware Workstation Pro 17 破解版（内置密钥，不需要注册，直接安装）
+keywords: VMware Workstation Pro 17,破解,激活,教程
 ---
 
 # 下载地址
