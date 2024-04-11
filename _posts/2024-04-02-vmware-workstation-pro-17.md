@@ -24,21 +24,21 @@ keywords: keyword1,keyword2,,,,,,,,,,,,
 
 1. 解压缩后，右键安装文件，并使用管理员权限运行。
 
-<center><img src="https://s21.ax1x.com/2024/04/11/pFXfBIe.png" alt="pFXfRqf.png"/></center>
+<center><img src="https://s21.ax1x.com/2024/04/11/pFXfBIe.png" alt="VMware Workstation Pro 17 永久破解教程"/></center>
 
 2. 默认下一步安装，直至出现 “许可证” 界面，可以点进去看一下，已经内置了密钥，再点击 “输入”。
 
-<center><img src="https://s21.ax1x.com/2024/04/11/pFXfRqf.png" alt="pFXfRqf.png"/></center>
+<center><img src="https://s21.ax1x.com/2024/04/11/pFXfRqf.png" alt="VMware Workstation Pro 17 永久破解教程"/></center>
 
-<center><img src="https://s21.ax1x.com/2024/04/12/pFXfTRs.png" alt="pFXfRqf.png"/></center>
+<center><img src="https://s21.ax1x.com/2024/04/12/pFXfTRs.png" alt="VMware Workstation Pro 17 永久破解教程"/></center>
 
 3. 安装完成。
 
-<center><img src="https://s21.ax1x.com/2024/04/12/pFXfqs0.png" alt="pFXfRqf.png"/></center>
+<center><img src="https://s21.ax1x.com/2024/04/12/pFXfqs0.png" alt="VMware Workstation Pro 17 永久破解教程"/></center>
 
 4. 回到桌面运行 vmware，选择状态栏的 “帮助 - 关于 VMware Wrokstation”，查看 vmware 的许可状态。
 
-<center><img src="https://s21.ax1x.com/2024/04/12/pFXfvoF.png" alt="pFXfRqf.png"/></center>
+<center><img src="https://s21.ax1x.com/2024/04/12/pFXfvoF.png" alt="VMware Workstation Pro 17 永久破解教程"/></center>
 
 大功告成！！！尽情享用吧！！！
 
