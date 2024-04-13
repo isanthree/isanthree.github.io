@@ -1,9 +1,9 @@
 ---
 layout: post
-title: （高鸿业）西方经济学 宏观+微观 最新版（含第八版） PDF 电子书
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1,keyword2,,,,,,,,,,,,
+title: （高鸿业）西方经济学 宏观+微观 最新版（含第八版） PDF 电子书 网盘下载
+categories: [books, 经济学]
+description: （高鸿业）西方经济学 宏观+微观 最新版（含第八版） PDF 电子书 网盘下载
+keywords: 西方经济学,宏观,微观,高鸿业,电子书,网盘下载
 ---
 
 <center><img src="https://pic.imgdb.cn/item/661ab4c968eb935713cb6c86.jpg" alt="（高鸿业）西方经济学 宏观+微观 最新版 PDF"></center>
