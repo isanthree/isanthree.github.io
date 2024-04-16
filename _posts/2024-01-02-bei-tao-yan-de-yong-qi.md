@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 被讨厌的勇气 txt PDF epub mobi azw3 电子书
+title: 被讨厌的勇气 txt PDF epub mobi azw3 电子书 网盘下载
 categories: [books]
 description: 被讨厌的勇气 txt PDF epub mobi azw3 电子书 网盘下载
 keywords: 被讨厌的勇气,电子书,PDF,epub,txt,mobi
 ---
 
-<center><img src="https://pic.imgdb.cn/item/661c7f8568eb935713fdc8a6.jpg" alt="此处描述图片信息" width="80%" height="auto"></center>
+<center><img src="https://pic.imgdb.cn/item/661c7f8568eb935713fdc8a6.jpg" alt="被讨厌的勇气"></center>
 
 # 下载地址
 
