@@ -22,7 +22,7 @@ keywords: 系统解剖学,第9版,pdf,电子书,下载
 
 ## 友链
 
-- 人卫医学教材（全）： https://qweree.cn/index.php/197/
+- 人卫医学教材（全）： <https://qweree.cn/index.php/197/>
 
 # 《系统解剖学》简介
 
