@@ -1,10 +1,12 @@
 ---
 layout: post
-title: 06.《系统解剖学》第9版 高清版 全书签 pdf 电子书下载
+title: 06.人卫医学教材《系统解剖学》第9版 高清版 全书签 pdf 电子书下载
 categories: [电子书]
 description: 系统解剖学 第9版 高清版 全书签 pdf 下载
 keywords: 系统解剖学,第9版,pdf,电子书,下载
 ---
+
+![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/systematic-anatomy](https://pica.zhimg.com/80/v2-d566276bee4609855add32116c2cced7_720w.png)
 
 # 下载地址
 
@@ -16,9 +18,11 @@ keywords: 系统解剖学,第9版,pdf,电子书,下载
 
 ## 备链（防河蟹，速度稍慢，但下载稳定啊）
 
-06.系统解剖学 第 9 版 高清版 全书签 pdf 下载：<https://url03.ctfile.com/f/24333903-730539271-f8001a?p=5831> （访问密码：5831），选择【普通下载】
+- 06.系统解剖学 第 9 版 高清版 全书签 pdf 下载：<https://url03.ctfile.com/f/24333903-730539271-f8001a?p=5831> （访问密码：5831），选择【普通下载】
 
-![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/systematic-anatomy](https://pica.zhimg.com/80/v2-d566276bee4609855add32116c2cced7_720w.png)
+## 友链
+
+- 人卫医学教材（全）： https://qweree.cn/index.php/197/
 
 # 《系统解剖学》简介
 
