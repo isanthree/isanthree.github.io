@@ -58,4 +58,4 @@ keywords: 斗罗大陆,唐家三少,电子书,网盘下载
 
 这部作品不仅在文学领域取得了巨大成功，还被改编成了动画、漫画等多种形式，进一步扩大了其影响力。《斗罗大陆 I》的成功为后续作品的创作奠定了坚实的基础。
 
-<div align="center"><img src="https://pic.imgdb.cn/item/661246bf68eb935713c7f81c.gif" alt="感谢！！！"/></div>
+<div align="center"><img src="https://pic.imgdb.cn/item/661246bf68eb935713c7f81c.gif" alt="感谢！！！" width="420px" height="auto"/></div>
