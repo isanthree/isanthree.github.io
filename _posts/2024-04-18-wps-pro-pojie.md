@@ -30,13 +30,15 @@ keywords: WPS,专业版,Pro,注册,破解,激活,教程,2024
 
 <div align="center"><img src="https://s21.ax1x.com/2024/04/18/pFzcAFe.png"></div>
 
-第 3 步：安装完成后，新建一个 Word 文档并打开，，弹出以下授权到期的提醒，关闭，然后点击右上角，选择 “输入序列号”。
+第 3 步：安装完成后，新建一个 Word 文档并打开，弹出以下授权到期的提醒，关闭，然后点击「右上角」，选择 “输入序列号”。
 
 <div align="center"><img src="https://s21.ax1x.com/2024/04/18/pFzcGWj.png"></div>
 
 <div align="center"><img src="https://s21.ax1x.com/2024/04/18/pFzcUO0.png"></div>
 
 第 4 步：输入序列号，可看到如下图所示不再存在限制，点击确认即可激活。
+
+<div align="center"><img src="https://pic.imgdb.cn/item/666c5039d9c307b7e9485e79.png"></div>
 
 <div align="center"><img src="https://s21.ax1x.com/2024/04/18/pFzcWm6.png"></div>
 
