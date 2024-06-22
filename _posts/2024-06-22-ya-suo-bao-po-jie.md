@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 压缩包文件密码破解软件下载及使用教程
+title: 压缩包文件密码破解软件（Ziperello）下载及使用教程
 categories: [教程]
-description: 压缩包文件密码破解软件下载及使用教程：https://qweree.cn/index.php/416/
+description: 压缩包文件密码破解软件（Ziperello）下载及使用教程：https://qweree.cn/index.php/416/
 keywords: 压缩包文件密码破解,使用教程
 ---
 
