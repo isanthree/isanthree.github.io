@@ -2,11 +2,13 @@
 layout: post
 title: 压缩包文件密码破解软件下载及使用教程
 categories: [教程]
-description: 压缩包文件密码破解软件下载及使用教程
+description: 压缩包文件密码破解软件下载及使用教程：https://qweree.cn/index.php/416/
 keywords: 压缩包文件密码破解,使用教程
 ---
 
 使用 Ziperello 对加了密码的压缩包进行密码破解，教程如下：
+
+<p style="color:red" align="center">软件下载地址在文末！！！</p>
 
 第一步，双击运行 `Ziperello双击我打开程序.exe`，如下图：
 
