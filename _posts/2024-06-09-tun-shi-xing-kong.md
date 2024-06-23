@@ -26,6 +26,10 @@ keywords: 吞噬星空,我吃西红柿,电子书,网盘下载
 
 - 我吃西红柿《吞噬星空》校对版全本.azw3: <https://url03.ctfile.com/f/24333903-1269684343-46af94?p=5831> (访问密码: 5831) ，选择【普通下载】
 
+## 友链
+
+- 我吃西红柿《雪鹰领主》校对版全本 txt epub mobi azw3 电子书网盘下载：<https://isanthree.github.io/2024/06/23/xue-ying-ling-zhu/>
+
 <div align="center"><img src="https://pic.imgdb.cn/item/6612476468eb935713c85291.gif" alt="分割线" width="480px" height="auto"/></div>
 
 # 介绍及推荐
