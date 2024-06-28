@@ -2,7 +2,7 @@
 layout: post
 title: 路遥《平凡的世界（全三部）》pdf epub mobi azw3 电子书网盘下载
 categories: [books]
-description: 路遥《平凡的世界（全三部）》pdf epub mobi azw3 电子书网盘下载：
+description: 路遥《平凡的世界（全三部）》pdf epub mobi azw3 电子书网盘下载：https://qweree.cn/index.php/440/
 keywords: 平凡的世界（全三部）,路遥,精校版全本,电子书,网盘下载
 ---
 
