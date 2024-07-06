@@ -6,7 +6,7 @@ description: 小韫《你比星光美丽》校对全本+番外 txt pdf epub mobi
 keywords: 你比星光美丽,小韫,精校版全本,电子书,网盘下载
 ---
 
-<div align="center"><img src="http://qweree.cn/wp-content/uploads/2024/07/ni-bi-xing-guang-mei-li-tuya.jpg" alt="此处描述图片信息" width="300px" height="auto"></div>
+<div align="center"><img src="http://qweree.cn/wp-content/uploads/2024/07/ni-bi-xing-guang-mei-li-tuya.jpg" alt="《你比星光美丽》校对全本+番外电子书" width="300px" height="auto"></div>
 
 # 下载地址
 
