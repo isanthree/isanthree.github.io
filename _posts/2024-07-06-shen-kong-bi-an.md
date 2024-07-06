@@ -25,6 +25,12 @@ keywords: 深空彼岸,辰东,精校版全本,电子书,网盘下载
 
 <div align="center"><img src="https://pic.imgdb.cn/item/6612476468eb935713c85291.gif" alt="分割线" width="480px" height="auto"/></div>
 
+## 友链
+
+- 辰东小说《遮天》txt pdf epub mobi azw3 电子书 网盘下载：<https://qweree.cn/index.php/325/>
+- 完美世界（辰东）txt epub pdf mobi azw3 电子书 网盘下载：<https://qweree.cn/index.php/293/>
+- 辰东《圣墟》精校版（全本+番外）txt pdf epub mobi azw3 电子书网盘下载：<https://qweree.cn/index.php/352/>
+
 # 有感
 
 辰东的《深空彼岸》是一部充满奇幻色彩的科幻小说，它以宏大的宇宙为舞台，讲述了一段跨越星系的冒险旅程。
