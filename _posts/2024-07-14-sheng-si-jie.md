@@ -6,7 +6,7 @@ description: 尹学芸《生死结》精校全本 txt pdf epub mobi azw3 电子�
 keywords: 生死结,尹学芸,精校版全本,电子书,网盘下载
 ---
 
-<div align="center"><img src="http://qweree.cn/wp-content/uploads/2024/07/sheng-si-jie.jpg" alt="此处描述图片信息" width="300px" height="auto"></div>
+<div align="center"><img src="http://qweree.cn/wp-content/uploads/2024/07/sheng-si-jie.jpg" alt="尹学芸《生死结》精校全本电子书" width="300px" height="auto"></div>
 
 # 下载地址
 
