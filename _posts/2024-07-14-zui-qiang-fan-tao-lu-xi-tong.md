@@ -2,7 +2,7 @@
 layout: post
 title: 太上布衣《最强反套路系统》校对版全本 txt epub mobi azw3 电子书网盘下载
 categories: [books]
-description: 太上布衣《最强反套路系统》校对版全本 txt epub mobi azw3 电子书网盘下载：
+description: 太上布衣《最强反套路系统》校对版全本 txt epub mobi azw3 电子书网盘下载：https://qweree.cn/index.php/498/
 keywords: 最强反套路系统,太上布衣,精校版全本,电子书,网盘下载
 ---
 
