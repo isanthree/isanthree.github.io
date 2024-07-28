@@ -52,7 +52,3 @@ keywords: 自私的基因,理查德·道金斯,精校版全本,电子书,网盘�
 《自私的基因》是一本思想深刻、内容丰富的科学著作。它不仅为我们提供了理解生命和进化的新视角，也激发了我们对人类行为和社会组织的深入思考。尽管存在争议，但这本书无疑为我们打开了一扇探索生命奥秘的大门。
 
 <div align="center"><img src="https://pic.imgdb.cn/item/661246bf68eb935713c7f81c.gif" alt="感谢！！！" width="420px" height="auto"/></div>
-
-<div align="center"><img src="https://pic.imgdb.cn/item/661a35e868eb93571333b3c3.gif" alt="感谢！！！" width="420px" height="auto"/></div>
-
-<!--https://www.gaoding.com/editor/design?id=27912732129277957&mode=user-->
