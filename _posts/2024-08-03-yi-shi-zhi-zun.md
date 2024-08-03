@@ -6,7 +6,7 @@ description: 爱潜水的乌贼《一世之尊》精校全本 txt epub mobi azw3
 keywords: 一世之尊,爱潜水的乌贼,精校版全本,电子书,网盘下载
 ---
 
-<div align="center"><img src="https://qweree.cn/wp-content/uploads/2024/08/yi-shi-zhi-zun-tuya.jpg" alt="此处描述图片信息" width="300px" height="auto"></div>
+<div align="center"><img src="https://qweree.cn/wp-content/uploads/2024/08/yi-shi-zhi-zun-tuya.jpg" alt="爱潜水的乌贼《一世之尊》精校全本 txt epub mobi azw3 电子书" width="300px" height="auto"></div>
 
 # 下载地址
 
