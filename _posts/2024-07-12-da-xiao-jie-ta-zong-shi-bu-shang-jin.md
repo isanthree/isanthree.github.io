@@ -6,7 +6,7 @@ description: 燕小陌《大姐她总是不求上进》精校全本 txt epub mob
 keywords: 燕小陌,大姐她总是不求上进,精校版全本,电子书,网盘下载
 ---
 
-<div align="center"><img src="http://qweree.cn/wp-content/uploads/2024/07/15576.webp" alt="燕小陌《大姐她总是不求上进》电子书" width="300px" height="auto"></div>
+<div align="center"><img src="https://qweree.cn/wp-content/uploads/2024/08/da-xiao-jie-ta-zong-shi-bu-qiu-shang-jin-tuya.jpg" alt="燕小陌《大姐她总是不求上进》电子书" width="300px" height="auto"></div>
 
 # 下载地址
 
