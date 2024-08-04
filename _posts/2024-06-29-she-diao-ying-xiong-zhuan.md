@@ -36,6 +36,8 @@ keywords: 射雕英雄传,金庸,精校版全本,电子书,网盘下载
 
 ## 友链
 
+- 金庸《天龙八部（三联版+新修版）》精校全本 txt pdf epub mobi azw3 下载：<https://qweree.cn/index.php/555/>
+
 - 金庸全集武侠小说 全套共 15 部 txt pdf epub mobi azw3 下载：<https://qweree.cn/index.php/147/>
 
 <div align="center"><img src="https://pic.imgdb.cn/item/6612476468eb935713c85291.gif" alt="分割线" width="480px" height="auto"/></div>
