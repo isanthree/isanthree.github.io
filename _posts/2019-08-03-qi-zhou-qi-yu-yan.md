@@ -10,9 +10,9 @@ keywords: 七周七语言,理解多种编程范型
 
 七周七语言：理解多种编程范型 pdf 下载
 
-- 百度网盘：[点我下载](https://pan.baidu.com/s/1RJYAeCaNEYVvJ0-eQPAMgg?pwd=63kp)，提取码: 63kp
+- 百度网盘：[点我下载](https://pan.baidu.com/s/1RJYAeCaNEYVvJ0-eQPAMgg?pwd=kikp)，提取码: kikp
 
-- 防河蟹备链（稍慢，但一定能下载）：<https://tc5.us/file/24333903-432823516?p=5831>【访问密码: 5831】，选择【普通下载】
+- 防河蟹备链（稍慢，但一定能下载）：<https://url03.ctfile.com/f/24333903-432823516-d1bb6d?p=5831>【访问密码: 5831】，选择【普通下载】
 
 # 内容提要
 
@@ -20,4 +20,4 @@ keywords: 七周七语言,理解多种编程范型
 
 本书适合从事程序设计工作的人员阅读。
 
-![https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/65602b91c458853aef8735eb.jpg](https://pic.imgdb.cn/item/65602b91c458853aef8735eb.jpg)
+<div align="center"><img src="https://pic.imgdb.cn/item/65602b91c458853aef8735eb.jpg" alt="此处描述图片信息" width="300px" height="auto"></div>

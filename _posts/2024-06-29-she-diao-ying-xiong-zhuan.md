@@ -6,7 +6,7 @@ description: 金庸《射雕英雄传》精校（三联版+新修版）txt pdf e
 keywords: 射雕英雄传,金庸,精校版全本,电子书,网盘下载
 ---
 
-<div align="center"><img src="http://qweree.cn/wp-content/uploads/2024/06/she-diao-ying-xiong-zhuan-tuya.jpg" alt="此处描述图片信息" width="300px" height="auto"></div>
+<div align="center"><img src="http://qweree.cn/wp-content/uploads/2024/06/she-diao-ying-xiong-zhuan-tuya.jpg" alt="金庸《射雕英雄传》精校（三联版+新修版）电子书" width="300px" height="auto"></div>
 
 # 下载地址
 
