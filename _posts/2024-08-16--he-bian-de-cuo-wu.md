@@ -6,7 +6,7 @@ description: some word here
 keywords: 河边的错误,余华,精校版全本,电子书,网盘下载
 ---
 
-<div align="center"><img src="XXX" alt="此处描述图片信息" width="300px" height="auto"></div>
+<div align="center"><img src="http://qweree.cn/wp-content/uploads/2024/08/he-bian-de-cuo-wu-tuya.jpg" alt="余华《河边的错误》精校全本电子书" width="300px" height="auto"></div>
 
 # 下载地址
 
