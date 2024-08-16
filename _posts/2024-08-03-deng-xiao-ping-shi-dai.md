@@ -12,13 +12,13 @@ keywords: 邓小平时代,傅高义,精校版全本,电子书,网盘下载
 
 ## 主链（百度网盘下载，易,河,斜）
 
-- 看这里：[点我下载](https://pan.baidu.com/s/1iMXUbSbtZQZjDcqDmnWUyw?pwd=k3e2)，提取码: k3e2
+- 看这里：[点我下载](https://pan.baidu.com/s/1iMXUbSbtZQZjDcqDmnWUyw?pwd=iask)，提取码: iask
 
   > <p style="color:red" >度盘易,河,蟹，非常抱歉。精力有限，若维护不及时，可以选择下面稳定的备链下载。（或留言让博主补链）</p>
 
 ## 备链（防,河,蟹，速度稍慢，但下载稳定啊）
 
-- 傅高义《邓小平时代》精装.**pdf**: <https://url03.ctfile.com/f/24333903-1339363345-c8c2f1?p=5831>（访问密码: 5831），选择【普通下载】
+- 傅高义《邓小平时代》精装.**pdf**（ionbccineoc.rar）: <https://url03.ctfile.com/f/24333903-1342366393-b4d863?p=5831>（访问密码: 5831），选择【普通下载】（**压缩包密码：joapcn_djeacm.**）
 - 傅高义《邓小平时代》精装.**epub**: <https://url03.ctfile.com/f/24333903-1339356376-6dad12?p=5831>（访问密码: 5831），选择【普通下载】
 - 傅高义《邓小平时代》精装.**mobi**: <https://url03.ctfile.com/f/24333903-1339356379-ae2ae7?p=5831>（访问密码: 5831），选择【普通下载】
 - 傅高义《邓小平时代》精装.**azw3**: <https://url03.ctfile.com/f/24333903-1339356364-adec70?p=5831>（访问密码: 5831），选择【普通下载】
