@@ -6,8 +6,6 @@ description: some word here
 keywords: 张爱玲经典小说集,精校版全本,电子书,网盘下载
 ---
 
-</div>
-
 <div align="center"><img src="https://qweree.cn/wp-content/uploads/2024/08/zhang-ai-ling-jing-dian-xiao-shuo-ji-tuya.jpg" alt="张爱玲经典小说集 （全五卷）" width="300px" height="auto"></div>
 
 **张爱玲经典小说集 (全五卷)，包含《倾城之恋》、《红玫瑰与白玫瑰》、《怨女》、《半生缘》、《小团圆》。**
