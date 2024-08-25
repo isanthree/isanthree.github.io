@@ -25,6 +25,6 @@ keywords: 笑傲江湖,金庸,精校版全本,电子书,网盘下载
 
 ## 友链
 
-- 金庸全集武侠小说 全套共 15 部 txt pdf epub mobi azw3 电子书下载：<https://isanthree.github.io/2020/08/06/jin-yong-quan-ji>
+- 金庸全集武侠小说 全套共 15 部 txt pdf epub mobi azw3 电子书下载：<https://isanthree.github.io/2020/08/06/jin-yong-qian-ji-txt-pdf-epub-mobi-azw3-m/>
 
 <div align="center"><img src="https://pic.imgdb.cn/item/661246bf68eb935713c7f81c.gif" alt="感谢！！！" width="420px" height="auto"/></div>
