@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《经济学的思维方式》原书第13版 PDF 电子书网盘下载
-categories: [cate1, cate2]
+categories: [books]
 description: 《经济学的思维方式》原书第13版 PDF 电子书网盘下载：https://qweree.cn/index.php/350/
 keywords: 经济学的思维方式,原书第13版,PDF,电子书,网盘下载
 ---

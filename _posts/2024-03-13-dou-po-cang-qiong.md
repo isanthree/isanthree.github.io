@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 天蚕土豆《斗破苍穹》精校版全本 txt pdf epub mobi azw3 电子书网盘下载
-categories: [cate1, cate2]
+categories: [books]
 description: 天蚕土豆《斗破苍穹》精校版全本 txt pdf epub mobi azw3 电子书网盘下载：https://qweree.cn/index.php/354/
 keywords: 斗破苍穹,天蚕土豆,电子书,百度网盘
 ---
