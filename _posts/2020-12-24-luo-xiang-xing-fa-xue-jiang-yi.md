@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 罗翔《刑法学讲义》精装 pdf epub mobi azw3 电子书网盘下载
-categories: [cate1, cate2]
+categories: [books]
 description: 罗翔《刑法学讲义》精装 pdf epub mobi azw3 电子书网盘下载
 keywords: 刑法学讲义,罗翔,pdf,epub,电子书下载
 ---
