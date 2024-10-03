@@ -8,9 +8,9 @@ keywords: Revo Uninstaller Pro,破解,安装教程
 
 # 下载地址
 
-- Revo Uninstaller Pro 百度网盘下载：[点我下载](https://pan.baidu.com/s/10gWpIEvzcIIyzMYHAKSTDQ?pwd=6263) 提取码: 6263
+- Revo Uninstaller Pro 百度网盘下载：[点我下载](https://pan.baidu.com/s/10gWpIEvzcIIyzMYHAKSTDQ?pwd=lomj) 提取码: lomj
 
-- 防河蟹备链：<https://tc5.us/file889/24333903-427536640?p=5831>（访问码：5831），选择【普通下载】
+- 防河蟹备链：<https://url03.ctfile.com/f/24333903-427536640-da3b4f?p=5831>（访问码：5831），选择【普通下载】
 
 Revo Uninstaller Pro 中文特别版 是专业软件卸载工具。大家都知道 Windows 在卸载软件时总是不够彻底，系统 C 盘总会留下大量难以辨别和清理的垃圾文件和临时文件，时间长了注册表也会变得非常臃肿，不仅浪费硬盘空间，而且也会明显拖慢系统响应和启动速度。
 
