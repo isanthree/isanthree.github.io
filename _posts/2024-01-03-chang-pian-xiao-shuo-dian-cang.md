@@ -6,7 +6,7 @@ description: 《新中国70年长篇小说典藏》 pdf epub mobi 电子书 百�
 keywords: 新中国70年长篇小说典藏,pdf,epub,mobi,电子书,网盘下载
 ---
 
-<div align="center"><img src="http://qweree.cn/wp-content/uploads/2024/05/PixPin_2024-05-08_23-44-34-tuya.webp" alt="此处描述图片信息"></div>
+<div align="center"><img src="http://qweree.cn/wp-content/uploads/2024/05/PixPin_2024-05-08_23-44-34-tuya.webp" alt="此处描述图片信息" width="300px" height="auto">></div>
 
 # 下载地址
 
@@ -18,13 +18,10 @@ keywords: 新中国70年长篇小说典藏,pdf,epub,mobi,电子书,网盘下载
 
 ## 备链（防河蟹，速度稍慢，但下载稳定啊）
 
-- 《新中国 70 年长篇小说典藏》.epub: <https://url03.ctfile.com/f/24333903-1243156274-731b3d?p=5831> (访问密码: 5831) ，选择【普通下载】
-
-- 《新中国 70 年长篇小说典藏》.mobi: <https://url03.ctfile.com/f/24333903-1243156472-c7714f?p=5831> (访问密码: 5831) ，选择【普通下载】
-
-- 《新中国 70 年长篇小说典藏》.pdf: <https://url03.ctfile.com/f/24333903-1243163897-a003cb?p=5831> (访问密码: 5831)，选择【普通下载】
-
-![分割线](https://pic.imgdb.cn/item/6612476468eb935713c85291.gif)
+- 《新中国 70 年长篇小说典藏》.**epub**：<https://url03.ctfile.com/f/24333903-1243156274-731b3d?p=5831>（访问密码：5831），选择【普通下载】
+- 《新中国 70 年长篇小说典藏》.**mobi**：<https://url03.ctfile.com/f/24333903-1243156472-c7714f?p=5831>（访问密码：5831），选择【普通下载】
+- 《新中国 70 年长篇小说典藏》.**pdf**：<https://url03.ctfile.com/f/24333903-1243163897-a003cb?p=5831>（访问密码：5831），选择【普通下载】
+- 《新中国 70 年长篇小说典藏》.**azw3**：<https://url03.ctfile.com/f/24333903-1380792631-284d2b?p=5831>（访问密码：5831），选择【普通下载】
 
 # 《新中国 70 年长篇小说典藏》简介
 
@@ -116,4 +113,4 @@ keywords: 新中国70年长篇小说典藏,pdf,epub,mobi,电子书,网盘下载
 
 铁道游击队 知侠著著
 
-<div align="center"><img src="https://pic.imgdb.cn/item/661a35e868eb93571333b3c3.gif"/></div>
+<div align="center"><img src="https://pic.imgdb.cn/item/661246bf68eb935713c7f81c.gif" alt="感谢！！！" width="420px" height="auto"/></div>
