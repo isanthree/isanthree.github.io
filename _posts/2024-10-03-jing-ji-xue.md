@@ -22,6 +22,6 @@ keywords: 经济学,萨缪尔森,精校版全本,电子书,网盘下载
 
 ## 友链
 
-- 萨缪尔森《微观经济学（第 19 版）学习指南》.**pdf**：<https://qweree.cn/index.php/971/>
+- 萨缪尔森《微观+宏观 经济学（第 19 版）学习指南》.**pdf**：<https://qweree.cn/index.php/971/>
 
 <div align="center"><img src="https://pic.imgdb.cn/item/661246bf68eb935713c7f81c.gif" alt="感谢！！！" width="420px" height="auto"/></div>

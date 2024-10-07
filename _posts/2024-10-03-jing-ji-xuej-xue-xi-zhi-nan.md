@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 萨缪尔森《微观经济学（第19版）学习指南》 pdf 电子书网盘下载
+title: 萨缪尔森《微观+宏观 经济学 学习指南》（第19版） pdf 电子书网盘下载
 categories: [books]
 description: some word here
-keywords: 微观经济学（第19版）学习指南,萨缪尔森,精校版全本,电子书,网盘下载
+keywords: 经济学学习指南,萨缪尔森,第19版,电子书,网盘下载
 ---
 
-<div align="center"><img src="https://qweree.cn/wp-content/uploads/2024/10/wei-guan-jing-ji-xuej-xue-xi-zhi-nan.jpg" alt="萨缪尔森《微观经济学（第19版）学习指南》 pdf 电子书网盘下载" width="300px" height="auto"></div>
+<div align="center"><img src="https://qweree.cn/wp-content/uploads/2024/10/jing-ji-xue-xue-xi-zhi-nan.png" alt="萨缪尔森《微观经济学学习指南》（第19版） pdf 电子书网盘下载" width="300px" height="auto"></div>
 
 # 下载地址
 
@@ -18,6 +18,7 @@ keywords: 微观经济学（第19版）学习指南,萨缪尔森,精校版全本
 
 ## 备链（防,河,蟹，速度稍慢，但下载稳定啊）
 
+- 萨缪尔森《宏观经济学（第 19 版）学习指南》.**pdf**：<https://url03.ctfile.com/f/24333903-1380805912-19d822?p=5831>（访问密码：5831），选择【普通下载】
 - 萨缪尔森《微观经济学（第 19 版）学习指南》.**pdf**：<https://url03.ctfile.com/f/24333903-1380065287-590a79?p=5831>（访问密码：5831），选择【普通下载】
 
 ## 友链
