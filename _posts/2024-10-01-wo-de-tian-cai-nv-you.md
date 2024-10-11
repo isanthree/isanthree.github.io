@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 那不勒斯四部曲合集《我的天才女友》精校 pdf epub mobi azw3 电子书网盘下载
+title: 那不勒斯四部曲《我的天才女友》精校 pdf epub mobi azw3 电子书网盘下载
 categories: [books]
 description: some word here
 keywords: 我的天才女友,精校版全本,电子书,网盘下载
