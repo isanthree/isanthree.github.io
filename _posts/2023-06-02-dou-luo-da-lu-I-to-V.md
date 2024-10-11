@@ -10,6 +10,8 @@ keywords: 斗罗大陆系列（五部全）,唐家三少,电子书,网盘下载
 
 ## 友链
 
+- 《斗罗大陆外传：神界传说》唐家三少（校对版全本）txt pdf epub mobi azw3 电子书网盘下载：<https://isanthree.github.io/2023/06/02/dou-luo-da-lu-wai-zhuan/>
+
 ## 主链（百度网盘下载，易,河,斜）
 
 - 看这里：[点我下载](https://pan.baidu.com/s/1qZRtufNxueSwGGkzsLIB5A?pwd=dvge)，提取码: dvge
@@ -69,10 +71,6 @@ keywords: 斗罗大陆系列（五部全）,唐家三少,电子书,网盘下载
 - 唐家三少《斗罗大陆 V 重生唐三》精校版全本.mobi: <https://url03.ctfile.com/f/24333903-1269308570-9052a1?p=5831> (访问密码: 5831) ，选择【普通下载】
 
 - 唐家三少《斗罗大陆 V 重生唐三》精校版全本.azw3: <https://url03.ctfile.com/f/24333903-1269308423-97177e?p=5831> (访问密码: 5831) ，选择【普通下载】
-
-# 友链
-
-- 《斗罗大陆外传：神界传说》唐家三少（校对版全本）txt pdf epub mobi azw3 电子书网盘下载：<https://isanthree.github.io/2023/06/02/dou-luo-da-lu-wai-zhuan/>
 
 # 简介
 
