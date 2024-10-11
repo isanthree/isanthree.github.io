@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 《Web性能权威指南》文字版 PDF 电子书网盘下载
+title: 《Web安全开发指南》文字版 PDF 电子书网盘下载
 categories: [books]
 description: some word here
-keywords: Web性能权威指南,文字版,PDF,电子书,网盘下载
+keywords: Web安全开发指南,文字版,PDF,电子书,网盘下载
 ---
 
-<div align="center"><img src="https://pic.imgdb.cn/item/670633dad29ded1a8c7b0b53.png" alt="《Web性能权威指南》文字版 PDF 电子书网盘下载" width="300px" height="auto"></div>
+<div align="center"><img src="https://pic.imgdb.cn/item/6706352cd29ded1a8c7c3e02.png" alt="《Web安全开发指南》文字版 PDF 电子书网盘下载" width="300px" height="auto"></div>
 
 # 下载地址
 
 ## 主链（百度网盘下载，易,河,斜）
 
-- 看这里：[点我下载](https://pan.baidu.com/s/1iMXUbSbtZQZjDcqDmnWUyw?pwd=afdb)，提取码: afdb
+- 看这里：[点我下载](https://pan.baidu.com/s/1iMXUbSbtZQZjDcqDmnWUyw?pwd=aoln)，提取码: aoln
 
   > <p style="color:red" >度盘易,河,蟹，非常抱歉。精力有限，若维护不及时，可以选择下面稳定的备链下载。（或留言让博主补链）</p>
 
 ## 备链（防,河,蟹，速度稍慢，但下载稳定啊）
 
-- Web 性能权威指南.**pdf**：<https://url03.ctfile.com/f/24333903-1382196190-85bb74?p=5831>（访问密码：5831），选择【普通下载】
+- Web 安全开发指南.**pdf**：<https://url03.ctfile.com/f/24333903-1382196172-5b9155?p=5831>（访问密码：5831），选择【普通下载】
 
 ## 友链
 
