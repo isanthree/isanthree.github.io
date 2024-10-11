@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《不做告别》韩江 pdf epub mobi azw3 电子书网盘下载
+title: 《不做告别》韩江（诺奖得主）pdf epub mobi azw3 电子书网盘下载
 categories: [books]
 description: some word here
 keywords: 不做告别,韩江,精校版全本,电子书,网盘下载

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《把晚餐放进抽屉》韩江诗集[精排] pdf epub mobi azw3 电子书网盘下载
+title: 《把晚餐放进抽屉》韩江（诺奖得主）诗集[精排] pdf epub mobi azw3 电子书网盘下载
 categories: [books]
 description: some word here
 keywords: 把晚餐放进抽屉,韩江诗集,精校版全本,电子书,网盘下载
