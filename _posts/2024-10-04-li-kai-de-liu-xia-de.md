@@ -23,4 +23,8 @@ keywords: 离开的，留下的,那不勒斯四部曲,精校版全本,电子书,
 - 那不勒斯四部曲《离开的，留下的》精排.**mobi**：<https://url03.ctfile.com/f/24333903-1380135520-636c17?p=5831>（访问密码：5831），选择【普通下载】
 - 那不勒斯四部曲《离开的，留下的》精排.**azw3**：<https://url03.ctfile.com/f/24333903-1380135511-68d966?p=5831>（访问密码：5831），选择【普通下载】
 
+# 友链
+
+- 那不勒斯四部曲合集（《我的天才女友》《新名字的故事》《离开的，留下的》《失踪的孩子》） pdf + epub + mobi + azw3 下载：<https://isanthree.github.io/2024/10/11/na-bu-le-si-si-bu-qu/>
+
 <div align="center"><img src="https://pic.imgdb.cn/item/661246bf68eb935713c7f81c.gif" alt="感谢！！！" width="420px" height="auto"/></div>
