@@ -22,7 +22,7 @@ keywords: 终身学习与认知升级,精校版全本,电子书,网盘下载
 
 《刻意练习：如何成为一个高手》
 
-<div align="center"><img src="https://qweree.cn/wp-content/uploads/2024/10/zhong-shen-xue-xi-yu-ren-zhi-sheng-ji-tuya.jpg" alt="《终身学习与认知升级》电子书" width="300px" height="auto"></div>
+<div align="center"><img src="https://s21.ax1x.com/2024/10/13/pAtSovV.png" alt="zhong-shen-xue-xi-yu-ren-zhi-sheng-ji-tuya.jpg" width="300px" height="auto"></div>
 
 # 下载地址
 
