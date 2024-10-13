@@ -26,4 +26,4 @@ keywords: 域名配置
 
 如下图，添加完后，可以进行 “生效检测”，自己去测吧，不写了
 
-![image-20231114085047984](https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/image-20231114085047984.png)
+![image-20231114085047984](https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/image-20231114085047984-1.png)
