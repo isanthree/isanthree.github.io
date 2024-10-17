@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 莫言《生死疲劳》精校全本 pdf epub mobi azw3 电子书网盘下载
+title: 莫言《生死疲劳》精校全本 txt pdf epub mobi azw3 电子书网盘下载
 categories: [books]
 description: some word here
 keywords: 生死疲劳,莫言,精校版全本,电子书,网盘下载
@@ -18,6 +18,7 @@ keywords: 生死疲劳,莫言,精校版全本,电子书,网盘下载
 
 ## 备链（防,河,蟹，速度稍慢，但下载稳定啊）
 
+- 莫言《生死疲劳》实体版全本.**txt**：<https://url03.ctfile.com/f/24333903-1383846877-e0c61d?p=5831>（访问密码：5831），选择【普通下载】
 - 莫言《生死疲劳》精校全本.**pdf**：<https://url03.ctfile.com/f/24333903-1345269305-7e1cce?p=5831>（访问密码：5831），选择【普通下载】
 - 莫言《生死疲劳》精校全本.**epub**：<https://url03.ctfile.com/f/24333903-1345269296-74ee82?p=5831>（访问密码：5831），选择【普通下载】
 - 莫言《生死疲劳》精校全本.**mobi**：<https://url03.ctfile.com/f/24333903-1345269299-146b7e?p=5831>（访问密码：5831），选择【普通下载】
