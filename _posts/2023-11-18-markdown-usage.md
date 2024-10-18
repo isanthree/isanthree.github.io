@@ -6,14 +6,18 @@ description: Markdown 常用语句
 keywords: Markdown
 ---
 
-  
-
 # 贴图
 
 对图片加以控制（居中，宽：65 长：75）：
 
 ```html
-<div align="center"><img width="65" height="75" src="https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/title.ico"/></div>
+<div align="center">
+  <img
+    width="65"
+    height="75"
+    src="https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/title.ico"
+  />
+</div>
 ```
 
 效果：
@@ -22,11 +26,15 @@ keywords: Markdown
 src="https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/title.ico"/>
 </div>
 
-
 或
 
 ```html
-<center><img src="https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/title.ico" style="width:7%"></center>
+<center>
+  <img
+    src="https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/title.ico"
+    style="width:7%"
+  />
+</center>
 ```
 
 效果：
@@ -45,3 +53,14 @@ src="https://cdn.jsdelivr.net/gh/isanthree/blog-gallery/pic/title.ico"/>
 
 &emsp;&emsp;hello world!
 
+# 字体调整大小、红色居中
+
+```html
+<div align="center" style="font-size:20px;color:red;">
+  字体大小调整为 20px、红色居中！
+</div>
+```
+
+效果：
+
+<div align="center" style="font-size:20px;color:red;">字体大小调整为 20px、红色居中！</div>
