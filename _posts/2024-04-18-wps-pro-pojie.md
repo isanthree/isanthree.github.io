@@ -6,7 +6,9 @@ description: WPS Pro 专业版注册破解激活教程（2024年）
 keywords: WPS,专业版,Pro,注册,破解,激活,教程,2024
 ---
 
-<div align="center"><img src="https://s21.ax1x.com/2024/04/18/pFzgt4e.png" alt="WPS 2019 Pro" width="400px" height="auto"></div>
+<div style="color:red">2024 年 10 月 21 日更新，强烈推荐大家转到文末友链使用 <a href="https://isanthree.github.io/2024/10/21/wps2023-365/">WPS2023/WPS365 专业增强版</a>，已内置永久激活码破解版，一键安装即可使用，超级简单方便，不需要再重新激活。去广告、去升级，纯净无广告，且可登录帐号。你想要的功能都有！！！强烈推荐使用！！！</div><br/>
+
+<div align="center"><img src="https://s21.ax1x.com/2024/04/18/pFzgt4e.png" alt="WPS 2019 Pro" width="400px" height="auto"></div><br/>
 
 # 下载地址
 
@@ -19,8 +21,6 @@ keywords: WPS,专业版,Pro,注册,破解,激活,教程,2024
 ## 备链（防河蟹，速度稍慢，但下载稳定啊）
 
 - WPS 激活专业版（无密码）.rar: <https://url03.ctfile.com/f/24333903-1057708597-6fa097?p=5831>（访问码：5831），选择**普通下载**
-
-![分割线](https://pic.imgdb.cn/item/6612476468eb935713c85291.gif)
 
 # 安装及激活步骤
 
