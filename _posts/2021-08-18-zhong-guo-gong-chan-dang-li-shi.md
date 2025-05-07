@@ -13,6 +13,7 @@ keywords: 中国共产党历史,精校版全本,电子书,网盘下载
 > <p style="color:red" >无套路，可用，速度稍慢，但下载稳定</p>
 
 - 《中国共产党历史[1921-1978]》[套装共 2 册]（zgls.rar）：<https://url03.ctfile.com/f/24333903-1342822766-1c9ed7?p=5831>（访问密码：5831），选择【普通下载】
-  > 压缩包密码：**hkvbsudbfrehj*vaufkkbv***
+
+  > 压缩包密码：`hkvbsudbfrehj_vaufkkbv_`
 
 <div align="center"><img src="https://pic.imgdb.cn/item/661246bf68eb935713c7f81c.gif" alt="感谢！！！" width="420px" height="auto"/></div>
