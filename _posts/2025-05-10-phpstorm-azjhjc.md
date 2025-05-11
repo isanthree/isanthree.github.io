@@ -25,7 +25,7 @@ keywords: PhpStorm,安装激活,教程
 
 <div align="center"><img src="https://qweree.cn/wp-content/uploads/2025/05/phpstorm2024-3.png" alt="此处描述图片信息"></div>
 
-4、下载【激活脚本】 `JetBrain 激活码-Win 系统.rar` 并解压到任意位置，然后双击 `install-all-users.vbs` 运行脚本；
+4、下载【激活脚本】 `JetBrain 激活码-Win 系统.rar` 并解压到任意位置，然后双击 `PhpStorm激活.vbs` 运行脚本；
 
 <div align="center"><img src="https://qweree.cn/wp-content/uploads/2025/05/phpstorm2024-4.2.png" alt="此处描述图片信息"></div>
 
