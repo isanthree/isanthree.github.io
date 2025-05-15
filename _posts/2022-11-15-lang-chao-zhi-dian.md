@@ -20,7 +20,7 @@ keywords: 电子书, 浪潮之巅, 第四版, 吴军, pdf, epub, 下载
 
 - **txt**.rar：<https://url03.ctfile.com/f/24333903-1503559501-2cb27e?p=5831>（访问密码：5831），选择【普通下载】
 
-> 压缩包解压密码：`sdvdftg_dsv_`
+> <p style="color:red" >压缩包解压密码：sdvdftg_dsv_</p>
 
 # 内容简介
 
