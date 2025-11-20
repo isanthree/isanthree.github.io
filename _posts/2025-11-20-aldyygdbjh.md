@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [经典原著]奥兰多·译言古登堡计划（[英]弗吉尼亚•伍尔夫〔著〕）校对版全本 pdf,epub,mobi,azw3 电子书下载
+title: 【经典原著】奥兰多·译言古登堡计划（[英]弗吉尼亚•伍尔夫〔著〕）校对版全本 pdf,epub,mobi,azw3 电子书下载
 categories: [books]
 description: some word here
 keywords: 奥兰多·译言古登堡计划,校对全本,电子书下载
