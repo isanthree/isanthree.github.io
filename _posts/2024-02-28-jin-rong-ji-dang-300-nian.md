@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 金融激荡300年 瀛洲客 PDF epub mobi azw3 网盘下载
-categories: [经济-金融, book]
+categories: [经济-金融, books]
 description: 金融激荡300年 瀛洲客 PDF epub mobi azw3 网盘下载
 keywords: 金融激荡300年,经济,金融
 ---
